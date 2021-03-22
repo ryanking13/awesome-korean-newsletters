@@ -1,4 +1,4 @@
-# Awesome Korean Newslettters
+# Awesome Korean Newsletters
 
 📰 한국어로 된 분아별 뉴스레터를 소개합니다. 
 
