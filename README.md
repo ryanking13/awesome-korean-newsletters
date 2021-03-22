@@ -10,9 +10,11 @@
 
 제목 | 주기 | 발간 형태 | 설명 | 큐레이터 | 미리보기 
 :--------|:--------|:--------|:--------|:--------|:--------|
-[Daily Devlog](http://daily-devblog.com/) | 매일 | 이메일 | 국내외 개발관련 블로그, 뉴스, 슬라이드, 방송 등을 수집하여 보기좋게 제공합니다. | [Kwon Tae Kwan](https://taetaetae.github.io/) | [🔗](http://daily-devblog.com/archive) |
-[GeekNews](https://news.hada.io/) | 주간(메일), 비정기(홈페이지) | 홈페이지, 이메일 | Geek 들을 위한 뉴스 서비스입니다. Hacker News 같은 서비스가 한국어로도 있으면 좋지 않을까 하는 생각으로 HN의 많은 부분을 참고하여 개발했습니다. | [Team Hada](https://hada.io/team) | [🔗](https://news.hada.io/) |
+[Daily DevBlog](1) | 매일 | 이메일 | 개발관련 블로그, 뉴스, 슬라이드, 방송 등을 수집하여 보기좋게 제공합니다. | [Kwon Tae Kwan](https://taetaetae.github.io/) | [🔗](http://daily-devblog.com/archive) |
+[GeekNews](https://news.hada.io/) | 주간 (이메일) <br/> 비정기 (홈페이지) | 이메일 <br/> 홈페이지 | Geek 들을 위한 뉴스 서비스입니다. | [Team Hada](https://hada.io/team) | [🔗](https://news.hada.io/) |
 [Outsider's 기술 뉴스](https://blog.outsider.ne.kr/category/Newsletter) | 격주 | 홈페이지 | | [Outsider](https://twitter.com/outsideris) | [🔗](https://blog.outsider.ne.kr/1536?category=38)
+
+[1]: http://daily-devblog.com/
 
 - techblogposts
 
