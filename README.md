@@ -83,7 +83,7 @@
 | [리멤버 나우][remember]       | 주 5회 | 홈페이지  | 그날의 경제 이슈를 설명해주는 레터                     | [리멤버][remember_publ]   | [🔗][remember_prvw]  |
 | [미래에셋 뉴스레터][mirae]    | 주 1회 | 이메일    | 펀드/투자 관련 정보                                    | [미래에셋][mirae_publ]    |                     |
 | [순살브리핑][soonsal]         | 주 5회 | 이메일    | 모건스탠리 홍콩 출신 2인의 <br/> 금융·경제 뉴스 살코기 | [순살][soonsal_publ]      | [🔗][soonsal_prvw]   |
-| [어피티][uppity]              | 주 5회 | 이메일    | 사회초년생을 위한 <br/> 첫 번째 경제미디어                   | [포브미디어][uppity_publ] | [🔗][uppity_prvw]    |
+| [어피티][uppity]              | 주 5회 | 이메일    | 사회초년생을 위한 <br/> 첫 번째 경제미디어             | [포브미디어][uppity_publ] | [🔗][uppity_prvw]    |
 | [인사이저][incizor]           | 매일   | 이메일    | 전날의 시황을 한 눈에, <br/> AI기반 투자레터           | [인사이저][incizor_publ]  |                     |
 | [전종현의 HWBI][insight]      | 주 1회 | 이메일    | 매주 비즈니스 인사이트를 전달                          | [전종현][insight_publ]    | [🔗][insight_prvw]   |
 | [커피팟][coffeepot]           | 주 2회 | 이메일    | 쉽고 재밌는 해외 비즈 뉴스레터                         | [커피팟][coffeepot_publ]  | [🔗][coffeepot_prvw] |
@@ -136,11 +136,12 @@
 
 ## 시사
 
-| 제목                 | 주기   | 발간 형태 | 설명                                   | 발간인                    | 미리보기          |
-| :------------------- | :----- | :-------- | :------------------------------------- | :------------------------ | :---------------- |
-| [뉴닉][newneek]      | 주 3회 | 이메일    | 우리가 시간이 없지, 세상이 안 궁금하냐 | [뉴닉][newneek_publ]      | [🔗][newneek_prvw] |
-| [뉴스페퍼민트][mint] | 비정기 | 홈페이지  | 화제가 된 외신을 소개                  | [뉴스페퍼민트][mint_publ] | [🔗][mint_prvw]    |
-| [매콤달콤][macom]    | 주 5회 | 이메일    | 매경이 전하는 세상의 지식              | [매일경제][macom_publ]    | [🔗][macom_prvw]   |
+| 제목                 | 주기   | 발간 형태 | 설명                                                         | 발간인                    | 미리보기          |
+| :------------------- | :----- | :-------- | :----------------------------------------------------------- | :------------------------ | :---------------- |
+| [뉴닉][newneek]      | 주 3회 | 이메일    | 우리가 시간이 없지, 세상이 안 궁금하냐                       | [뉴닉][newneek_publ]      | [🔗][newneek_prvw] |
+| [뉴스페퍼민트][mint] | 비정기 | 홈페이지  | 화제가 된 외신을 소개                                        | [뉴스페퍼민트][mint_publ] | [🔗][mint_prvw]    |
+| [더슬랭][slang]      | 주 3회 | 이메일    | 당신의 삶에 관련된 <br /> 다양한 사건과 정보들을 만나보세요! | [더슬랭][slang_publ]      | [🔗][slang_prvw]   |
+| [매콤달콤][macom]    | 주 5회 | 이메일    | 매경이 전하는 세상의 지식                                    | [매일경제][macom_publ]    | [🔗][macom_prvw]   |
 
 [newneek]: https://newneek.co/
 [newneek_publ]: https://newneek.co/
@@ -153,6 +154,10 @@
 [macom]: https://member.mk.co.kr/newsletter/info.php
 [macom_publ]: https://www.mk.co.kr/
 [macom_prvw]: https://member.mk.co.kr/newsletter/page/2021/0322/
+
+[slang]: https://theslang.co/
+[slang_publ]: https://theslang.co/29
+[slang_prvw]: https://theslang.co/27
 
 ## 기타
 
