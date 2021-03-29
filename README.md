@@ -17,7 +17,6 @@
 | [Outsider's 기술 뉴스][outsider] | 격주   | 홈페이지  | 웹 개발 및 다양한 업계의 소식   | [Outsider][outsider_publ]     | [🔗][outsider_prvw]      |
 | [TechBlogPosts][techblogposts]   | 비정기 | 홈페이지  | 여러 IT 기술 블로그 포스트      | [정태훈][techblogposts_publ]  | [🔗][techblogposts_prvw] |
 
-
 [devblog]: http://daily-devblog.com/
 [devblog_publ]: https://taetaetae.github.io/
 [devblog_prvw]: http://daily-devblog.com/archive
@@ -173,7 +172,6 @@
 | [앨리스모먼트][alice]    | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                              | [앨리스][alice_publ]       | [🔗][alice_prvw]   |
 | [퍼블리][publy]          | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지       | [퍼블리][publy_publ]       |                   |
 | [캐릿][careet]           | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치 | [대학내일][careet_publ]    | [🔗][careet_prvw]  |
-
 
 [theedit]: http://the-edit.co.kr/newsletter
 [theedit_publ]: http://the-edit.co.kr/
