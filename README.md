@@ -13,6 +13,7 @@
 | 제목                             | 주기   | 발간 형태 | 설명                            | 발간인                        | 미리보기                |
 | :------------------------------- | :----- | :-------- | :------------------------------ | :---------------------------- | :---------------------- |
 | [Daily DevBlog][devblog]         | 주 7회 | 이메일    | 개발관련 블로그를 수집하여 제공 | [Kwon Tae Kwan][devblog_publ] | [🔗][devblog_prvw]       |
+| [FE News][fenews]                | 월 1회 | 홈페이지  | FE 기술 소식 큐레이션 뉴스레터   | [Naver FE][fenews_publ]       | [🔗][fenews_prvw]      |
 | [GeekNews][geek]                 | 비정기 | 홈페이지  | Geek 들을 위한 뉴스 서비스      | [Team Hada][geek_publ]        | [🔗][geek_prvw]          |
 | [Outsider's 기술 뉴스][outsider] | 격주   | 홈페이지  | 웹 개발 및 다양한 업계의 소식   | [Outsider][outsider_publ]     | [🔗][outsider_prvw]      |
 | [TechBlogPosts][techblogposts]   | 비정기 | 홈페이지  | 여러 IT 기술 블로그 포스트      | [정태훈][techblogposts_publ]  | [🔗][techblogposts_prvw] |
@@ -21,6 +22,10 @@
 [devblog]: http://daily-devblog.com/
 [devblog_publ]: https://taetaetae.github.io/
 [devblog_prvw]: http://daily-devblog.com/archive
+
+[fenews]: https://github.com/naver/fe-news
+[fenews_publ]: https://github.com/naver/fe-news/tree/fe-org
+[fenews_prvw]: https://github.com/naver/fe-news/blob/master/issues/2021-03.md
 
 [geek]: https://news.hada.io/
 [geek_publ]: https://hada.io/team
