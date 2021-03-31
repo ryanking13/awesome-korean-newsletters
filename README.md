@@ -13,7 +13,7 @@
 | 제목                             | 주기   | 발간 형태 | 설명                            | 발간인                        | 미리보기                |
 | :------------------------------- | :----- | :-------- | :------------------------------ | :---------------------------- | :---------------------- |
 | [Daily DevBlog][devblog]         | 주 7회 | 이메일    | 개발관련 블로그를 수집하여 제공 | [Kwon Tae Kwan][devblog_publ] | [🔗][devblog_prvw]       |
-| [FE News][fenews]                | 월 1회 | 홈페이지  | FE 기술 소식 큐레이션 뉴스레터   | [Naver FE][fenews_publ]       | [🔗][fenews_prvw]      |
+| [FE News][fenews]                | 월 1회 | 홈페이지  | FE 기술 소식 큐레이션 뉴스레터  | [Naver FE][fenews_publ]       | [🔗][fenews_prvw]        |
 | [GeekNews][geek]                 | 비정기 | 홈페이지  | Geek 들을 위한 뉴스 서비스      | [Team Hada][geek_publ]        | [🔗][geek_prvw]          |
 | [Outsider's 기술 뉴스][outsider] | 격주   | 홈페이지  | 웹 개발 및 다양한 업계의 소식   | [Outsider][outsider_publ]     | [🔗][outsider_prvw]      |
 | [TechBlogPosts][techblogposts]   | 비정기 | 홈페이지  | 여러 IT 기술 블로그 포스트      | [정태훈][techblogposts_publ]  | [🔗][techblogposts_prvw] |
@@ -49,7 +49,7 @@
 | [얼리어답터][early]       | 주 3회 | 이메일    | 재미있는 세상 합리적으로 소비하기   | [글림퍼][early_publ]           | [🔗][early_prvw]       |
 | [일분톡][ilbuntok]        | 주 2회 | 이메일    | 세상 쉬운 테크 이야기               | [일분톡][ilbuntok_publ]        | [🔗][ilbuntok_prvw]    |
 | [트렌트라이트][trendlite] | 주 1회 | 이메일    | 트렌트를 산뜻하게 즐기는 방법       | [기묘한][trendlite_publ]       | [🔗][trendlite_prvw]   |
-| [BylineNetwork][byline]   | 주 5회 | 이메일    | 전문기자들의 멀티채널네트워크       | [BylineNetwork][byline_publ]   | [🔗][byline_prvw]      | ㅋ ㅋ |
+| [BylineNetwork][byline]   | 주 5회 | 이메일    | 전문기자들의 멀티채널네트워크       | [BylineNetwork][byline_publ]   | [🔗][byline_prvw]      |
 
 [knowllipop]: https://page.stibee.com/subscriptions/95801
 [knowllipop_publ]: http://knowllipop.com/
@@ -152,6 +152,7 @@
 | [뉴스페퍼민트][mint] | 비정기 | 홈페이지  | 화제가 된 외신을 소개                                        | [뉴스페퍼민트][mint_publ] | [🔗][mint_prvw]    |
 | [더슬랭][slang]      | 주 3회 | 이메일    | 당신의 삶에 관련된 <br /> 다양한 사건과 정보들을 만나보세요! | [더슬랭][slang_publ]      | [🔗][slang_prvw]   |
 | [매콤달콤][macom]    | 주 5회 | 이메일    | 매경이 전하는 세상의 지식                                    | [매일경제][macom_publ]    | [🔗][macom_prvw]   |
+| [미스터동][mrdong]   | 주 3회 | 이메일    | 어디 가서 아는 척, <br /> 할 수 있는 정보                    | [미스터동][mrdong_publ]   |                   |
 
 [newneek]: https://newneek.co/
 [newneek_publ]: https://newneek.co/
@@ -168,6 +169,10 @@
 [slang]: https://theslang.co/
 [slang_publ]: https://theslang.co/29
 [slang_prvw]: https://theslang.co/27
+
+[mrdong]: https://mrdongnews.com/
+[mrdong_publ]: https://mrdongnews.com/hello
+<!-- [mrdong_prvw]: -->
 
 ## 기타
 
