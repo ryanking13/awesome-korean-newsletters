@@ -50,6 +50,7 @@
 | [미라클레터][miracle]     | 주 3회 | 이메일    | 글로벌 테크, 실리콘밸리 소식                                     | [매경미디어][miracle_publ]     | [🔗][miracle_prvw]     |
 | [아웃스탠딩][outstanding] | 주 5회 | 이메일    | 어려운 IT이슈를 쉽고 재미있게                                    | [아웃스탠딩][outstanding_publ] | [🔗][outstanding_prvw] |
 | [얼리어답터][early]       | 주 3회 | 이메일    | 재미있는 세상 합리적으로 소비하기                                | [글림퍼][early_publ]           | [🔗][early_prvw]       |
+| [이바닥늬우스][ebadak]    | 비정기 | 홈페이지  | 찰지고 신나는 테크바닥 늬우스                                    | [이바닥늬우스][ebadak_publ]    | [🔗][ebadak_prvw]      |
 | [일분톡][ilbuntok]        | 주 2회 | 이메일    | 세상 쉬운 테크 이야기                                            | [일분톡][ilbuntok_publ]        | [🔗][ilbuntok_prvw]    |
 | [트렌트라이트][trendlite] | 주 1회 | 이메일    | 트렌트를 산뜻하게 즐기는 방법                                    | [기묘한][trendlite_publ]       | [🔗][trendlite_prvw]   |
 | [BylineNetwork][byline]   | 주 5회 | 이메일    | 전문기자들의 멀티채널네트워크                                    | [BylineNetwork][byline_publ]   | [🔗][byline_prvw]      |
@@ -85,6 +86,10 @@
 
 [tech42]: https://page.stibee.com/subscriptions/102868
 [tech42_publ]: http://www.tech42.co.kr/
+
+[ebadak]: https://ebadak.news/
+[ebadak_publ]: https://ebadak.news/about/
+[ebadak_prvw]: https://ebadak.news/2021/03/27/mistakes-and-memes/
 
 ## 경제 / 투자
 
