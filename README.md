@@ -93,21 +93,21 @@
 
 ## 경제 / 투자
 
-| 제목                          | 주기   | 발간 형태 | 설명                                                   | 발간인                    | 미리보기            |
-| :---------------------------- | :----- | :-------- | :----------------------------------------------------- | :------------------------ | :------------------ |
-| [돈 밝히는 여자 cathy][cathy] | 주 1회 | 이메일    | 세상에서 가장 쉬운 돈으로 회사 읽기                    | [Cathy][cathy_publ]       | [🔗][cathy_prvw]     |
-| [돈키레터][donkey]            | 주 1회 | 이메일    | 돈 버는 열쇠를 알려주는 뉴스레터                       | [효라클][donkey_publ]     | [🔗][donkey_prvw]    |
-| [리멤버 나우][remember]       | 주 5회 | 홈페이지  | 그날의 경제 이슈를 설명해주는 레터                     | [리멤버][remember_publ]   | [🔗][remember_prvw]  |
-| [미래에셋 뉴스레터][mirae]    | 주 1회 | 이메일    | 펀드/투자 관련 정보                                    | [미래에셋][mirae_publ]    |                     |
-| [순살브리핑][soonsal]         | 주 5회 | 이메일    | 모건스탠리 홍콩 출신 2인의 <br/> 금융·경제 뉴스 살코기 | [순살][soonsal_publ]      | [🔗][soonsal_prvw]   |
-| [어피티][uppity]              | 주 5회 | 이메일    | 사회초년생을 위한 <br/> 첫 번째 경제미디어             | [포브미디어][uppity_publ] | [🔗][uppity_prvw]    |
-| [인사이저][incizor]           | 매일   | 이메일    | 전날의 시황을 한 눈에, <br/> AI기반 투자레터           | [인사이저][incizor_publ]  |                     |
-| [전종현의 HWBI][insight]      | 주 1회 | 이메일    | 매주 비즈니스 인사이트를 전달                          | [전종현][insight_publ]    | [🔗][insight_prvw]   |
-| [푼푼레터][punpun]            | 주 1회 | 이메일    | 주린이, 코린이, 재린이 <br /> 금융 초보 집중관리       | [리치플래닛][punpun_publ] | [🔗][punpun_prvw]    |
-| [카드고릴라 뉴스레터][cardgorilla]           | 주 1회 | 이메일    | 카드를 쓰는 이야기                         | [카드고릴라][cardgorilla_publ]  | [🔗][cardgorilla_prvw] |
-| [커피팟][coffeepot]           | 주 2회 | 이메일    | 쉽고 재밌는 해외 비즈 뉴스레터                         | [커피팟][coffeepot_publ]  | [🔗][coffeepot_prvw] |
-| [Startup Weekly][startup]     | 주 1회 | 이메일    | 스타트업 관련 소식과 정보를 한 눈에                    | [Glance][startup_publ]    | [🔗][startup_prvw]   |
-| [Two Cents][twocents]         | 격주   | 이메일    | 테크, 스타트업, VC 분야의 <br/> 흐름에 대하여          | [허진호][twocents_publ]   | [🔗][twocents_prvw]  |
+| 제목                               | 주기   | 발간 형태 | 설명                                                   | 발간인                         | 미리보기              |
+| :--------------------------------- | :----- | :-------- | :----------------------------------------------------- | :----------------------------- | :-------------------- |
+| [돈 밝히는 여자 cathy][cathy]      | 주 1회 | 이메일    | 세상에서 가장 쉬운 돈으로 회사 읽기                    | [Cathy][cathy_publ]            | [🔗][cathy_prvw]       |
+| [돈키레터][donkey]                 | 주 1회 | 이메일    | 돈 버는 열쇠를 알려주는 뉴스레터                       | [효라클][donkey_publ]          | [🔗][donkey_prvw]      |
+| [리멤버 나우][remember]            | 주 5회 | 홈페이지  | 그날의 경제 이슈를 설명해주는 레터                     | [리멤버][remember_publ]        | [🔗][remember_prvw]    |
+| [미래에셋 뉴스레터][mirae]         | 주 1회 | 이메일    | 펀드/투자 관련 정보                                    | [미래에셋][mirae_publ]         |                       |
+| [순살브리핑][soonsal]              | 주 5회 | 이메일    | 모건스탠리 홍콩 출신 2인의 <br/> 금융·경제 뉴스 살코기 | [순살][soonsal_publ]           | [🔗][soonsal_prvw]     |
+| [어피티][uppity]                   | 주 5회 | 이메일    | 사회초년생을 위한 <br/> 첫 번째 경제미디어             | [포브미디어][uppity_publ]      | [🔗][uppity_prvw]      |
+| [인사이저][incizor]                | 매일   | 이메일    | 전날의 시황을 한 눈에, <br/> AI기반 투자레터           | [인사이저][incizor_publ]       |                       |
+| [전종현의 HWBI][insight]           | 주 1회 | 이메일    | 매주 비즈니스 인사이트를 전달                          | [전종현][insight_publ]         | [🔗][insight_prvw]     |
+| [푼푼레터][punpun]                 | 주 1회 | 이메일    | 주린이, 코린이, 재린이 <br /> 금융 초보 집중관리       | [리치플래닛][punpun_publ]      | [🔗][punpun_prvw]      |
+| [카드고릴라 뉴스레터][cardgorilla] | 주 1회 | 이메일    | 카드를 쓰는 이야기                                     | [카드고릴라][cardgorilla_publ] | [🔗][cardgorilla_prvw] |
+| [커피팟][coffeepot]                | 주 2회 | 이메일    | 쉽고 재밌는 해외 비즈 뉴스레터                         | [커피팟][coffeepot_publ]       | [🔗][coffeepot_prvw]   |
+| [Startup Weekly][startup]          | 주 1회 | 이메일    | 스타트업 관련 소식과 정보를 한 눈에                    | [Glance][startup_publ]         | [🔗][startup_prvw]     |
+| [Two Cents][twocents]              | 격주   | 이메일    | 테크, 스타트업, VC 분야의 <br/> 흐름에 대하여          | [허진호][twocents_publ]        | [🔗][twocents_prvw]    |
 
 [cathy]: https://maily.so/cathyxcash
 [cathy_publ]: https://nt.cathyxcash.com/About-Cathy-98cfb881f4ca4aa098039baf448b9314
@@ -171,6 +171,9 @@
 | [더슬랭][slang]      | 주 3회 | 이메일    | 당신의 삶에 관련된 <br /> 다양한 사건과 정보들을 만나보세요! | [더슬랭][slang_publ]      | [🔗][slang_prvw]   |
 | [매콤달콤][macom]    | 주 5회 | 이메일    | 매경이 전하는 세상의 지식                                    | [매일경제][macom_publ]    | [🔗][macom_prvw]   |
 | [미스터동][mrdong]   | 주 3회 | 이메일    | 어디 가서 아는 척, <br /> 할 수 있는 정보                    | [미스터동][mrdong_publ]   |                   |
+| [휘클리][hweekly]    | 주 1회 | 이메일    | 10분 뉴스편지, 시사 뉴스레터                                 | [한겨레][hweekly_publ]    | [🔗][hweekly_prvw] |
+| [H:730][h730]        | 주 5회 | 이메일    | 당일 아침 한겨레신문의 주요뉴스를                            | [한겨레][h730_publ]       | [🔗][h730_prvw]    |
+
 
 [newneek]: https://newneek.co/
 [newneek_publ]: https://newneek.co/
@@ -191,6 +194,15 @@
 [mrdong]: https://mrdongnews.com/
 [mrdong_publ]: https://mrdongnews.com/hello
 <!-- [mrdong_prvw]: -->
+
+[h730]: https://page.stibee.com/subscriptions/70653
+[h730_publ]: http://m.hani.co.kr/
+[h730_prvw]: https://page.stibee.com/archives/70653
+
+[hweekly]: https://page.stibee.com/subscriptions/98338
+[hweekly_publ]: http://m.hani.co.kr/
+[hweekly_prvw]: https://page.stibee.com/archives/98338
+
 
 ## 기타
 
