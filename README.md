@@ -18,6 +18,7 @@
 | [GeekNews][geek]                 | 비정기 | 홈페이지  | Geek 들을 위한 뉴스 서비스                      | [Team Hada][geek_publ]        | [🔗][geek_prvw]          |
 | [Outsider's 기술 뉴스][outsider] | 격주   | 홈페이지  | 웹 개발 및 다양한 업계의 소식                   | [Outsider][outsider_publ]     | [🔗][outsider_prvw]      |
 | [TechBlogPosts][techblogposts]   | 비정기 | 홈페이지  | 여러 IT 기술 블로그 포스트                      | [정태훈][techblogposts_publ]  | [🔗][techblogposts_prvw] |
+| [WeeklyArxivTalk][arxivtalk]     | 주 1회 | 홈페이지  | 한주간 새롭게 공개된 <br /> AI 연구 논문 공유          | [하정우][arxivtalk_publ]      | [🔗][arxivtalk_prvw]     |
 
 [devblog]: http://daily-devblog.com/
 [devblog_publ]: https://taetaetae.github.io/
@@ -42,6 +43,10 @@
 [gaerae]: https://blog.gaerae.com/
 [gaerae_publ]: https://gaerae.com/
 [gaerae_prvw]: https://blog.gaerae.com/search/label/newsletter
+
+[arxivtalk]: https://github.com/jungwoo-ha/WeeklyArxivTalk
+[arxivtalk_publ]: https://github.com/jungwoo-ha
+[arxivtalk_prvw]: https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/1
 ## 테크 / IT
 
 | 제목                      | 주기   | 발간 형태 | 설명                                                             | 발간인                         | 미리보기              |
