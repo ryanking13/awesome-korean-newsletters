@@ -217,11 +217,12 @@
 | [당근메일][carrot]       | 주 1회 | 이메일    | 생산성에 대한 생각과 근육을 튼튼하게                 | [당근메일][carrot_publ]    |                   |
 | [두부레터][dubu]         | 주 1회 | 이메일    | 내집마련 부린이를 위한 내집레터                      | [베리빈][dubu_publ]        | [🔗][dubu_prvw]    |
 | [북저널리즘 톡스][book]  | 주 1회 | 이메일    | 혁신가의 관점과 통찰, <br/> 에디터의 감각을 담아     | [스리체어스][book_publ]    | [🔗][book_prvw]    |
-| [프로젝트 썸원][someone] | 주 2회 | 이메일    | 읽었던 콘텐츠 중 괜찮은 것들을 골라                  | [윤성원][someone_publ]     | [🔗][someone_prvw] |
+| [스요레터][stibee]       | 주 1회 | 이메일    | 마케터와 크리에이터를 위한 <br/> 다양한 읽을거리     | [스티비][stibee_publ]      | [🔗][stibee_prvw]  |
 | [쏠트-호][saltho]        | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                         | [Designpress][saltho_publ] | [🔗][saltho_prvw]  |
 | [어거스트][august]       | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기        | [어거스트][august_publ]    | [🔗][august_prvw]  |
 | [앨리스모먼트][alice]    | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                              | [앨리스][alice_publ]       | [🔗][alice_prvw]   |
 | [퍼블리][publy]          | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지       | [퍼블리][publy_publ]       |                   |
+| [프로젝트 썸원][someone] | 주 2회 | 이메일    | 읽었던 콘텐츠 중 괜찮은 것들을 골라                  | [윤성원][someone_publ]     | [🔗][someone_prvw] |
 | [캐릿][careet]           | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치 | [대학내일][careet_publ]    | [🔗][careet_prvw]  |
 
 
@@ -264,6 +265,10 @@
 [publy]: https://publy.us11.list-manage.com/subscribe?u=8e469b932eaa730d3a89bc869&id=f64c75daf2
 [publy_publ]: https://publy.co/
 <!-- [publy_prvw]: -->
+
+[stibee]: https://page.stibee.com/subscriptions/3
+[stibee_publ]: https://stibee.com/
+[stibee_prvw]: https://page.stibee.com/archives/3
 
 ## 발간 중지
 
