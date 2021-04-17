@@ -18,7 +18,7 @@
 | [GeekNews][geek]                 | 비정기 | 홈페이지  | Geek 들을 위한 뉴스 서비스                      | [Team Hada][geek_publ]        | [🔗][geek_prvw]          |
 | [Outsider's 기술 뉴스][outsider] | 격주   | 홈페이지  | 웹 개발 및 다양한 업계의 소식                   | [Outsider][outsider_publ]     | [🔗][outsider_prvw]      |
 | [TechBlogPosts][techblogposts]   | 비정기 | 홈페이지  | 여러 IT 기술 블로그 포스트                      | [정태훈][techblogposts_publ]  | [🔗][techblogposts_prvw] |
-| [WeeklyArxivTalk][arxivtalk]     | 주 1회 | 홈페이지  | 한주간 새롭게 공개된 <br /> AI 연구 논문 공유          | [하정우][arxivtalk_publ]      | [🔗][arxivtalk_prvw]     |
+| [WeeklyArxivTalk][arxivtalk]     | 주 1회 | 홈페이지  | 한주간 새롭게 공개된 <br /> AI 연구 논문 공유   | [하정우][arxivtalk_publ]      | [🔗][arxivtalk_prvw]     |
 
 [devblog]: http://daily-devblog.com/
 [devblog_publ]: https://taetaetae.github.io/
@@ -224,6 +224,7 @@
 | [퍼블리][publy]          | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지       | [퍼블리][publy_publ]       |                   |
 | [프로젝트 썸원][someone] | 주 2회 | 이메일    | 읽었던 콘텐츠 중 괜찮은 것들을 골라                  | [윤성원][someone_publ]     | [🔗][someone_prvw] |
 | [캐릿][careet]           | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치 | [대학내일][careet_publ]    | [🔗][careet_prvw]  |
+| [ANTIEGG][antiegg]       | 주 1회 | 이메일    | 문화예술 큐레이션 플랫폼                             | [대학내일][antiegg_publ]   | [🔗][antiegg_prvw] |
 
 
 [theedit]: http://the-edit.co.kr/newsletter
@@ -269,6 +270,10 @@
 [stibee]: https://page.stibee.com/subscriptions/3
 [stibee_publ]: https://stibee.com/
 [stibee_prvw]: https://page.stibee.com/archives/3
+
+[antiegg]: https://page.stibee.com/subscriptions/85471
+[antiegg_publ]: https://antiegg.kr/ABOUT-US
+[antiegg_prvw]: https://antiegg.kr/DAILY/view/2347232@8168040
 
 ## 발간 중지
 
