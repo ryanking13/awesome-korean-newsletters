@@ -224,7 +224,7 @@
 | [퍼블리][publy]          | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지       | [퍼블리][publy_publ]       |                   |
 | [프로젝트 썸원][someone] | 주 2회 | 이메일    | 읽었던 콘텐츠 중 괜찮은 것들을 골라                  | [윤성원][someone_publ]     | [🔗][someone_prvw] |
 | [캐릿][careet]           | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치 | [대학내일][careet_publ]    | [🔗][careet_prvw]  |
-| [ANTIEGG][antiegg]       | 주 1회 | 이메일    | 문화예술 큐레이션 플랫폼                             | [대학내일][antiegg_publ]   | [🔗][antiegg_prvw] |
+| [ANTIEGG][antiegg]       | 주 1회 | 이메일    | 문화예술 큐레이션 플랫폼                             | [ANTIEGG][antiegg_publ]   | [🔗][antiegg_prvw] |
 
 
 [theedit]: http://the-edit.co.kr/newsletter
