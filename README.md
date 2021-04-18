@@ -216,6 +216,7 @@
 | [까탈로그][theedit]      | 주 1회 | 이메일    | 까탈스럽게 고른 취향 뉴스레터                        | [디에디트][theedit_publ]   |                   |
 | [당근메일][carrot]       | 주 1회 | 이메일    | 생산성에 대한 생각과 근육을 튼튼하게                 | [당근메일][carrot_publ]    |                   |
 | [두부레터][dubu]         | 주 1회 | 이메일    | 내집마련 부린이를 위한 내집레터                      | [베리빈][dubu_publ]        | [🔗][dubu_prvw]    |
+| [부딩][booding]          | 주 2회 | 이메일    | 부.알.못 밀레니얼을 위한 <br /> 부동산 뉴스레터      | [부딩][booding_publ]       | [🔗][booding_prvw] |
 | [북저널리즘 톡스][book]  | 주 1회 | 이메일    | 혁신가의 관점과 통찰, <br/> 에디터의 감각을 담아     | [스리체어스][book_publ]    | [🔗][book_prvw]    |
 | [스요레터][stibee]       | 주 1회 | 이메일    | 마케터와 크리에이터를 위한 <br/> 다양한 읽을거리     | [스티비][stibee_publ]      | [🔗][stibee_prvw]  |
 | [쏠트-호][saltho]        | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                         | [Designpress][saltho_publ] | [🔗][saltho_prvw]  |
@@ -224,7 +225,7 @@
 | [퍼블리][publy]          | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지       | [퍼블리][publy_publ]       |                   |
 | [프로젝트 썸원][someone] | 주 2회 | 이메일    | 읽었던 콘텐츠 중 괜찮은 것들을 골라                  | [윤성원][someone_publ]     | [🔗][someone_prvw] |
 | [캐릿][careet]           | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치 | [대학내일][careet_publ]    | [🔗][careet_prvw]  |
-| [ANTIEGG][antiegg]       | 주 1회 | 이메일    | 문화예술 큐레이션 플랫폼                             | [ANTIEGG][antiegg_publ]   | [🔗][antiegg_prvw] |
+| [ANTIEGG][antiegg]       | 주 1회 | 이메일    | 문화예술 큐레이션 플랫폼                             | [ANTIEGG][antiegg_publ]    | [🔗][antiegg_prvw] |
 
 
 [theedit]: http://the-edit.co.kr/newsletter
@@ -274,6 +275,10 @@
 [antiegg]: https://page.stibee.com/subscriptions/85471
 [antiegg_publ]: https://antiegg.kr/ABOUT-US
 [antiegg_prvw]: https://antiegg.kr/DAILY/view/2347232@8168040
+
+[booding]: https://www.booding.co/
+[booding_publ]: https://www.booding.co/
+[booding_prvw]: https://www.booding.co/post/%EB%A7%88%EC%A7%80%EB%A7%89-%EB%8B%A8%EC%B6%94%EB%8A%94-%EC%B1%84%EC%9B%8C%EC%95%BC-%EC%A0%9C%EB%A7%9B
 
 ## 발간 중지
 
