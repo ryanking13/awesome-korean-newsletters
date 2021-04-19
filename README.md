@@ -102,6 +102,7 @@
 | :--------------------------------- | :----- | :-------- | :----------------------------------------------------- | :----------------------------- | :-------------------- |
 | [돈 밝히는 여자 cathy][cathy]      | 주 1회 | 이메일    | 세상에서 가장 쉬운 돈으로 회사 읽기                    | [Cathy][cathy_publ]            | [🔗][cathy_prvw]       |
 | [돈키레터][donkey]                 | 주 1회 | 이메일    | 돈 버는 열쇠를 알려주는 뉴스레터                       | [효라클][donkey_publ]          | [🔗][donkey_prvw]      |
+| [디스트리트][dstreet]              | 주 1회 | 이메일    | 매일경제와 함께하는 블록체인 미디어                    | [디스트리트][dstreet_publ]     | [🔗][dstreet_prvw]     |
 | [리멤버 나우][remember]            | 주 5회 | 홈페이지  | 그날의 경제 이슈를 설명해주는 레터                     | [리멤버][remember_publ]        | [🔗][remember_prvw]    |
 | [미래에셋 뉴스레터][mirae]         | 주 1회 | 이메일    | 펀드/투자 관련 정보                                    | [미래에셋][mirae_publ]         |                       |
 | [순살브리핑][soonsal]              | 주 5회 | 이메일    | 모건스탠리 홍콩 출신 2인의 <br/> 금융·경제 뉴스 살코기 | [순살][soonsal_publ]           | [🔗][soonsal_prvw]     |
@@ -161,6 +162,9 @@
 [cardgorilla_publ]: https://www.card-gorilla.com/home
 [cardgorilla_prvw]: https://www.card-gorilla.com/contents/detail/1532?utm_source=CGletter&utm_medium=form
 
+[dstreet]: https://page.stibee.com/subscriptions/30830
+[dstreet_publ]: https://dstreet.io/author/uthman/
+[dstreet_prvw]: https://page.stibee.com/archives/30830
 
 ## 시사
 
