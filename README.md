@@ -108,7 +108,6 @@
 | [어피티][uppity]                   | 주 5회 | 이메일    | 사회초년생을 위한 <br/> 첫 번째 경제미디어             | [포브미디어][uppity_publ]      | [🔗][uppity_prvw]      |
 | [인사이저][incizor]                | 매일   | 이메일    | 전날의 시황을 한 눈에, <br/> AI기반 투자레터           | [인사이저][incizor_publ]       |                       |
 | [전종현의 HWBI][insight]           | 주 1회 | 이메일    | 매주 비즈니스 인사이트를 전달                          | [전종현][insight_publ]         | [🔗][insight_prvw]     |
-| [푼푼레터][punpun]                 | 주 1회 | 이메일    | 주린이, 코린이, 재린이 <br /> 금융 초보 집중관리       | [리치플래닛][punpun_publ]      | [🔗][punpun_prvw]      |
 | [카드고릴라 뉴스레터][cardgorilla] | 주 1회 | 이메일    | 카드를 쓰는 이야기                                     | [카드고릴라][cardgorilla_publ] | [🔗][cardgorilla_prvw] |
 | [커피팟][coffeepot]                | 주 2회 | 이메일    | 쉽고 재밌는 해외 비즈 뉴스레터                         | [커피팟][coffeepot_publ]       | [🔗][coffeepot_prvw]   |
 | [Startup Weekly][startup]          | 주 1회 | 이메일    | 스타트업 관련 소식과 정보를 한 눈에                    | [Glance][startup_publ]         | [🔗][startup_prvw]     |
@@ -157,10 +156,6 @@
 [twocents]: https://hur.substack.com/
 [twocents_publ]: https://hur.medium.com/
 [twocents_prvw]: https://hur.substack.com/p/two-cents-42-first-1000-gojek-calendly
-
-[punpun]: https://punpun.co.kr/punpun-letter/%eb%89%b4%ec%8a%a4%eb%a0%88%ed%84%b0-%ea%b5%ac%eb%8f%85%ed%95%98%ea%b8%b0/
-[punpun_publ]: http://richplanet.co.kr/p/main
-[punpun_prvw]: https://punpun.co.kr/punpun-letters/
 
 [cardgorilla]: https://page.stibee.com/subscriptions/65530
 [cardgorilla_publ]: https://www.card-gorilla.com/home
@@ -281,6 +276,8 @@
 [booding_prvw]: https://www.booding.co/post/%EB%A7%88%EC%A7%80%EB%A7%89-%EB%8B%A8%EC%B6%94%EB%8A%94-%EC%B1%84%EC%9B%8C%EC%95%BC-%EC%A0%9C%EB%A7%9B
 
 ## 발간 중지
+
+- [푼푼레터][punpun_publ]
 
 ## 뉴스레터 플랫폼
 
