@@ -223,6 +223,7 @@
 | [쏠트-호][saltho]          | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                             | [Designpress][saltho_publ]      | [🔗][saltho_prvw]  |
 | [어거스트][august]         | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기            | [어거스트][august_publ]         | [🔗][august_prvw]  |
 | [앨리스모먼트][alice]      | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                  | [앨리스][alice_publ]            | [🔗][alice_prvw]   |
+| [위클리어스][earth]]       | 주 1회 | 이메일    | 한 눈에 보는 주간 환경 이슈                              | [서울환경운동연합][earth_publ]  | [🔗][earth_prvw]   |
 | [퍼블리][publy]            | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지           | [퍼블리][publy_publ]            |                   |
 | [프로젝트 썸원][someone]   | 주 2회 | 이메일    | 읽었던 콘텐츠 중 괜찮은 것들을 골라                      | [윤성원][someone_publ]          | [🔗][someone_prvw] |
 | [캐릿][careet]             | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치     | [대학내일][careet_publ]         | [🔗][careet_prvw]  |
@@ -288,6 +289,10 @@
 [mshl]: https://page.stibee.com/subscriptions/100626
 [mshl_publ]: https://www.instagram.com/mshl_guide/
 [mshl_prvw]: https://page.stibee.com/archives/100626
+
+[earth]: https://www.weeklyearth.com/
+[earth_publ]: http://ecoseoul.or.kr/
+[earth_prvw]: https://www.weeklyearth.com/view
 
 ## 발간 중지
 
