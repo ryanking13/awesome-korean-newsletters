@@ -212,6 +212,7 @@
 
 | 제목                       | 주기   | 발간 형태 | 설명                                                     | 발간인                          | 미리보기          |
 | :------------------------- | :----- | :-------- | :------------------------------------------------------- | :------------------------------ | :---------------- |
+| [고독단][godok]            | 주 1회 | 이메일    | 지금 당신의 인생에 도움이 되는 책                        | [창비][godok_publ]              | [🔗][godok_prvw]   |
 | [까탈로그][theedit]        | 주 1회 | 이메일    | 까탈스럽게 고른 취향 뉴스레터                            | [디에디트][theedit_publ]        |                   |
 | [당근메일][carrot]         | 주 1회 | 이메일    | 생산성에 대한 <br/> 생각과 근육을 튼튼하게               | [당근메일][carrot_publ]         |                   |
 | [두부레터][dubu]           | 주 1회 | 이메일    | 내집마련 부린이를 위한 내집레터                          | [베리빈][dubu_publ]             | [🔗][dubu_prvw]    |
@@ -225,7 +226,7 @@
 | [앨리스모먼트][alice]      | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                  | [앨리스][alice_publ]            | [🔗][alice_prvw]   |
 | [위클리어스][earth]]       | 주 1회 | 이메일    | 한 눈에 보는 주간 환경 이슈                              | [서울환경운동연합][earth_publ]  | [🔗][earth_prvw]   |
 | [퍼블리][publy]            | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지           | [퍼블리][publy_publ]            |                   |
-| [프로젝트 썸원][someone]   | 주 2회 | 이메일    | 읽었던 콘텐츠 중 <br/> 괜찮은 것들을 골라                      | [윤성원][someone_publ]          | [🔗][someone_prvw] |
+| [프로젝트 썸원][someone]   | 주 2회 | 이메일    | 읽었던 콘텐츠 중 <br/> 괜찮은 것들을 골라                | [윤성원][someone_publ]          | [🔗][someone_prvw] |
 | [캐릿][careet]             | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치     | [대학내일][careet_publ]         | [🔗][careet_prvw]  |
 | [한편의 편지][minumsa]     | 주 1회 | 이메일    | 책보다 짧고 논문보다 쉬운 <br /> 한편의 인문학           | [민음사][minumsa_publ]          | [🔗][minumsa_prvw] |
 | [ANTIEGG][antiegg]         | 주 2회 | 이메일    | 문화예술 큐레이션 플랫폼                                 | [ANTIEGG][antiegg_publ]         | [🔗][antiegg_prvw] |
@@ -298,6 +299,11 @@
 [minumsa]: https://minumsa.com/event/32747/
 [minumsa_publ]: http://minumsa.com/
 [minumsa_prvw]: http://minumsa.com/community/pubserially/?trm=228
+
+[godok]: https://page.stibee.com/subscriptions/61705
+[godok_publ]: https://switch.changbi.com/
+[godok_prvw]: https://www.notion.so/af6f68f10d5040789e7d9afa1d527855
+
 
 ## 발간 중지
 
