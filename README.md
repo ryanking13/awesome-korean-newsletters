@@ -216,6 +216,7 @@
 | [까탈로그][theedit]        | 주 1회 | 이메일    | 까탈스럽게 고른 취향 뉴스레터                            | [디에디트][theedit_publ]        |                   |
 | [당근메일][carrot]         | 주 1회 | 이메일    | 생산성에 대한 <br/> 생각과 근육을 튼튼하게               | [당근메일][carrot_publ]         |                   |
 | [두부레터][dubu]           | 주 1회 | 이메일    | 내집마련 부린이를 위한 내집레터                          | [베리빈][dubu_publ]             | [🔗][dubu_prvw]    |
+| [문장줍기][munjang]        | 주 1회 | 이메일    | 당신에게 보내는 반짝거리는 문장들                        | [소얀][munjang_publ]            | [🔗][munjang_prvw] |
 | [미쉬울랭][mshl]           | 주 1회 | 이메일    | 밀키트계의 미슐랭 가이드가 될거야                        | [미쉬울랭][mshl_publ]           | [🔗][mshl_prvw]    |
 | [부딩][booding]            | 주 2회 | 이메일    | 부.알.못 밀레니얼을 위한 <br /> 부동산 뉴스레터          | [부딩][booding_publ]            | [🔗][booding_prvw] |
 | [북저널리즘 톡스][book]    | 주 1회 | 이메일    | 혁신가의 관점과 통찰, <br/> 에디터의 감각을 담아         | [스리체어스][book_publ]         | [🔗][book_prvw]    |
@@ -304,7 +305,9 @@
 [godok_publ]: https://switch.changbi.com/
 [godok_prvw]: https://www.notion.so/af6f68f10d5040789e7d9afa1d527855
 
-
+[munjang]: https://page.stibee.com/subscriptions/59924
+[munjang_publ]: https://brunch.co.kr/@whaleyeon
+[munjang_prvw]: https://page.stibee.com/archives/59924
 ## 발간 중지
 
 - [푼푼레터][punpun_publ]
