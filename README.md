@@ -320,7 +320,7 @@
 [munjang_prvw]: https://page.stibee.com/archives/59924
 ## 발간 중지
 
-- [푼푼레터][punpun_publ]
+- [푼푼레터](https://punpun.co.kr/)
 
 ## 뉴스레터 플랫폼
 
