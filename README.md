@@ -111,6 +111,7 @@
 | [전종현의 HWBI][insight]           | 주 1회 | 이메일    | 매주 비즈니스 인사이트를 전달                          | [전종현][insight_publ]         | [🔗][insight_prvw]     |
 | [카드고릴라 뉴스레터][cardgorilla] | 주 1회 | 이메일    | 카드를 쓰는 이야기                                     | [카드고릴라][cardgorilla_publ] | [🔗][cardgorilla_prvw] |
 | [커피팟][coffeepot]                | 주 2회 | 이메일    | 쉽고 재밌는 해외 비즈 뉴스레터                         | [커피팟][coffeepot_publ]       | [🔗][coffeepot_prvw]   |
+| [티클레터][tickle]                 | 주 1회 | 이메일    | 놓칠 수 있는 글로벌 기업 이슈                          | [티클][tickle_publ]            | [🔗][tickle_prvw]      |
 | [Startup Weekly][startup]          | 주 1회 | 이메일    | 스타트업 관련 소식과 정보를 한 눈에                    | [Glance][startup_publ]         | [🔗][startup_prvw]     |
 | [Two Cents][twocents]              | 격주   | 이메일    | 테크, 스타트업, VC 분야의 <br/> 흐름에 대하여          | [허진호][twocents_publ]        | [🔗][twocents_prvw]    |
 
@@ -165,6 +166,10 @@
 [dstreet]: https://page.stibee.com/subscriptions/30830
 [dstreet_publ]: https://dstreet.io/author/uthman/
 [dstreet_prvw]: https://page.stibee.com/archives/30830
+
+[tickle]: https://letter.tickleinvest.com/
+[tickle_publ]: https://tickleinvest.com/
+[tickle_prvw]: https://letter.tickleinvest.com/letter_210429_main/
 
 ## 시사
 
