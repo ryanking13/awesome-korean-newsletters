@@ -235,6 +235,7 @@
 | :------------------------- | :----- | :-------- | :------------------------------------------------------- | :------------------------------ | :---------------- |
 | [고독단][godok]            | 주 1회 | 이메일    | 지금 당신의 인생에 도움이 되는 책                        | [창비][godok_publ]              | [🔗][godok_prvw]   |
 | [까탈로그][theedit]        | 주 1회 | 이메일    | 까탈스럽게 고른 취향 뉴스레터                            | [디에디트][theedit_publ]        |                   |
+| [뉴술레터][newsool]        | 주 1회 | 이메일    | 수요일의 술맛나는 뉴스레터                               | [뉴술레터][newsool_publ]        | [🔗][newsool_prvw] |
 | [당근메일][carrot]         | 주 1회 | 이메일    | 생산성에 대한 <br/> 생각과 근육을 튼튼하게               | [당근메일][carrot_publ]         |                   |
 | [두부레터][dubu]           | 주 1회 | 이메일    | 내집마련 부린이를 위한 내집레터                          | [베리빈][dubu_publ]             | [🔗][dubu_prvw]    |
 | [문장줍기][munjang]        | 주 1회 | 이메일    | 당신에게 보내는 반짝거리는 문장들                        | [소얀][munjang_publ]            | [🔗][munjang_prvw] |
@@ -334,6 +335,11 @@
 [weekend]: https://page.stibee.com/subscriptions/78183
 [weekend_publ]: https://www.notion.so/2937e3e4f9884521a79198eac3cd07ef
 [weekend_prvw]: https://stibee.com/api/v1.0/emails/share/1aZJQZ1WSoYlQZUZGUZd79AMlvKkbg==
+
+[newsool]: https://page.stibee.com/subscriptions/89686
+[newsool_publ]: https://www.instagram.com/newsooletter/
+[newsool_prvw]: https://page.stibee.com/archives/89686
+
 ## 발간 중지
 
 - [푼푼레터](https://punpun.co.kr/)
