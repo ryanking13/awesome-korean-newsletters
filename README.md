@@ -101,6 +101,7 @@
 | 제목                          | 주기   | 발간 형태 | 설명                                                   | 발간인                         | 미리보기              |
 | :---------------------------- | :----- | :-------- | :----------------------------------------------------- | :----------------------------- | :-------------------- |
 | [너겟레터][nugget]            | 주 2회 | 이메일    | 너도 GET 할 수 있는 경제 소식                          | [NUGGET][nugget_publ]          | [🔗][nugget_prvw]      |
+| [앤츠랩][ants]                | 주 3회 | 이메일    | 건강한 주식 맛집                                       | [앤츠랩][ants_publ]            | [🔗][ants_prvw]        |
 | [돈 밝히는 여자 cathy][cathy] | 주 1회 | 이메일    | 세상에서 가장 쉬운 돈으로 회사 읽기                    | [Cathy][cathy_publ]            | [🔗][cathy_prvw]       |
 | [돈키레터][donkey]            | 주 1회 | 이메일    | 돈 버는 열쇠를 알려주는 뉴스레터                       | [효라클][donkey_publ]          | [🔗][donkey_prvw]      |
 | [디스트리트][dstreet]         | 주 1회 | 이메일    | 매일경제와 함께하는 블록체인 미디어                    | [디스트리트][dstreet_publ]     | [🔗][dstreet_prvw]     |
@@ -176,6 +177,9 @@
 [nugget_publ]: https://uget.co.kr/
 [nugget_prvw]: https://uget.co.kr/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=6588661&t=board
 
+[ants]: https://maily.so/antslab
+[ants_publ]: https://www.instagram.com/ants_lab/
+[ants_prvw]: https://maily.so/antslab
 
 ## 시사
 
