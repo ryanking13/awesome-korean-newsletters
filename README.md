@@ -193,6 +193,7 @@
 | [뉴닉][newneek]         | 주 3회 | 이메일    | 우리가 시간이 없지, 세상이 안 궁금하냐                       | [뉴닉][newneek_publ]      | [🔗][newneek_prvw]  |
 | [뉴스페퍼민트][mint]    | 비정기 | 홈페이지  | 화제가 된 외신을 소개                                        | [뉴스페퍼민트][mint_publ] | [🔗][mint_prvw]     |
 | [더슬랭][slang]         | 주 3회 | 이메일    | 당신의 삶에 관련된 <br /> 다양한 사건과 정보들을 만나보세요! | [더슬랭][slang_publ]      | [🔗][slang_prvw]    |
+| [마부뉴스][mabu]        | 주 1회 | 이메일    | 데이터로 보는 뉴스의 맥락                                    | [SBS뉴스][mabu_publ]      | [🔗][mabu_prvw]     |
 | [매콤달콤][macom]       | 주 5회 | 이메일    | 매경이 전하는 세상의 지식                                    | [매일경제][macom_publ]    | [🔗][macom_prvw]    |
 | [뭐라노][kookje]        | 주 5회 | 이메일    | 짧고 굵게, 핵심만 정리 <br /> 뉴스 세줄 요약                 | [국제신문][kookje_publ]   | [🔗][kookje_prvw]   |
 | [미스터동][mrdong]      | 주 3회 | 이메일    | 어디 가서 아는 척, <br /> 할 수 있는 정보                    | [미스터동][mrdong_publ]   |                    |
@@ -236,6 +237,10 @@
 [kookje]: http://www.kookje.co.kr/contents/
 [kookje_publ]: http://www.kookje.co.kr/
 [kookje_prvw]: http://www.kookje.co.kr/contents/list.asp?clss_cd=320500
+
+[mabu]: https://page.stibee.com/subscriptions/56136
+[mabu_publ]: https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000114&plink=HEADER&cooper=MABU
+[mabu_prvw]: https://news.sbs.co.kr/news/mabuList.do
 
 
 ## 기타
