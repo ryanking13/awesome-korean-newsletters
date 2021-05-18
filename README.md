@@ -263,6 +263,7 @@
 | [쏠트-호][saltho]          | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                             | [Designpress][saltho_publ]      | [🔗][saltho_prvw]   |
 | [어거스트][august]         | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기            | [어거스트][august_publ]         | [🔗][august_prvw]   |
 | [앨리스모먼트][alice]      | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                  | [앨리스][alice_publ]            | [🔗][alice_prvw]    |
+| [에그브렉][eggbreak]       | 격주   | 이메일    | 요즘 나오는 책 궁금할 땐                                 | [에그브렉][eggbreak_publ]       | [🔗][eggbreak_prvw] |
 | [위클리어스][earth]        | 주 1회 | 이메일    | 한 눈에 보는 주간 환경 이슈                              | [서울환경운동연합][earth_publ]  | [🔗][earth_prvw]    |
 | [주말랭이][weekend]        | 주 1회 | 이메일    | 이번 주말엔 뭐할랭~                                      | [주말랭이][weekend_publ]        | [🔗][weekend_prvw]  |
 | [퍼블리][publy]            | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지           | [퍼블리][publy_publ]            |                    |
@@ -363,6 +364,10 @@
 [nomwoosa]: https://docs.google.com/forms/d/1J-zpdimjf2cfO0PK6BM9JYd-8VprljCp3SAq05BzWzA/viewform?edit_requested=true
 [nomwoosa_publ]: https://www.instagram.com/nomwoosa/
 [nomwoosa_prvw]: https://page.stibee.com/archives/65672
+
+[eggbreak]: https://www.notion.so/Egg-Break-s-house-815443c0520541e1a775f0441db9bcfa
+[eggbreak_publ]: https://www.instagram.com/egg_break/
+[eggbreak_prvw]: https://page.stibee.com/archives/61665
 
 ## 발간 중지
 
