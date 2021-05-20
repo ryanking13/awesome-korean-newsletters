@@ -190,6 +190,7 @@
 
 | 제목                    | 주기   | 발간 형태 | 설명                                                         | 발간인                    | 미리보기           |
 | :---------------------- | :----- | :-------- | :----------------------------------------------------------- | :------------------------ | :----------------- |
+| [굿뉴스][goodnews]      | 비정기 | 이메일    | 우리들 곁까지 전달되지 못하는 <br /> 세상의 좋은 뉴스        | [굿뉴스][goodnews_publ]   | [🔗][goodnews_prvw] |
 | [뉴닉][newneek]         | 주 3회 | 이메일    | 우리가 시간이 없지, 세상이 안 궁금하냐                       | [뉴닉][newneek_publ]      | [🔗][newneek_prvw]  |
 | [뉴스페퍼민트][mint]    | 비정기 | 홈페이지  | 화제가 된 외신을 소개                                        | [뉴스페퍼민트][mint_publ] | [🔗][mint_prvw]     |
 | [더슬랭][slang]         | 주 3회 | 이메일    | 당신의 삶에 관련된 <br /> 다양한 사건과 정보들을 만나보세요! | [더슬랭][slang_publ]      | [🔗][slang_prvw]    |
@@ -242,6 +243,9 @@
 [mabu_publ]: https://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000114&plink=HEADER&cooper=MABU
 [mabu_prvw]: https://news.sbs.co.kr/news/mabuList.do
 
+[goodnews]: https://page.stibee.com/subscriptions/72991
+[goodnews_publ]: https://www.instagram.com/goodnews.lab/
+[goodnews_prvw]: https://page.stibee.com/archives/72991
 
 ## 기타
 
@@ -271,7 +275,7 @@
 | [캐릿][careet]             | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치     | [대학내일][careet_publ]         | [🔗][careet_prvw]   |
 | [한편의 편지][minumsa]     | 주 1회 | 이메일    | 책보다 짧고 논문보다 쉬운 <br /> 한편의 인문학           | [민음사][minumsa_publ]          | [🔗][minumsa_prvw]  |
 | [ANTIEGG][antiegg]         | 주 2회 | 이메일    | 문화예술 큐레이션 플랫폼                                 | [ANTIEGG][antiegg_publ]         | [🔗][antiegg_prvw]  |
-| [J의 편지][jletter]         | 주 1회 | 이메일    | 취향 큐레이션 뉴스레터                                 | [김혜준][jletter_publ]         | [🔗][jletter_prvw]  |
+| [J의 편지][jletter]        | 주 1회 | 이메일    | 취향 큐레이션 뉴스레터                                   | [김혜준][jletter_publ]          | [🔗][jletter_prvw]  |
 
 
 [theedit]: http://the-edit.co.kr/newsletter
