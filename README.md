@@ -276,6 +276,7 @@
 | [캐릿][careet]                | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치     | [대학내일][careet_publ]         | [🔗][careet_prvw]   |
 | [한편의 편지][minumsa]        | 주 1회 | 이메일    | 책보다 짧고 논문보다 쉬운 <br /> 한편의 인문학           | [민음사][minumsa_publ]          | [🔗][minumsa_prvw]  |
 | [ANTIEGG][antiegg]            | 주 2회 | 이메일    | 문화예술 큐레이션 플랫폼                                 | [ANTIEGG][antiegg_publ]         | [🔗][antiegg_prvw]  |
+| [BE.LETTER][bletter]          | 주 1회 | 이메일    | 스티비 팀이 소개하는 새로운 뉴스레터                     | [스티비][bletter_publ]          | [🔗][bletter_prvw]  |
 | [J의 편지][jletter]           | 주 1회 | 이메일    | 취향 큐레이션 뉴스레터                                   | [김혜준][jletter_publ]          | [🔗][jletter_prvw]  |
 
 
@@ -382,6 +383,10 @@
 [movie_hk]: https://www.hankookilbo.com/NewsLetter/movie
 [movie_hk_publ]: https://www.hankookilbo.com/NewsLetter/movie
 [movie_hk_prvw]: https://www.hankookilbo.com/NewsLetter/movie
+
+[bletter]: https://page.stibee.com/subscriptions/62723
+[bletter_publ]: https://stibee.com/
+[bletter_prvw]: https://beletter.email/BE-LETTER-bd348a9092044a1bbc95adfa25fccb55
 
 ## 발간 중지
 
