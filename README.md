@@ -263,7 +263,7 @@
 | [부딩][booding]               | 주 2회 | 이메일    | 부.알.못 밀레니얼을 위한 <br /> 부동산 뉴스레터                 | [부딩][booding_publ]            | [🔗][booding_prvw]  |
 | [북저널리즘 톡스][book]       | 주 1회 | 이메일    | 혁신가의 관점과 통찰, <br/> 에디터의 감각을 담아                | [스리체어스][book_publ]         | [🔗][book_prvw]     |
 | [빵슐랭가이드][breadguide]    | 주 1회 | 이메일    | '빵 덕후' 현직 기자가 쓰는 <br /> 빵집 큐레이팅 뉴스레터        | [빵슐랭가이드][breadguide_publ] |                    |
-| [서울라이터즈][seoul]]        | 주 1회 | 이메일    | 트렌드, 테크, 크리에이티브, <br /> 아이디어 발상을 위한 모든 것 | [서울라이터][seoul_publ]        | [🔗][seoul_prvw]    |
+| [서울라이터즈][seoul]         | 주 1회 | 이메일    | 트렌드, 테크, 크리에이티브, <br /> 아이디어 발상을 위한 모든 것 | [서울라이터][seoul_publ]        | [🔗][seoul_prvw]    |
 | [스요레터][stibee]            | 주 1회 | 이메일    | 마케터와 크리에이터를 위한 <br/> 다양한 읽을거리                | [스티비][stibee_publ]           | [🔗][stibee_prvw]   |
 | [쏠트-호][saltho]             | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                                    | [Designpress][saltho_publ]      | [🔗][saltho_prvw]   |
 | [어거스트][august]            | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기                   | [어거스트][august_publ]         | [🔗][august_prvw]   |
@@ -359,7 +359,7 @@
 
 [weekend]: https://page.stibee.com/subscriptions/78183
 [weekend_publ]: https://www.notion.so/2937e3e4f9884521a79198eac3cd07ef
-[weekend_prvw]: https://stibee.com/api/v1.0/emails/share/1aZJQZ1WSoYlQZUZGUZd79AMlvKkbg==
+[weekend_prvw]: https://page.stibee.com/archives/78183
 
 [newsool]: https://page.stibee.com/subscriptions/89686
 [newsool_publ]: https://www.instagram.com/newsooletter/
