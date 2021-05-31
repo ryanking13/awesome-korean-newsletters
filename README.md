@@ -10,15 +10,16 @@
 
 ## 개발
 
-| 제목                             | 주기   | 발간 형태 | 설명                                            | 발간인                        | 미리보기                |
-| :------------------------------- | :----- | :-------- | :---------------------------------------------- | :---------------------------- | :---------------------- |
-| [개발자스럽다][gaerae]           | 월 1회 | 이메일    | 다양한 기술 정보를 찾아 <br /> 가치를 더해 공유 | [개래닷컴][gaerae_publ]       | [🔗][gaerae_prvw]        |
-| [Daily DevBlog][devblog]         | 주 7회 | 이메일    | 개발관련 블로그를 수집하여 제공                 | [Kwon Tae Kwan][devblog_publ] | [🔗][devblog_prvw]       |
-| [FE News][fenews]                | 월 1회 | 홈페이지  | FE 기술 소식 큐레이션 뉴스레터                  | [Naver FE][fenews_publ]       | [🔗][fenews_prvw]        |
-| [GeekNews][geek]                 | 비정기 | 홈페이지  | Geek 들을 위한 뉴스 서비스                      | [Team Hada][geek_publ]        | [🔗][geek_prvw]          |
-| [Outsider's 기술 뉴스][outsider] | 격주   | 홈페이지  | 웹 개발 및 다양한 업계의 소식                   | [Outsider][outsider_publ]     | [🔗][outsider_prvw]      |
-| [TechBlogPosts][techblogposts]   | 비정기 | 홈페이지  | 여러 IT 기술 블로그 포스트                      | [정태훈][techblogposts_publ]  | [🔗][techblogposts_prvw] |
-| [WeeklyArxivTalk][arxivtalk]     | 주 1회 | 홈페이지  | 한주간 새롭게 공개된 <br /> AI 연구 논문 공유   | [하정우][arxivtalk_publ]      | [🔗][arxivtalk_prvw]     |
+| 제목                             | 주기   | 발간 형태 | 설명                                            | 발간인                          | 미리보기                |
+| :------------------------------- | :----- | :-------- | :---------------------------------------------- | :------------------------------ | :---------------------- |
+| [개발자스럽다][gaerae]           | 월 1회 | 이메일    | 다양한 기술 정보를 찾아 <br /> 가치를 더해 공유 | [개래닷컴][gaerae_publ]         | [🔗][gaerae_prvw]        |
+| [Daily DevBlog][devblog]         | 주 7회 | 이메일    | 개발관련 블로그를 수집하여 제공                 | [Kwon Tae Kwan][devblog_publ]   | [🔗][devblog_prvw]       |
+| [Dev Event][dev_event]           | 주 1회 | 이메일    | 개발자 컨퍼런스 및 해커톤 일정                  | [용감한 친구들][dev_event_publ] | [🔗][dev_event_prvw]     |
+| [FE News][fenews]                | 월 1회 | 홈페이지  | FE 기술 소식 큐레이션 뉴스레터                  | [Naver FE][fenews_publ]         | [🔗][fenews_prvw]        |
+| [GeekNews][geek]                 | 비정기 | 홈페이지  | Geek 들을 위한 뉴스 서비스                      | [Team Hada][geek_publ]          | [🔗][geek_prvw]          |
+| [Outsider's 기술 뉴스][outsider] | 격주   | 홈페이지  | 웹 개발 및 다양한 업계의 소식                   | [Outsider][outsider_publ]       | [🔗][outsider_prvw]      |
+| [TechBlogPosts][techblogposts]   | 비정기 | 홈페이지  | 여러 IT 기술 블로그 포스트                      | [정태훈][techblogposts_publ]    | [🔗][techblogposts_prvw] |
+| [WeeklyArxivTalk][arxivtalk]     | 주 1회 | 홈페이지  | 한주간 새롭게 공개된 <br /> AI 연구 논문 공유   | [하정우][arxivtalk_publ]        | [🔗][arxivtalk_prvw]     |
 
 [devblog]: http://daily-devblog.com/
 [devblog_publ]: https://taetaetae.github.io/
@@ -47,6 +48,10 @@
 [arxivtalk]: https://github.com/jungwoo-ha/WeeklyArxivTalk
 [arxivtalk_publ]: https://github.com/jungwoo-ha
 [arxivtalk_prvw]: https://github.com/jungwoo-ha/WeeklyArxivTalk/issues/1
+
+[dev_event]: https://github.com/brave-people/Dev-Event
+[dev_event_publ]: https://github.com/brave-people
+[dev_event_prvw]: https://github.com/brave-people/Dev-Event-Subscribe/issues
 ## 테크 / IT
 
 | 제목                      | 주기   | 발간 형태 | 설명                                                             | 발간인                         | 미리보기              |
