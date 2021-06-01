@@ -414,6 +414,10 @@
 - [maily](https://maily.so/)
 - [mailchimp](https://mailchimp.com/)
 
+## 기타 뉴스레터 관련 서비스
+
+- [heybunny](https://www.heybunny.io/)
+
 ### References
 
 - [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
