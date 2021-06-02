@@ -1,6 +1,6 @@
 # Awesome Korean Newsletters [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Contributions](https://img.shields.io/badge/contibutions-welcome-1abc9c.svg)](https://shields.io/)
@@ -459,6 +459,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://ryanking13.github.io"><img src="https://avatars.githubusercontent.com/u/24893111?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gyeongjae Choi</b></sub></a><br /><a href="https://github.com/ryanking13/awesome-korean-newsletters/commits?author=ryanking13" title="Code">💻</a></td>
+    <td align="center"><a href="https://munjinoo.github.io/"><img src="https://avatars.githubusercontent.com/u/11063215?v=4?s=100" width="100px;" alt=""/><br /><sub><b>NOO</b></sub></a><br /><a href="https://github.com/ryanking13/awesome-korean-newsletters/commits?author=munjinoo" title="Code">💻</a></td>
   </tr>
 </table>
 
