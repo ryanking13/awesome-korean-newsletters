@@ -252,39 +252,97 @@
 [goodnews_publ]: https://www.instagram.com/goodnews.lab/
 [goodnews_prvw]: https://page.stibee.com/archives/72991
 
+## 문화 / 예술
+
+| 제목                    | 주기   | 발간 형태 | 설명                                             | 발간인                    | 미리보기            |
+| :---------------------- | :----- | :-------- | :----------------------------------------------- | :------------------------ | :------------------ |
+| [고독단][godok]         | 주 1회 | 이메일    | 지금 당신의 인생에 도움이 되는 책                | [창비][godok_publ]        | [🔗][godok_prvw]     |
+| [글로벌게임뉴스][game]  | 주 1회 | 이메일    | 1주일간의 글로벌 게임 뉴스                       | [UrsusVenatus][game_publ] | [🔗][game_prvw]      |
+| [문장줍기][munjang]     | 주 1회 | 이메일    | 당신에게 보내는 반짝거리는 문장들                | [소얀][munjang_publ]      | [🔗][munjang_prvw]   |
+| [북저널리즘 톡스][book] | 주 1회 | 이메일    | 혁신가의 관점과 통찰, <br/> 에디터의 감각을 담아 | [스리체어스][book_publ]   | [🔗][book_prvw]      |
+| [에그브렉][eggbreak]    | 격주   | 이메일    | 요즘 나오는 책 궁금할 땐                         | [에그브렉][eggbreak_publ] | [🔗][eggbreak_prvw]  |
+| [영화로운][movie_hk]    | 주 1회 | 이메일    | 영화 전문 기자가 전하는 <br/> 남다른 시네마 토크 | [한국일보][movie_hk_publ] | [🔗][movie_hk_prvw]  |
+| [책돌이편지][bookstone] | 주 1회 | 이메일    | 북스톤과 비컷 출판사의 이야기                    | [북스톤][bookstone_publ]  | [🔗][bookstone_prvw] |
+| [한편의 편지][minumsa]  | 주 1회 | 이메일    | 책보다 짧고 논문보다 쉬운 <br /> 한편의 인문학   | [민음사][minumsa_publ]    | [🔗][minumsa_prvw]   |
+| [ANTIEGG][antiegg]      | 주 2회 | 이메일    | 문화예술 큐레이션 플랫폼                         | [ANTIEGG][antiegg_publ]   | [🔗][antiegg_prvw]   |
+
+[godok]: https://page.stibee.com/subscriptions/61705
+[godok_publ]: https://switch.changbi.com/
+[godok_prvw]: https://www.notion.so/af6f68f10d5040789e7d9afa1d527855
+
+[game]: https://maily.so/ursusvenatus
+[game_publ]: https://maily.so/ursusvenatus
+[game_prvw]: https://maily.so/ursusvenatus/posts/0b7763
+
+[munjang]: https://page.stibee.com/subscriptions/59924
+[munjang_publ]: https://brunch.co.kr/@whaleyeon
+[munjang_prvw]: https://page.stibee.com/archives/59924
+
+[book]: https://www.bookjournalism.com/talks
+[book_publ]: https://www.bookjournalism.com/
+[book_prvw]: https://www.bookjournalism.com/talks/2040
+
+[eggbreak]: https://www.notion.so/Egg-Break-s-house-815443c0520541e1a775f0441db9bcfa
+[eggbreak_publ]: https://www.instagram.com/egg_break/
+[eggbreak_prvw]: https://page.stibee.com/archives/61665
+
+[movie_hk]: https://www.hankookilbo.com/NewsLetter/movie
+[movie_hk_publ]: https://www.hankookilbo.com/NewsLetter/movie
+[movie_hk_prvw]: https://www.hankookilbo.com/NewsLetter/movie
+
+[bookstone]: https://www.book-stone.co.kr/subscribe
+[bookstone_publ]: https://www.book-stone.co.kr/index
+[bookstone_prvw]: https://www.book-stone.co.kr/letter
+
+[minumsa]: https://minumsa.com/event/32747/
+[minumsa_publ]: http://minumsa.com/
+[minumsa_prvw]: http://minumsa.com/community/pubserially/?trm=228
+
+[antiegg]: https://page.stibee.com/subscriptions/85471
+[antiegg_publ]: https://antiegg.kr/ABOUT-US
+[antiegg_prvw]: https://antiegg.kr/DAILY/view/2347232@8168040
+
+## 푸드
+
+| 제목                       | 주기   | 발간 형태 | 설명                                                            | 발간인                          | 미리보기           |
+| :------------------------- | :----- | :-------- | :-------------------------------------------------------------- | :------------------------------ | :----------------- |
+| [뉴술레터][newsool]        | 주 1회 | 이메일    | 수요일의 술맛나는 뉴스레터                                      | [뉴술레터][newsool_publ]        | [🔗][newsool_prvw]  |
+| [미쉬울랭][mshl]           | 주 1회 | 이메일    | 밀키트계의 미슐랭 가이드가 될거야                               | [미쉬울랭][mshl_publ]           | [🔗][mshl_prvw]     |
+| [빵슐랭가이드][breadguide] | 주 1회 | 이메일    | '빵 덕후' 현직 기자가 쓰는 <br /> 빵집 큐레이팅 뉴스레터        | [빵슐랭가이드][breadguide_publ] |                    |
+
+[newsool]: https://page.stibee.com/subscriptions/89686
+[newsool_publ]: https://www.instagram.com/newsooletter/
+[newsool_prvw]: https://page.stibee.com/archives/89686
+
+[mshl]: https://page.stibee.com/subscriptions/100626
+[mshl_publ]: https://www.instagram.com/mshl_guide/
+[mshl_prvw]: https://page.stibee.com/archives/100626
+
+[breadguide]: https://page.stibee.com/subscriptions/69711
+[breadguide_publ]: https://breadguide.co.kr/
+<!-- [breadguide_prvw]: -->
+
 ## 기타
 
-| 제목                       | 주기   | 발간 형태 | 설명                                                            | 발간인                          | 미리보기            |
-| :------------------------- | :----- | :-------- | :-------------------------------------------------------------- | :------------------------------ | :------------------ |
-| [고독단][godok]            | 주 1회 | 이메일    | 지금 당신의 인생에 도움이 되는 책                               | [창비][godok_publ]              | [🔗][godok_prvw]     |
-| [글로벌게임뉴스][game]     | 주 1회 | 이메일    | 1주일간의 글로벌 게임 뉴스                                      | [UrsusVenatus][game_publ]       | [🔗][game_prvw]      |
-| [까탈로그][theedit]        | 주 1회 | 이메일    | 까탈스럽게 고른 취향 뉴스레터                                   | [디에디트][theedit_publ]        |                     |
-| [뉴술레터][newsool]        | 주 1회 | 이메일    | 수요일의 술맛나는 뉴스레터                                      | [뉴술레터][newsool_publ]        | [🔗][newsool_prvw]   |
-| [당근레터][nomwoosa]       | 격주   | 이메일    | 꼭 알아야 할 노동법                                             | [노무사][nomwoosa_publ]         | [🔗][nomwoosa_prvw]  |
-| [당근메일][carrot]         | 주 1회 | 이메일    | 생산성에 대한 <br/> 생각과 근육을 튼튼하게                      | [당근메일][carrot_publ]         |                     |
-| [두부레터][dubu]           | 주 1회 | 이메일    | 내집마련 부린이를 위한 내집레터                                 | [베리빈][dubu_publ]             | [🔗][dubu_prvw]      |
-| [문장줍기][munjang]        | 주 1회 | 이메일    | 당신에게 보내는 반짝거리는 문장들                               | [소얀][munjang_publ]            | [🔗][munjang_prvw]   |
-| [미쉬울랭][mshl]           | 주 1회 | 이메일    | 밀키트계의 미슐랭 가이드가 될거야                               | [미쉬울랭][mshl_publ]           | [🔗][mshl_prvw]      |
-| [부딩][booding]            | 주 2회 | 이메일    | 부.알.못 밀레니얼을 위한 <br /> 부동산 뉴스레터                 | [부딩][booding_publ]            | [🔗][booding_prvw]   |
-| [북저널리즘 톡스][book]    | 주 1회 | 이메일    | 혁신가의 관점과 통찰, <br/> 에디터의 감각을 담아                | [스리체어스][book_publ]         | [🔗][book_prvw]      |
-| [빵슐랭가이드][breadguide] | 주 1회 | 이메일    | '빵 덕후' 현직 기자가 쓰는 <br /> 빵집 큐레이팅 뉴스레터        | [빵슐랭가이드][breadguide_publ] |                     |
-| [서울라이터즈][seoul]      | 주 1회 | 이메일    | 트렌드, 테크, 크리에이티브, <br /> 아이디어 발상을 위한 모든 것 | [서울라이터][seoul_publ]        | [🔗][seoul_prvw]     |
-| [스요레터][stibee]         | 주 1회 | 이메일    | 마케터와 크리에이터를 위한 <br/> 다양한 읽을거리                | [스티비][stibee_publ]           | [🔗][stibee_prvw]    |
-| [쏠트-호][saltho]          | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                                    | [Designpress][saltho_publ]      | [🔗][saltho_prvw]    |
-| [어거스트][august]         | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기                   | [어거스트][august_publ]         | [🔗][august_prvw]    |
-| [영화로운][movie_hk]       | 주 1회 | 이메일    | 영화 전문 기자가 전하는 <br/> 남다른 시네마 토크                | [한국일보][movie_hk_publ]       | [🔗][movie_hk_prvw]  |
-| [앨리스모먼트][alice]      | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                         | [앨리스][alice_publ]            | [🔗][alice_prvw]     |
-| [에그브렉][eggbreak]       | 격주   | 이메일    | 요즘 나오는 책 궁금할 땐                                        | [에그브렉][eggbreak_publ]       | [🔗][eggbreak_prvw]  |
-| [위클리어스][earth]        | 주 1회 | 이메일    | 한 눈에 보는 주간 환경 이슈                                     | [서울환경운동연합][earth_publ]  | [🔗][earth_prvw]     |
-| [주말랭이][weekend]        | 주 1회 | 이메일    | 이번 주말엔 뭐할랭~                                             | [주말랭이][weekend_publ]        | [🔗][weekend_prvw]   |
-| [책돌이편지][bookstone]    | 주 1회 | 이메일    | 북스톤과 비컷 출판사의 이야기                                   | [북스톤][bookstone_publ]        | [🔗][bookstone_prvw] |
-| [퍼블리][publy]            | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지                  | [퍼블리][publy_publ]            |                     |
-| [프로젝트 썸원][someone]   | 주 2회 | 이메일    | 읽었던 콘텐츠 중 <br/> 괜찮은 것들을 골라                       | [윤성원][someone_publ]          | [🔗][someone_prvw]   |
-| [캐릿][careet]             | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치            | [대학내일][careet_publ]         | [🔗][careet_prvw]    |
-| [한편의 편지][minumsa]     | 주 1회 | 이메일    | 책보다 짧고 논문보다 쉬운 <br /> 한편의 인문학                  | [민음사][minumsa_publ]          | [🔗][minumsa_prvw]   |
-| [ANTIEGG][antiegg]         | 주 2회 | 이메일    | 문화예술 큐레이션 플랫폼                                        | [ANTIEGG][antiegg_publ]         | [🔗][antiegg_prvw]   |
-| [BE.LETTER][bletter]       | 주 1회 | 이메일    | 스티비 팀이 소개하는 <br /> 새로운 뉴스레터                     | [스티비][bletter_publ]          | [🔗][bletter_prvw]   |
-| [J의 편지][jletter]        | 주 1회 | 이메일    | 취향 큐레이션 뉴스레터                                          | [김혜준][jletter_publ]          | [🔗][jletter_prvw]   |
+| 제목                       | 주기   | 발간 형태 | 설명                                                            | 발간인                          | 미리보기           |
+| :------------------------- | :----- | :-------- | :-------------------------------------------------------------- | :------------------------------ | :----------------- |
+| [까탈로그][theedit]        | 주 1회 | 이메일    | 까탈스럽게 고른 취향 뉴스레터                                   | [디에디트][theedit_publ]        |                    |
+| [당근레터][nomwoosa]       | 격주   | 이메일    | 꼭 알아야 할 노동법                                             | [노무사][nomwoosa_publ]         | [🔗][nomwoosa_prvw] |
+| [당근메일][carrot]         | 주 1회 | 이메일    | 생산성에 대한 <br/> 생각과 근육을 튼튼하게                      | [당근메일][carrot_publ]         |                    |
+| [두부레터][dubu]           | 주 1회 | 이메일    | 내집마련 부린이를 위한 내집레터                                 | [베리빈][dubu_publ]             | [🔗][dubu_prvw]     |
+| [부딩][booding]            | 주 2회 | 이메일    | 부.알.못 밀레니얼을 위한 <br /> 부동산 뉴스레터                 | [부딩][booding_publ]            | [🔗][booding_prvw]  |
+| [서울라이터즈][seoul]      | 주 1회 | 이메일    | 트렌드, 테크, 크리에이티브, <br /> 아이디어 발상을 위한 모든 것 | [서울라이터][seoul_publ]        | [🔗][seoul_prvw]    |
+| [스요레터][stibee]         | 주 1회 | 이메일    | 마케터와 크리에이터를 위한 <br/> 다양한 읽을거리                | [스티비][stibee_publ]           | [🔗][stibee_prvw]   |
+| [쏠트-호][saltho]          | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                                    | [Designpress][saltho_publ]      | [🔗][saltho_prvw]   |
+| [어거스트][august]         | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기                   | [어거스트][august_publ]         | [🔗][august_prvw]   |
+| [앨리스모먼트][alice]      | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                         | [앨리스][alice_publ]            | [🔗][alice_prvw]    |
+| [위클리어스][earth]        | 주 1회 | 이메일    | 한 눈에 보는 주간 환경 이슈                                     | [서울환경운동연합][earth_publ]  | [🔗][earth_prvw]    |
+| [주말랭이][weekend]        | 주 1회 | 이메일    | 이번 주말엔 뭐할랭~                                             | [주말랭이][weekend_publ]        | [🔗][weekend_prvw]  |
+| [퍼블리][publy]            | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지                  | [퍼블리][publy_publ]            |                    |
+| [프로젝트 썸원][someone]   | 주 2회 | 이메일    | 읽었던 콘텐츠 중 <br/> 괜찮은 것들을 골라                       | [윤성원][someone_publ]          | [🔗][someone_prvw]  |
+| [캐릿][careet]             | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치            | [대학내일][careet_publ]         | [🔗][careet_prvw]   |
+| [BE.LETTER][bletter]       | 주 1회 | 이메일    | 스티비 팀이 소개하는 <br /> 새로운 뉴스레터                     | [스티비][bletter_publ]          | [🔗][bletter_prvw]  |
+| [J의 편지][jletter]        | 주 1회 | 이메일    | 취향 큐레이션 뉴스레터                                          | [김혜준][jletter_publ]          | [🔗][jletter_prvw]  |
 
 
 [theedit]: http://the-edit.co.kr/newsletter
@@ -298,10 +356,6 @@
 [dubu]: https://page.stibee.com/subscriptions/98179?groupIds=73628
 [dubu_publ]: https://brunch.co.kr/@ilbuntok#info
 [dubu_prvw]: https://page.stibee.com/archives/98179
-
-[book]: https://www.bookjournalism.com/talks
-[book_publ]: https://www.bookjournalism.com/
-[book_prvw]: https://www.bookjournalism.com/talks/2040
 
 [august]: https://page.stibee.com/subscriptions/51479
 [august_publ]: https://maily.so/august
@@ -331,65 +385,25 @@
 [stibee_publ]: https://stibee.com/
 [stibee_prvw]: https://page.stibee.com/archives/3
 
-[antiegg]: https://page.stibee.com/subscriptions/85471
-[antiegg_publ]: https://antiegg.kr/ABOUT-US
-[antiegg_prvw]: https://antiegg.kr/DAILY/view/2347232@8168040
-
 [booding]: https://www.booding.co/
 [booding_publ]: https://www.booding.co/
 [booding_prvw]: https://www.booding.co/post/%EB%A7%88%EC%A7%80%EB%A7%89-%EB%8B%A8%EC%B6%94%EB%8A%94-%EC%B1%84%EC%9B%8C%EC%95%BC-%EC%A0%9C%EB%A7%9B
-
-[breadguide]: https://page.stibee.com/subscriptions/69711
-[breadguide_publ]: https://breadguide.co.kr/
-<!-- [breadguide_prvw]: -->
-
-[mshl]: https://page.stibee.com/subscriptions/100626
-[mshl_publ]: https://www.instagram.com/mshl_guide/
-[mshl_prvw]: https://page.stibee.com/archives/100626
 
 [earth]: https://www.weeklyearth.com/
 [earth_publ]: http://ecoseoul.or.kr/
 [earth_prvw]: https://www.weeklyearth.com/view
 
-[minumsa]: https://minumsa.com/event/32747/
-[minumsa_publ]: http://minumsa.com/
-[minumsa_prvw]: http://minumsa.com/community/pubserially/?trm=228
-
-[godok]: https://page.stibee.com/subscriptions/61705
-[godok_publ]: https://switch.changbi.com/
-[godok_prvw]: https://www.notion.so/af6f68f10d5040789e7d9afa1d527855
-
-[munjang]: https://page.stibee.com/subscriptions/59924
-[munjang_publ]: https://brunch.co.kr/@whaleyeon
-[munjang_prvw]: https://page.stibee.com/archives/59924
-
 [weekend]: https://page.stibee.com/subscriptions/78183
 [weekend_publ]: https://www.notion.so/2937e3e4f9884521a79198eac3cd07ef
 [weekend_prvw]: https://page.stibee.com/archives/78183
-
-[newsool]: https://page.stibee.com/subscriptions/89686
-[newsool_publ]: https://www.instagram.com/newsooletter/
-[newsool_prvw]: https://page.stibee.com/archives/89686
-
-[game]: https://maily.so/ursusvenatus
-[game_publ]: https://maily.so/ursusvenatus
-[game_prvw]: https://maily.so/ursusvenatus/posts/0b7763
 
 [nomwoosa]: https://docs.google.com/forms/d/1J-zpdimjf2cfO0PK6BM9JYd-8VprljCp3SAq05BzWzA/viewform?edit_requested=true
 [nomwoosa_publ]: https://www.instagram.com/nomwoosa/
 [nomwoosa_prvw]: https://page.stibee.com/archives/65672
 
-[eggbreak]: https://www.notion.so/Egg-Break-s-house-815443c0520541e1a775f0441db9bcfa
-[eggbreak_publ]: https://www.instagram.com/egg_break/
-[eggbreak_prvw]: https://page.stibee.com/archives/61665
-
 [jletter]: https://page.stibee.com/subscriptions/49517
 [jletter_publ]: https://haejunkim.oopy.io/
 [jletter_prvw]: https://www.notion.so/J-d3ef9dc886d746e8b65343036f059300
-
-[movie_hk]: https://www.hankookilbo.com/NewsLetter/movie
-[movie_hk_publ]: https://www.hankookilbo.com/NewsLetter/movie
-[movie_hk_prvw]: https://www.hankookilbo.com/NewsLetter/movie
 
 [bletter]: https://page.stibee.com/subscriptions/62723
 [bletter_publ]: https://stibee.com/
@@ -398,10 +412,6 @@
 [seoul]: https://page.stibee.com/subscriptions/72985
 [seoul_publ]: https://www.seoulwriter.com/about
 [seoul_prvw]: https://page.stibee.com/archives/72985
-
-[bookstone]: https://www.book-stone.co.kr/subscribe
-[bookstone_publ]: https://www.book-stone.co.kr/index
-[bookstone_prvw]: https://www.book-stone.co.kr/letter
 
 ## 발간 중지
 
