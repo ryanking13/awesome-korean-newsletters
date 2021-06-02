@@ -263,6 +263,7 @@
 | [에그브렉][eggbreak]    | 격주   | 이메일    | 요즘 나오는 책 궁금할 땐                         | [에그브렉][eggbreak_publ] | [🔗][eggbreak_prvw]  |
 | [영화로운][movie_hk]    | 주 1회 | 이메일    | 영화 전문 기자가 전하는 <br/> 남다른 시네마 토크 | [한국일보][movie_hk_publ] | [🔗][movie_hk_prvw]  |
 | [책돌이편지][bookstone] | 주 1회 | 이메일    | 북스톤과 비컷 출판사의 이야기                    | [북스톤][bookstone_publ]  | [🔗][bookstone_prvw] |
+| [플롯레터][plot]        | 주 2회 | 이메일    | 예술은 원래 쉽다                                 | [플롯][plot_publ]         | [🔗][plot_prvw]      |
 | [한편의 편지][minumsa]  | 주 1회 | 이메일    | 책보다 짧고 논문보다 쉬운 <br /> 한편의 인문학   | [민음사][minumsa_publ]    | [🔗][minumsa_prvw]   |
 | [ANTIEGG][antiegg]      | 주 2회 | 이메일    | 문화예술 큐레이션 플랫폼                         | [ANTIEGG][antiegg_publ]   | [🔗][antiegg_prvw]   |
 
@@ -294,6 +295,10 @@
 [bookstone_publ]: https://www.book-stone.co.kr/index
 [bookstone_prvw]: https://www.book-stone.co.kr/letter
 
+[plot]: https://page.stibee.com/subscriptions/64956
+[plot_publ]: https://playalot.imweb.me/
+[plot_prvw]: https://www.notion.so/82ade6c8992b40b9911758cfca37deba
+
 [minumsa]: https://minumsa.com/event/32747/
 [minumsa_publ]: http://minumsa.com/
 [minumsa_prvw]: http://minumsa.com/community/pubserially/?trm=228
@@ -304,11 +309,11 @@
 
 ## 푸드
 
-| 제목                       | 주기   | 발간 형태 | 설명                                                            | 발간인                          | 미리보기           |
-| :------------------------- | :----- | :-------- | :-------------------------------------------------------------- | :------------------------------ | :----------------- |
-| [뉴술레터][newsool]        | 주 1회 | 이메일    | 수요일의 술맛나는 뉴스레터                                      | [뉴술레터][newsool_publ]        | [🔗][newsool_prvw]  |
-| [미쉬울랭][mshl]           | 주 1회 | 이메일    | 밀키트계의 미슐랭 가이드가 될거야                               | [미쉬울랭][mshl_publ]           | [🔗][mshl_prvw]     |
-| [빵슐랭가이드][breadguide] | 주 1회 | 이메일    | '빵 덕후' 현직 기자가 쓰는 <br /> 빵집 큐레이팅 뉴스레터        | [빵슐랭가이드][breadguide_publ] |                    |
+| 제목                       | 주기   | 발간 형태 | 설명                                                     | 발간인                          | 미리보기          |
+| :------------------------- | :----- | :-------- | :------------------------------------------------------- | :------------------------------ | :---------------- |
+| [뉴술레터][newsool]        | 주 1회 | 이메일    | 수요일의 술맛나는 뉴스레터                               | [뉴술레터][newsool_publ]        | [🔗][newsool_prvw] |
+| [미쉬울랭][mshl]           | 주 1회 | 이메일    | 밀키트계의 미슐랭 가이드가 될거야                        | [미쉬울랭][mshl_publ]           | [🔗][mshl_prvw]    |
+| [빵슐랭가이드][breadguide] | 주 1회 | 이메일    | '빵 덕후' 현직 기자가 쓰는 <br /> 빵집 큐레이팅 뉴스레터 | [빵슐랭가이드][breadguide_publ] |                   |
 
 [newsool]: https://page.stibee.com/subscriptions/89686
 [newsool_publ]: https://www.instagram.com/newsooletter/
@@ -324,25 +329,25 @@
 
 ## 기타
 
-| 제목                       | 주기   | 발간 형태 | 설명                                                            | 발간인                          | 미리보기           |
-| :------------------------- | :----- | :-------- | :-------------------------------------------------------------- | :------------------------------ | :----------------- |
-| [까탈로그][theedit]        | 주 1회 | 이메일    | 까탈스럽게 고른 취향 뉴스레터                                   | [디에디트][theedit_publ]        |                    |
-| [당근레터][nomwoosa]       | 격주   | 이메일    | 꼭 알아야 할 노동법                                             | [노무사][nomwoosa_publ]         | [🔗][nomwoosa_prvw] |
-| [당근메일][carrot]         | 주 1회 | 이메일    | 생산성에 대한 <br/> 생각과 근육을 튼튼하게                      | [당근메일][carrot_publ]         |                    |
-| [두부레터][dubu]           | 주 1회 | 이메일    | 내집마련 부린이를 위한 내집레터                                 | [베리빈][dubu_publ]             | [🔗][dubu_prvw]     |
-| [부딩][booding]            | 주 2회 | 이메일    | 부.알.못 밀레니얼을 위한 <br /> 부동산 뉴스레터                 | [부딩][booding_publ]            | [🔗][booding_prvw]  |
-| [서울라이터즈][seoul]      | 주 1회 | 이메일    | 트렌드, 테크, 크리에이티브, <br /> 아이디어 발상을 위한 모든 것 | [서울라이터][seoul_publ]        | [🔗][seoul_prvw]    |
-| [스요레터][stibee]         | 주 1회 | 이메일    | 마케터와 크리에이터를 위한 <br/> 다양한 읽을거리                | [스티비][stibee_publ]           | [🔗][stibee_prvw]   |
-| [쏠트-호][saltho]          | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                                    | [Designpress][saltho_publ]      | [🔗][saltho_prvw]   |
-| [어거스트][august]         | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기                   | [어거스트][august_publ]         | [🔗][august_prvw]   |
-| [앨리스모먼트][alice]      | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                         | [앨리스][alice_publ]            | [🔗][alice_prvw]    |
-| [위클리어스][earth]        | 주 1회 | 이메일    | 한 눈에 보는 주간 환경 이슈                                     | [서울환경운동연합][earth_publ]  | [🔗][earth_prvw]    |
-| [주말랭이][weekend]        | 주 1회 | 이메일    | 이번 주말엔 뭐할랭~                                             | [주말랭이][weekend_publ]        | [🔗][weekend_prvw]  |
-| [퍼블리][publy]            | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지                  | [퍼블리][publy_publ]            |                    |
-| [프로젝트 썸원][someone]   | 주 2회 | 이메일    | 읽었던 콘텐츠 중 <br/> 괜찮은 것들을 골라                       | [윤성원][someone_publ]          | [🔗][someone_prvw]  |
-| [캐릿][careet]             | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치            | [대학내일][careet_publ]         | [🔗][careet_prvw]   |
-| [BE.LETTER][bletter]       | 주 1회 | 이메일    | 스티비 팀이 소개하는 <br /> 새로운 뉴스레터                     | [스티비][bletter_publ]          | [🔗][bletter_prvw]  |
-| [J의 편지][jletter]        | 주 1회 | 이메일    | 취향 큐레이션 뉴스레터                                          | [김혜준][jletter_publ]          | [🔗][jletter_prvw]  |
+| 제목                     | 주기   | 발간 형태 | 설명                                                            | 발간인                         | 미리보기           |
+| :----------------------- | :----- | :-------- | :-------------------------------------------------------------- | :----------------------------- | :----------------- |
+| [까탈로그][theedit]      | 주 1회 | 이메일    | 까탈스럽게 고른 취향 뉴스레터                                   | [디에디트][theedit_publ]       |                    |
+| [당근레터][nomwoosa]     | 격주   | 이메일    | 꼭 알아야 할 노동법                                             | [노무사][nomwoosa_publ]        | [🔗][nomwoosa_prvw] |
+| [당근메일][carrot]       | 주 1회 | 이메일    | 생산성에 대한 <br/> 생각과 근육을 튼튼하게                      | [당근메일][carrot_publ]        |                    |
+| [두부레터][dubu]         | 주 1회 | 이메일    | 내집마련 부린이를 위한 내집레터                                 | [베리빈][dubu_publ]            | [🔗][dubu_prvw]     |
+| [부딩][booding]          | 주 2회 | 이메일    | 부.알.못 밀레니얼을 위한 <br /> 부동산 뉴스레터                 | [부딩][booding_publ]           | [🔗][booding_prvw]  |
+| [서울라이터즈][seoul]    | 주 1회 | 이메일    | 트렌드, 테크, 크리에이티브, <br /> 아이디어 발상을 위한 모든 것 | [서울라이터][seoul_publ]       | [🔗][seoul_prvw]    |
+| [스요레터][stibee]       | 주 1회 | 이메일    | 마케터와 크리에이터를 위한 <br/> 다양한 읽을거리                | [스티비][stibee_publ]          | [🔗][stibee_prvw]   |
+| [쏠트-호][saltho]        | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                                    | [Designpress][saltho_publ]     | [🔗][saltho_prvw]   |
+| [어거스트][august]       | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기                   | [어거스트][august_publ]        | [🔗][august_prvw]   |
+| [앨리스모먼트][alice]    | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                         | [앨리스][alice_publ]           | [🔗][alice_prvw]    |
+| [위클리어스][earth]      | 주 1회 | 이메일    | 한 눈에 보는 주간 환경 이슈                                     | [서울환경운동연합][earth_publ] | [🔗][earth_prvw]    |
+| [주말랭이][weekend]      | 주 1회 | 이메일    | 이번 주말엔 뭐할랭~                                             | [주말랭이][weekend_publ]       | [🔗][weekend_prvw]  |
+| [퍼블리][publy]          | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지                  | [퍼블리][publy_publ]           |                    |
+| [프로젝트 썸원][someone] | 주 2회 | 이메일    | 읽었던 콘텐츠 중 <br/> 괜찮은 것들을 골라                       | [윤성원][someone_publ]         | [🔗][someone_prvw]  |
+| [캐릿][careet]           | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치            | [대학내일][careet_publ]        | [🔗][careet_prvw]   |
+| [BE.LETTER][bletter]     | 주 1회 | 이메일    | 스티비 팀이 소개하는 <br /> 새로운 뉴스레터                     | [스티비][bletter_publ]         | [🔗][bletter_prvw]  |
+| [J의 편지][jletter]      | 주 1회 | 이메일    | 취향 큐레이션 뉴스레터                                          | [김혜준][jletter_publ]         | [🔗][jletter_prvw]  |
 
 
 [theedit]: http://the-edit.co.kr/newsletter
