@@ -1,4 +1,7 @@
 # Awesome Korean Newsletters [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Contributions](https://img.shields.io/badge/contibutions-welcome-1abc9c.svg)](https://shields.io/)
 
@@ -445,3 +448,23 @@
 
 - Contribution Guide
 - Linter
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://ryanking13.github.io"><img src="https://avatars.githubusercontent.com/u/24893111?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gyeongjae Choi</b></sub></a><br /><a href="https://github.com/ryanking13/awesome-korean-newsletters/commits?author=ryanking13" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
