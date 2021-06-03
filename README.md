@@ -340,6 +340,7 @@
 | [스요레터][stibee]       | 주 1회 | 이메일    | 마케터와 크리에이터를 위한 <br/> 다양한 읽을거리                | [스티비][stibee_publ]          | [🔗][stibee_prvw]   |
 | [쏠트-호][saltho]        | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                                    | [Designpress][saltho_publ]     | [🔗][saltho_prvw]   |
 | [어거스트][august]       | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기                   | [어거스트][august_publ]        | [🔗][august_prvw]   |
+| [여름의 솜사탕][summer]  | 주 1회 | 이메일    | 취향 가득 담은 <br /> 생활밀착형 뉴스레터                       | [여름][summer_publ]            | [🔗][summer_prvw]   |
 | [앨리스모먼트][alice]    | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                         | [앨리스][alice_publ]           | [🔗][alice_prvw]    |
 | [위클리어스][earth]      | 주 1회 | 이메일    | 한 눈에 보는 주간 환경 이슈                                     | [서울환경운동연합][earth_publ] | [🔗][earth_prvw]    |
 | [주말랭이][weekend]      | 주 1회 | 이메일    | 이번 주말엔 뭐할랭~                                             | [주말랭이][weekend_publ]       | [🔗][weekend_prvw]  |
@@ -365,6 +366,10 @@
 [august]: https://page.stibee.com/subscriptions/51479
 [august_publ]: https://maily.so/august
 [august_prvw]: https://maily.so/august/posts/352f94
+
+[summer]: https://mailchi.mp/9e0e525bc03b/summercandy/#mail
+[summer_publ]: https://brunch.co.kr/@nerf-this
+[summer_prvw]: https://mailchi.mp/9e0e525bc03b/summercandy/#mail
 
 [alice]: https://alicemedia.co/1d9f3dfb28654fa8a6d670fdaa40566f
 [alice_publ]: https://www.instagram.com/alice_letter/
