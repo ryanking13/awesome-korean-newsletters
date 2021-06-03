@@ -1,0 +1,33 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ryanking13",
+      "name": "Gyeongjae Choi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24893111?v=4",
+      "profile": "https://ryanking13.github.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "munjinoo",
+      "name": "NOO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11063215?v=4",
+      "profile": "https://munjinoo.github.io/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "awesome-korean-newsletters",
+  "projectOwner": "ryanking13",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
