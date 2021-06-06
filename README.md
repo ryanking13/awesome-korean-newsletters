@@ -262,6 +262,7 @@
 | [고독단][godok]         | 주 1회 | 이메일    | 지금 당신의 인생에 도움이 되는 책                 | [창비][godok_publ]            | [🔗][godok_prvw]         |
 | [글로벌게임뉴스][game]  | 주 1회 | 이메일    | 1주일간의 글로벌 게임 뉴스                        | [UrsusVenatus][game_publ]     | [🔗][game_prvw]          |
 | [문장줍기][munjang]     | 주 1회 | 이메일    | 당신에게 보내는 반짝거리는 문장들                 | [소얀][munjang_publ]          | [🔗][munjang_prvw]       |
+| [반비 책타래][banbi]    | 격주   | 이메일    | 책과 책을 잇는 편지                               | [반비][banbi_publ]            | [🔗][banbi_prvw]         |
 | [북저널리즘 톡스][book] | 주 1회 | 이메일    | 혁신가의 관점과 통찰, <br/> 에디터의 감각을 담아  | [스리체어스][book_publ]       | [🔗][book_prvw]          |
 | [수플레][playlist]      | 주 1회 | 이메일    | 단 하나의 음악을 담은 <br/> 수요일의 플레이리스트 | [수플레][playlist_publ]       | [🔗][playlist_prvw]      |
 | [에그브렉][eggbreak]    | 격주   | 이메일    | 요즘 나오는 책 궁금할 땐                          | [에그브렉][eggbreak_publ]     | [🔗][eggbreak_prvw]      |
@@ -283,6 +284,10 @@
 [munjang]: https://page.stibee.com/subscriptions/59924
 [munjang_publ]: https://brunch.co.kr/@whaleyeon
 [munjang_prvw]: https://page.stibee.com/archives/59924
+
+[banbi]: https://page.stibee.com/subscriptions/80759
+[banbi_publ]: http://banbi.minumsa.com/
+[banbi_prvw]: https://page.stibee.com/archives/80759
 
 [book]: https://www.bookjournalism.com/talks
 [book_publ]: https://www.bookjournalism.com/
