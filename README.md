@@ -264,6 +264,7 @@
 | [문장줍기][munjang]     | 주 1회 | 이메일    | 당신에게 보내는 반짝거리는 문장들                 | [소얀][munjang_publ]          | [🔗][munjang_prvw]       |
 | [반비 책타래][banbi]    | 격주   | 이메일    | 책과 책을 잇는 편지                               | [반비][banbi_publ]            | [🔗][banbi_prvw]         |
 | [북저널리즘 톡스][book] | 주 1회 | 이메일    | 혁신가의 관점과 통찰, <br/> 에디터의 감각을 담아  | [스리체어스][book_publ]       | [🔗][book_prvw]          |
+| [비디오쟈-키][jockey]   | 주 1회 | 이메일    | 매주 영화와 드라마를 추천해드려요                 | [비디오쟈키][jockey_publ]     | [🔗][jockey_prvw]        |
 | [수플레][playlist]      | 주 1회 | 이메일    | 단 하나의 음악을 담은 <br/> 수요일의 플레이리스트 | [수플레][playlist_publ]       | [🔗][playlist_prvw]      |
 | [에그브렉][eggbreak]    | 격주   | 이메일    | 요즘 나오는 책 궁금할 땐                          | [에그브렉][eggbreak_publ]     | [🔗][eggbreak_prvw]      |
 | [영화로운][movie_hk]    | 주 1회 | 이메일    | 영화 전문 기자가 전하는 <br/> 남다른 시네마 토크  | [한국일보][movie_hk_publ]     | [🔗][movie_hk_prvw]      |
@@ -292,6 +293,10 @@
 [book]: https://www.bookjournalism.com/talks
 [book_publ]: https://www.bookjournalism.com/
 [book_prvw]: https://www.bookjournalism.com/talks/2040
+
+[jockey]: https://video-jockey.com/
+[jockey_publ]: https://brunch.co.kr/@video-jockey
+[jockey_prvw]: https://video-jockey.com/archive
 
 [playlist]: https://page.stibee.com/subscriptions/66675
 [playlist_publ]: https://www.instagram.com/wed_playlist/
