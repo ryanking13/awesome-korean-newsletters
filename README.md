@@ -337,6 +337,7 @@
 | [뉴술레터][newsool]        | 주 1회 | 이메일    | 수요일의 술맛나는 뉴스레터                               | [뉴술레터][newsool_publ]        | [🔗][newsool_prvw] |
 | [미쉬울랭][mshl]           | 주 1회 | 이메일    | 밀키트계의 미슐랭 가이드가 될거야                        | [미쉬울랭][mshl_publ]           | [🔗][mshl_prvw]    |
 | [빵슐랭가이드][breadguide] | 주 1회 | 이메일    | '빵 덕후' 현직 기자가 쓰는 <br /> 빵집 큐레이팅 뉴스레터 | [빵슐랭가이드][breadguide_publ] |                   |
+| [WKD 와인레터][wicked]     | 주 1회 | 이메일    | 3분만에 와인전문가 되는 법                               | [위키드][wickec_publ]           | [🔗][wicked_prvw]  |
 
 [newsool]: https://page.stibee.com/subscriptions/89686
 [newsool_publ]: https://www.instagram.com/newsooletter/
@@ -349,6 +350,10 @@
 [breadguide]: https://page.stibee.com/subscriptions/69711
 [breadguide_publ]: https://breadguide.co.kr/
 <!-- [breadguide_prvw]: -->
+
+[wicked]: https://page.stibee.com/subscriptions/80149
+[wicked_publ]: https://www.wkd-seoul.com/
+[wicked_prvw]: https://www.wkd-seoul.com/letter
 
 ## 기타
 
