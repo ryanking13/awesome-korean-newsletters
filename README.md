@@ -374,6 +374,7 @@
 | [당근메일][carrot]       | 주 1회 | 이메일    | 생산성에 대한 <br/> 생각과 근육을 튼튼하게                      | [당근메일][carrot_publ]        |                    |
 | [두부레터][dubu]         | 주 1회 | 이메일    | 내집마련 부린이를 위한 내집레터                                 | [베리빈][dubu_publ]            | [🔗][dubu_prvw]     |
 | [부딩][booding]          | 주 2회 | 이메일    | 부.알.못 밀레니얼을 위한 <br /> 부동산 뉴스레터                 | [부딩][booding_publ]           | [🔗][booding_prvw]  |
+| [베베레터][veve]         | 주 1회 | 이메일    | 최신 베지테리언 뉴스                                            | [베리베지][veve_publ]          | [🔗][veve_prvw]     |
 | [서울라이터즈][seoul]    | 주 1회 | 이메일    | 트렌드, 테크, 크리에이티브, <br /> 아이디어 발상을 위한 모든 것 | [서울라이터][seoul_publ]       | [🔗][seoul_prvw]    |
 | [스요레터][stibee]       | 주 1회 | 이메일    | 마케터와 크리에이터를 위한 <br/> 다양한 읽을거리                | [스티비][stibee_publ]          | [🔗][stibee_prvw]   |
 | [쏠트-호][saltho]        | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                                    | [Designpress][saltho_publ]     | [🔗][saltho_prvw]   |
@@ -400,6 +401,10 @@
 [dubu]: https://page.stibee.com/subscriptions/98179?groupIds=73628
 [dubu_publ]: https://brunch.co.kr/@ilbuntok#info
 [dubu_prvw]: https://page.stibee.com/archives/98179
+
+[veve]: https://page.stibee.com/subscriptions/58217
+[veve_publ]: https://www.instagram.com/veryvezy/
+[veve_prvw]: https://www.notion.so/6fc9c659969b466b95990668a8afaae7
 
 [august]: https://page.stibee.com/subscriptions/51479
 [august_publ]: https://maily.so/august
