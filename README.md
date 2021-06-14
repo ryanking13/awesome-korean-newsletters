@@ -388,6 +388,7 @@
 | [캐릿][careet]           | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치            | [대학내일][careet_publ]        | [🔗][careet_prvw]   |
 | [BE.LETTER][bletter]     | 주 1회 | 이메일    | 스티비 팀이 소개하는 <br /> 새로운 뉴스레터                     | [스티비][bletter_publ]         | [🔗][bletter_prvw]  |
 | [J의 편지][jletter]      | 주 1회 | 이메일    | 취향 큐레이션 뉴스레터                                          | [김혜준][jletter_publ]         | [🔗][jletter_prvw]  |
+| [TMI.FM][tmi.fm]         | 주 2회 | 이메일    | 크리에이티브 오너쉽을 위한 <br /> 텍스트 라디오                 | [차우진][tmi.fm_publ]          | [🔗][tmi.fm_prvw]   |
 
 
 [theedit]: http://the-edit.co.kr/newsletter
@@ -465,6 +466,10 @@
 [seoul]: https://page.stibee.com/subscriptions/72985
 [seoul_publ]: https://www.seoulwriter.com/about
 [seoul_prvw]: https://page.stibee.com/archives/72985
+
+[tmi.fm]: https://maily.so/draft.briefing
+[tmi.fm_publ]: https://maily.so/draft.briefing
+[tmi.fm_prvw]: https://maily.so/draft.briefing
 
 ## 발간 중지
 
