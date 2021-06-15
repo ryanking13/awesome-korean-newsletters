@@ -266,6 +266,7 @@
 | :---------------------- | :----- | :-------- | :------------------------------------------------ | :---------------------------- | :---------------------- |
 | [고독단][godok]         | 주 1회 | 이메일    | 지금 당신의 인생에 도움이 되는 책                 | [창비][godok_publ]            | [🔗][godok_prvw]         |
 | [글로벌게임뉴스][game]  | 주 1회 | 이메일    | 1주일간의 글로벌 게임 뉴스                        | [UrsusVenatus][game_publ]     | [🔗][game_prvw]          |
+| [글릿][glit]            | 주 1회 | 이메일    | 클래식 음악 큐레이팅 서비스                       | [글릿][glit_publ]             | [🔗][glit_prvw]          |
 | [문장줍기][munjang]     | 주 1회 | 이메일    | 당신에게 보내는 반짝거리는 문장들                 | [소얀][munjang_publ]          | [🔗][munjang_prvw]       |
 | [반비 책타래][banbi]    | 격주   | 이메일    | 책과 책을 잇는 편지                               | [반비][banbi_publ]            | [🔗][banbi_prvw]         |
 | [북저널리즘 톡스][book] | 주 1회 | 이메일    | 혁신가의 관점과 통찰, <br/> 에디터의 감각을 담아  | [스리체어스][book_publ]       | [🔗][book_prvw]          |
@@ -286,6 +287,10 @@
 [game]: https://maily.so/ursusvenatus
 [game_publ]: https://maily.so/ursusvenatus
 [game_prvw]: https://maily.so/ursusvenatus/posts/0b7763
+
+[glit]: https://page.stibee.com/subscriptions/71156
+[glit_publ]: https://www.glit.pw/aboutus
+[glit_prvw]: https://www.glit.pw/
 
 [munjang]: https://page.stibee.com/subscriptions/59924
 [munjang_publ]: https://brunch.co.kr/@whaleyeon
