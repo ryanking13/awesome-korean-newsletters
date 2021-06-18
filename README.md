@@ -123,6 +123,7 @@
 | [카드고릴라][cardgorilla]     | 주 1회 | 이메일    | 카드를 쓰는 이야기                                     | [카드고릴라][cardgorilla_publ] | [🔗][cardgorilla_prvw] |
 | [커피팟][coffeepot]           | 주 2회 | 이메일    | 쉽고 재밌는 해외 비즈 뉴스레터                         | [커피팟][coffeepot_publ]       | [🔗][coffeepot_prvw]   |
 | [티클레터][tickle]            | 주 1회 | 이메일    | 놓칠 수 있는 글로벌 기업 이슈                          | [티클][tickle_publ]            | [🔗][tickle_prvw]      |
+| [위클리 호박너구리][raccoon]         | 주 1회 | 이메일    | 취준생, 직장인을 위한 <br /> 종합 경제 뉴스레터        | [이재하][raccoon_publ]         | [🔗][raccoon_prvw]     |
 | [Startup Weekly][startup]     | 주 1회 | 이메일    | 스타트업 관련 소식과 정보를 한 눈에                    | [Glance][startup_publ]         | [🔗][startup_prvw]     |
 | [Two Cents][twocents]         | 격주   | 이메일    | 테크, 스타트업, VC 분야의 <br/> 흐름에 대하여          | [허진호][twocents_publ]        | [🔗][twocents_prvw]    |
 
@@ -181,6 +182,10 @@
 [tickle]: https://letter.tickleinvest.com/
 [tickle_publ]: https://tickleinvest.com/
 [tickle_prvw]: https://letter.tickleinvest.com/letter_210429_main/
+
+[raccoon]: https://pumpkin-raccoon.com/newsletter
+[raccoon_publ]: https://www.linkedin.com/in/jaeha-lee/
+[raccoon_prvw]: https://pumpkin-raccoon.com/newsletter
 
 [nugget]: https://page.stibee.com/subscriptions/55973
 [nugget_publ]: https://uget.co.kr/
