@@ -117,13 +117,14 @@
 | [순살브리핑][soonsal]         | 주 5회 | 이메일    | 모건스탠리 홍콩 출신 2인의 <br/> 금융·경제 뉴스 살코기 | [순살][soonsal_publ]           | [🔗][soonsal_prvw]     |
 | [앤츠랩][ants]                | 주 3회 | 이메일    | 건강한 주식 맛집                                       | [앤츠랩][ants_publ]            | [🔗][ants_prvw]        |
 | [어피티][uppity]              | 주 5회 | 이메일    | 사회초년생을 위한 <br/> 첫 번째 경제미디어             | [포브미디어][uppity_publ]      | [🔗][uppity_prvw]      |
+| [위클리 호박너구리][raccoon]  | 주 1회 | 이메일    | 취준생, 직장인을 위한 <br /> 종합 경제 뉴스레터        | [이재하][raccoon_publ]         | [🔗][raccoon_prvw]     |
 | [이슈 한 캔][cider]           | 주 2회 | 이메일    | 매주 다양한 경제 콘텐츠를                              | [사이다경제][cider_publ]       | [🔗][cider_prvw]       |
 | [인사이저][incizor]           | 매일   | 이메일    | 전날의 시황을 한 눈에, <br/> AI기반 투자레터           | [인사이저][incizor_publ]       |                       |
 | [전종현의 HWBI][insight]      | 주 1회 | 이메일    | 매주 비즈니스 인사이트를 전달                          | [전종현][insight_publ]         | [🔗][insight_prvw]     |
 | [카드고릴라][cardgorilla]     | 주 1회 | 이메일    | 카드를 쓰는 이야기                                     | [카드고릴라][cardgorilla_publ] | [🔗][cardgorilla_prvw] |
 | [커피팟][coffeepot]           | 주 2회 | 이메일    | 쉽고 재밌는 해외 비즈 뉴스레터                         | [커피팟][coffeepot_publ]       | [🔗][coffeepot_prvw]   |
 | [티클레터][tickle]            | 주 1회 | 이메일    | 놓칠 수 있는 글로벌 기업 이슈                          | [티클][tickle_publ]            | [🔗][tickle_prvw]      |
-| [위클리 호박너구리][raccoon]         | 주 1회 | 이메일    | 취준생, 직장인을 위한 <br /> 종합 경제 뉴스레터        | [이재하][raccoon_publ]         | [🔗][raccoon_prvw]     |
+| [팩플레터][factpl]            | 주 3회 | 이메일    | 잘나가는 기업들이 궁금할 땐                            | [팩플][factpl_publ]            | [🔗][factpl_prvw]      |
 | [Startup Weekly][startup]     | 주 1회 | 이메일    | 스타트업 관련 소식과 정보를 한 눈에                    | [Glance][startup_publ]         | [🔗][startup_prvw]     |
 | [Two Cents][twocents]         | 격주   | 이메일    | 테크, 스타트업, VC 분야의 <br/> 흐름에 대하여          | [허진호][twocents_publ]        | [🔗][twocents_prvw]    |
 
@@ -182,6 +183,10 @@
 [tickle]: https://letter.tickleinvest.com/
 [tickle_publ]: https://tickleinvest.com/
 [tickle_prvw]: https://letter.tickleinvest.com/letter_210429_main/
+
+[factpl]: https://page.stibee.com/subscriptions/73985
+[factpl_publ]: https://factpl.kr/
+[factpl_prvw]: https://factpl.kr/news-letter
 
 [raccoon]: https://pumpkin-raccoon.com/newsletter
 [raccoon_publ]: https://www.linkedin.com/in/jaeha-lee/
