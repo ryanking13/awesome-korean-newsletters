@@ -398,6 +398,7 @@
 | [당근레터][nomwoosa]     | 격주   | 이메일    | 꼭 알아야 할 노동법                                             | [노무사][nomwoosa_publ]        | [🔗][nomwoosa_prvw] |
 | [당근메일][carrot]       | 주 1회 | 이메일    | 생산성에 대한 <br/> 생각과 근육을 튼튼하게                      | [당근메일][carrot_publ]        |                    |
 | [두부레터][dubu]         | 주 1회 | 이메일    | 내집마련 부린이를 위한 내집레터                                 | [베리빈][dubu_publ]            | [🔗][dubu_prvw]     |
+| [밑미레터][meetme]       | 주 1회 | 이메일    | '진짜 나'를 만나는 시간                                         | [(주)밑미][meetme_publ]        | [🔗][meetme_prvw]   |
 | [부딩][booding]          | 주 2회 | 이메일    | 부.알.못 밀레니얼을 위한 <br /> 부동산 뉴스레터                 | [부딩][booding_publ]           | [🔗][booding_prvw]  |
 | [베베레터][veve]         | 주 1회 | 이메일    | 최신 베지테리언 뉴스                                            | [베리베지][veve_publ]          | [🔗][veve_prvw]     |
 | [서울라이터즈][seoul]    | 주 1회 | 이메일    | 트렌드, 테크, 크리에이티브, <br /> 아이디어 발상을 위한 모든 것 | [서울라이터][seoul_publ]       | [🔗][seoul_prvw]    |
@@ -427,6 +428,10 @@
 [dubu]: https://page.stibee.com/subscriptions/98179?groupIds=73628
 [dubu_publ]: https://brunch.co.kr/@ilbuntok#info
 [dubu_prvw]: https://page.stibee.com/archives/98179
+
+[meetme]: https://nicetomeetme.kr/newsletter
+[meetme_publ]: https://nicetomeetme.kr/
+[meetme_prvw]: https://nicetomeetme.kr/newsletter
 
 [veve]: https://page.stibee.com/subscriptions/58217
 [veve_publ]: https://www.instagram.com/veryvezy/
