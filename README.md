@@ -402,6 +402,7 @@
 | [부딩][booding]          | 주 2회 | 이메일    | 부.알.못 밀레니얼을 위한 <br /> 부동산 뉴스레터                 | [부딩][booding_publ]           | [🔗][booding_prvw]  |
 | [베베레터][veve]         | 주 1회 | 이메일    | 최신 베지테리언 뉴스                                            | [베리베지][veve_publ]          | [🔗][veve_prvw]     |
 | [서울라이터즈][seoul]    | 주 1회 | 이메일    | 트렌드, 테크, 크리에이티브, <br /> 아이디어 발상을 위한 모든 것 | [서울라이터][seoul_publ]       | [🔗][seoul_prvw]    |
+| [스여일삶][swik]         | 주 1회 | 이메일    | 스타트업 여성들의 일과 삶                                       | [스윅][swik]                   | [🔗][swik_prvw]     |
 | [스요레터][stibee]       | 주 1회 | 이메일    | 마케터와 크리에이터를 위한 <br/> 다양한 읽을거리                | [스티비][stibee_publ]          | [🔗][stibee_prvw]   |
 | [쏠트-호][saltho]        | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                                    | [Designpress][saltho_publ]     | [🔗][saltho_prvw]   |
 | [어거스트][august]       | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기                   | [어거스트][august_publ]        | [🔗][august_prvw]   |
@@ -445,6 +446,10 @@
 [side]: https://sideproject.co.kr/newsletter
 [side_publ]: https://sideproject.co.kr/
 [side_prvw]: https://sideproject.co.kr/newsletter
+
+[swik]: https://page.stibee.com/subscriptions/39990
+[swik_publ]: https://startupwomen.co.kr/home
+[swik_prvw]: https://page.stibee.com/archives/39990
 
 [summer]: https://mailchi.mp/9e0e525bc03b/summercandy/#mail
 [summer_publ]: https://brunch.co.kr/@nerf-this
