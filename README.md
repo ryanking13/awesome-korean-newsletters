@@ -405,6 +405,7 @@
 | [스여일삶][swik]         | 주 1회 | 이메일    | 스타트업 여성들의 일과 삶                                       | [스윅][swik]                   | [🔗][swik_prvw]     |
 | [스요레터][stibee]       | 주 1회 | 이메일    | 마케터와 크리에이터를 위한 <br/> 다양한 읽을거리                | [스티비][stibee_publ]          | [🔗][stibee_prvw]   |
 | [쏠트-호][saltho]        | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                                    | [Designpress][saltho_publ]     | [🔗][saltho_prvw]   |
+| [아하레터][aha]          | 격주   | 이메일    | 자기계발부터 알면 이득인 정보까지                               | [슈가슈가][aha_publ]           | [🔗][aha_prvw]      |
 | [어거스트][august]       | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기                   | [어거스트][august_publ]        | [🔗][august_prvw]   |
 | [여름의 솜사탕][summer]  | 주 1회 | 이메일    | 취향 가득 담은 <br /> 생활밀착형 뉴스레터                       | [여름][summer_publ]            | [🔗][summer_prvw]   |
 | [앨리스모먼트][alice]    | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                         | [앨리스][alice_publ]           | [🔗][alice_prvw]    |
@@ -438,6 +439,10 @@
 [veve]: https://page.stibee.com/subscriptions/58217
 [veve_publ]: https://www.instagram.com/veryvezy/
 [veve_prvw]: https://www.notion.so/6fc9c659969b466b95990668a8afaae7
+
+[aha]: https://page.stibee.com/subscriptions/61765?groupIds=56635
+[aha_publ]: https://aha-contents.tistory.com/19
+[aha_prvw]: https://aha-contents.tistory.com/category/%EC%95%84%ED%95%98%EB%A0%88%ED%84%B0%20%EC%A7%80%EB%82%9C%20%ED%98%B8%20%EB%B3%B4%EA%B8%B0
 
 [august]: https://page.stibee.com/subscriptions/51479
 [august_publ]: https://maily.so/august
