@@ -409,6 +409,7 @@
 | [어거스트][august]       | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기                   | [어거스트][august_publ]        | [🔗][august_prvw]   |
 | [여름의 솜사탕][summer]  | 주 1회 | 이메일    | 취향 가득 담은 <br /> 생활밀착형 뉴스레터                       | [여름][summer_publ]            | [🔗][summer_prvw]   |
 | [앨리스모먼트][alice]    | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                         | [앨리스][alice_publ]           | [🔗][alice_prvw]    |
+| [오렌지레터][orange]     | 주 1회 | 이메일    | 소셜섹터 주요 행사와 이벤트, <br /> 펀딩, 채용, 모집, 공모사업  | [슬로워크][orange_publ]        | [🔗][orange_prvw]   |
 | [위클리어스][earth]      | 주 1회 | 이메일    | 한 눈에 보는 주간 환경 이슈                                     | [서울환경운동연합][earth_publ] | [🔗][earth_prvw]    |
 | [주말랭이][weekend]      | 주 1회 | 이메일    | 이번 주말엔 뭐할랭~                                             | [주말랭이][weekend_publ]       | [🔗][weekend_prvw]  |
 | [퍼블리][publy]          | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지                  | [퍼블리][publy_publ]           |                    |
@@ -447,6 +448,10 @@
 [august]: https://page.stibee.com/subscriptions/51479
 [august_publ]: https://maily.so/august
 [august_prvw]: https://maily.so/august/posts/352f94
+
+[orange]: https://slowalk.co.kr/orangeletter/
+[orange_publ]: https://slowalk.co.kr/
+[orange_prvw]: https://slowalk.co.kr/orangeletter/
 
 [side]: https://sideproject.co.kr/newsletter
 [side_publ]: https://sideproject.co.kr/
