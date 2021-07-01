@@ -418,6 +418,7 @@
 | [캐릿][careet]           | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치            | [대학내일][careet_publ]        | [🔗][careet_prvw]   |
 | [BE.LETTER][bletter]     | 주 1회 | 이메일    | 스티비 팀이 소개하는 <br /> 새로운 뉴스레터                     | [스티비][bletter_publ]         | [🔗][bletter_prvw]  |
 | [J의 편지][jletter]      | 주 1회 | 이메일    | 취향 큐레이션 뉴스레터                                          | [김혜준][jletter_publ]         | [🔗][jletter_prvw]  |
+| [Qletter][qletter]       | 주 2회 | 이메일    | 마케터를 위한 아이디어 한 조각                                  | [아이보스][qletter_publ]       | [🔗][qletter_prvw]  |
 | [SIDE][side]             | 주 1회 | 이메일    | 해보고 싶은 게 너무 많아서 <br /> 고민인 사람들을 위한 뉴스레터 | [SIDE][side_publ]              | [🔗][side_prvw]     |
 | [TMI.FM][tmi.fm]         | 주 2회 | 이메일    | 크리에이티브 오너쉽을 위한 <br /> 텍스트 라디오                 | [차우진][tmi.fm_publ]          | [🔗][tmi.fm_prvw]   |
 
@@ -513,6 +514,10 @@
 [jletter]: https://page.stibee.com/subscriptions/49517
 [jletter_publ]: https://haejunkim.oopy.io/
 [jletter_prvw]: https://www.notion.so/J-d3ef9dc886d746e8b65343036f059300
+
+[qletter]: https://qletter.i-boss.co.kr/
+[qletter_publ]: https://www.i-boss.co.kr/
+[qletter_prvw]: https://qletter.i-boss.co.kr/
 
 [bletter]: https://page.stibee.com/subscriptions/62723
 [bletter_publ]: https://stibee.com/
