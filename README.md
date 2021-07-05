@@ -217,8 +217,9 @@
 | [매콤달콤][macom]       | 주 5회 | 이메일    | 매경이 전하는 세상의 지식                                    | [매일경제][macom_publ]    | [🔗][macom_prvw]    |
 | [뭐라노][kookje]        | 주 5회 | 이메일    | 짧고 굵게, 핵심만 정리 <br /> 뉴스 세줄 요약                 | [국제신문][kookje_publ]   | [🔗][kookje_prvw]   |
 | [미스터동][mrdong]      | 주 3회 | 이메일    | 어디 가서 아는 척, <br /> 할 수 있는 정보                    | [미스터동][mrdong_publ]   |                    |
-| [Issue Today][hankyung] | 주 5회 | 이메일    | 오늘 벌어질 이슈의 핵심을                                    | [한국경제][hankyung_publ] | [🔗][hankyung_prvw] |
+| [업클][upcle]           | 주 5회 | 이메일    | 5분 만에 하루가 보입니다                                     | [(주)업클][upcle_publ]    | [🔗][upcle_prvw]    |
 | [휘클리][hweekly]       | 주 1회 | 이메일    | 10분 뉴스편지, 시사 뉴스레터                                 | [한겨레][hweekly_publ]    | [🔗][hweekly_prvw]  |
+| [Issue Today][hankyung] | 주 5회 | 이메일    | 오늘 벌어질 이슈의 핵심을                                    | [한국경제][hankyung_publ] | [🔗][hankyung_prvw] |
 | [H:730][h730]           | 주 5회 | 이메일    | 당일 아침 한겨레신문의 주요뉴스를                            | [한겨레][h730_publ]       | [🔗][h730_prvw]     |
 
 
@@ -245,6 +246,10 @@
 [mrdong]: https://mrdongnews.com/
 [mrdong_publ]: https://mrdongnews.com/hello
 <!-- [mrdong_prvw]: -->
+
+[upcle]: https://page.stibee.com/subscriptions/68007
+[upcle_publ]: https://upcle.me/
+[upcle_prvw]: https://upcle.me/archives/category/newsletter
 
 [h730]: https://page.stibee.com/subscriptions/70653
 [h730_publ]: http://m.hani.co.kr/
