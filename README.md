@@ -209,10 +209,11 @@
 | 제목                    | 주기   | 발간 형태 | 설명                                                         | 발간인                    | 미리보기           |
 | :---------------------- | :----- | :-------- | :----------------------------------------------------------- | :------------------------ | :----------------- |
 | [굿뉴스][goodnews]      | 비정기 | 이메일    | 우리들 곁까지 전달되지 못하는 <br /> 세상의 좋은 뉴스        | [굿뉴스][goodnews_publ]   | [🔗][goodnews_prvw] |
-| [뉴닉][newneek]         | 주 3회 | 이메일    | 우리가 시간이 없지, 세상이 안 궁금하냐                       | [뉴닉][newneek_publ]      | [🔗][newneek_prvw]  |
+| [뉴닉][newneek]         | 주 3회 | 이메일    | 우리가 시간이 없지, <br /> 세상이 안 궁금하냐                | [뉴닉][newneek_publ]      | [🔗][newneek_prvw]  |
 | [뉴스페퍼민트][mint]    | 비정기 | 홈페이지  | 화제가 된 외신을 소개                                        | [뉴스페퍼민트][mint_publ] | [🔗][mint_prvw]     |
 | [더슬랭][slang]         | 주 3회 | 이메일    | 당신의 삶에 관련된 <br /> 다양한 사건과 정보들을 만나보세요! | [더슬랭][slang_publ]      | [🔗][slang_prvw]    |
 | [델타 월딩][delta]      | 주 3회 | 이메일    | 외교안보 전문 뉴스레터                                       | [델타 월딩][delta_publ]   | [🔗][delta_prvw]    |
+| [똑똑][dokdok]          | 주 4회 | 이메일    | 똑똑한 당신을 위한 <br/> 지식 큐레이션!                      | [똑똑][dokdok_publ]       | [🔗][dokdok_prvw]   |
 | [마부뉴스][mabu]        | 주 1회 | 이메일    | 데이터로 보는 뉴스의 맥락                                    | [SBS뉴스][mabu_publ]      | [🔗][mabu_prvw]     |
 | [매콤달콤][macom]       | 주 5회 | 이메일    | 매경이 전하는 세상의 지식                                    | [매일경제][macom_publ]    | [🔗][macom_prvw]    |
 | [뭐라노][kookje]        | 주 5회 | 이메일    | 짧고 굵게, 핵심만 정리 <br /> 뉴스 세줄 요약                 | [국제신문][kookje_publ]   | [🔗][kookje_prvw]   |
@@ -242,6 +243,10 @@
 [delta]: https://page.stibee.com/subscriptions/105380?groupIds=87768
 [delta_publ]: https://www.instagram.com/delta.worlding/
 [delta_prvw]: https://page.stibee.com/archives/105380
+
+[dokdok]: https://www.dokdok.co/newsletter
+[dokdok_publ]: https://www.dokdok.co/
+[dokdok_prvw]: https://www.dokdok.co/newsletter
 
 [mrdong]: https://mrdongnews.com/
 [mrdong_publ]: https://mrdongnews.com/hello
