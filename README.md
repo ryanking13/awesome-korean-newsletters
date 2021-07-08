@@ -418,6 +418,7 @@
 | [쏠트-호][saltho]        | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                                    | [Designpress][saltho_publ]     | [🔗][saltho_prvw]   |
 | [아하레터][aha]          | 격주   | 이메일    | 자기계발부터 알면 이득인 정보까지                               | [슈가슈가][aha_publ]           | [🔗][aha_prvw]      |
 | [어거스트][august]       | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기                   | [어거스트][august_publ]        | [🔗][august_prvw]   |
+| [어바웃우울][woowool]    | 주 1회 | 이메일    | 우울하고 무기력한 <br /> 익명의 우울이들을 위한 공간            | [어바웃우울][woowool_publ]     | [🔗][woowool_prvw]  |
 | [여름의 솜사탕][summer]  | 주 1회 | 이메일    | 취향 가득 담은 <br /> 생활밀착형 뉴스레터                       | [여름][summer_publ]            | [🔗][summer_prvw]   |
 | [앨리스모먼트][alice]    | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                         | [앨리스][alice_publ]           | [🔗][alice_prvw]    |
 | [오렌지레터][orange]     | 주 1회 | 이메일    | 소셜섹터 주요 행사와 이벤트, <br /> 펀딩, 채용, 모집, 공모사업  | [슬로워크][orange_publ]        | [🔗][orange_prvw]   |
@@ -464,6 +465,10 @@
 [august]: https://page.stibee.com/subscriptions/51479
 [august_publ]: https://maily.so/august
 [august_prvw]: https://maily.so/august/posts/352f94
+
+[woowool]: https://page.stibee.com/subscriptions/97494
+[woowool_publ]: https://brunch.co.kr/@aboutwoowool
+[woowool_prvw]: https://page.stibee.com/archives/97494
 
 [orange]: https://slowalk.co.kr/orangeletter/
 [orange_publ]: https://slowalk.co.kr/
