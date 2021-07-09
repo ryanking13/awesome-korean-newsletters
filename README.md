@@ -206,22 +206,23 @@
 
 ## 시사
 
-| 제목                    | 주기   | 발간 형태 | 설명                                                         | 발간인                    | 미리보기           |
-| :---------------------- | :----- | :-------- | :----------------------------------------------------------- | :------------------------ | :----------------- |
-| [굿뉴스][goodnews]      | 비정기 | 이메일    | 우리들 곁까지 전달되지 못하는 <br /> 세상의 좋은 뉴스        | [굿뉴스][goodnews_publ]   | [🔗][goodnews_prvw] |
-| [뉴닉][newneek]         | 주 3회 | 이메일    | 우리가 시간이 없지, <br /> 세상이 안 궁금하냐                | [뉴닉][newneek_publ]      | [🔗][newneek_prvw]  |
-| [뉴스페퍼민트][mint]    | 비정기 | 홈페이지  | 화제가 된 외신을 소개                                        | [뉴스페퍼민트][mint_publ] | [🔗][mint_prvw]     |
-| [더슬랭][slang]         | 주 3회 | 이메일    | 당신의 삶에 관련된 <br /> 다양한 사건과 정보들을 만나보세요! | [더슬랭][slang_publ]      | [🔗][slang_prvw]    |
-| [델타 월딩][delta]      | 주 3회 | 이메일    | 외교안보 전문 뉴스레터                                       | [델타 월딩][delta_publ]   | [🔗][delta_prvw]    |
-| [똑똑][dokdok]          | 주 4회 | 이메일    | 똑똑한 당신을 위한 <br/> 지식 큐레이션!                      | [똑똑][dokdok_publ]       | [🔗][dokdok_prvw]   |
-| [마부뉴스][mabu]        | 주 1회 | 이메일    | 데이터로 보는 뉴스의 맥락                                    | [SBS뉴스][mabu_publ]      | [🔗][mabu_prvw]     |
-| [매콤달콤][macom]       | 주 5회 | 이메일    | 매경이 전하는 세상의 지식                                    | [매일경제][macom_publ]    | [🔗][macom_prvw]    |
-| [뭐라노][kookje]        | 주 5회 | 이메일    | 짧고 굵게, 핵심만 정리 <br /> 뉴스 세줄 요약                 | [국제신문][kookje_publ]   | [🔗][kookje_prvw]   |
-| [미스터동][mrdong]      | 주 3회 | 이메일    | 어디 가서 아는 척, <br /> 할 수 있는 정보                    | [미스터동][mrdong_publ]   |                    |
-| [업클][upcle]           | 주 5회 | 이메일    | 5분 만에 하루가 보입니다                                     | [(주)업클][upcle_publ]    | [🔗][upcle_prvw]    |
-| [휘클리][hweekly]       | 주 1회 | 이메일    | 10분 뉴스편지, 시사 뉴스레터                                 | [한겨레][hweekly_publ]    | [🔗][hweekly_prvw]  |
-| [Issue Today][hankyung] | 주 5회 | 이메일    | 오늘 벌어질 이슈의 핵심을                                    | [한국경제][hankyung_publ] | [🔗][hankyung_prvw] |
-| [H:730][h730]           | 주 5회 | 이메일    | 당일 아침 한겨레신문의 주요뉴스를                            | [한겨레][h730_publ]       | [🔗][h730_prvw]     |
+| 제목                       | 주기   | 발간 형태 | 설명                                                         | 발간인                         | 미리보기            |
+| :------------------------- | :----- | :-------- | :----------------------------------------------------------- | :----------------------------- | :------------------ |
+| [굿뉴스][goodnews]         | 비정기 | 이메일    | 우리들 곁까지 전달되지 못하는 <br /> 세상의 좋은 뉴스        | [굿뉴스][goodnews_publ]        | [🔗][goodnews_prvw]  |
+| [뉴닉][newneek]            | 주 3회 | 이메일    | 우리가 시간이 없지, <br /> 세상이 안 궁금하냐                | [뉴닉][newneek_publ]           | [🔗][newneek_prvw]   |
+| [뉴스페퍼민트][mint]       | 비정기 | 홈페이지  | 화제가 된 외신을 소개                                        | [뉴스페퍼민트][mint_publ]      | [🔗][mint_prvw]      |
+| [더슬랭][slang]            | 주 3회 | 이메일    | 당신의 삶에 관련된 <br /> 다양한 사건과 정보들을 만나보세요! | [더슬랭][slang_publ]           | [🔗][slang_prvw]     |
+| [델타 월딩][delta]         | 주 3회 | 이메일    | 외교안보 전문 뉴스레터                                       | [델타 월딩][delta_publ]        | [🔗][delta_prvw]     |
+| [똑똑][dokdok]             | 주 4회 | 이메일    | 똑똑한 당신을 위한 <br/> 지식 큐레이션!                      | [똑똑][dokdok_publ]            | [🔗][dokdok_prvw]    |
+| [마부뉴스][mabu]           | 주 1회 | 이메일    | 데이터로 보는 뉴스의 맥락                                    | [SBS뉴스][mabu_publ]           | [🔗][mabu_prvw]      |
+| [매콤달콤][macom]          | 주 5회 | 이메일    | 매경이 전하는 세상의 지식                                    | [매일경제][macom_publ]         | [🔗][macom_prvw]     |
+| [뭐라노][kookje]           | 주 5회 | 이메일    | 짧고 굵게, 핵심만 정리 <br /> 뉴스 세줄 요약                 | [국제신문][kookje_publ]        | [🔗][kookje_prvw]    |
+| [미스터동][mrdong]         | 주 3회 | 이메일    | 어디 가서 아는 척, <br /> 할 수 있는 정보                    | [미스터동][mrdong_publ]        |                     |
+| [업클][upcle]              | 주 5회 | 이메일    | 5분 만에 하루가 보입니다                                     | [(주)업클][upcle_publ]         | [🔗][upcle_prvw]     |
+| [피렌체의 식탁][firenzedt] | 주 1회 | 이메일    | 행정, 입법, 사법, 언론계의 <br /> 주요 인사                  | [메디치미디어][firenzedt_publ] | [🔗][firenzedt_prvw] |
+| [휘클리][hweekly]          | 주 1회 | 이메일    | 10분 뉴스편지, 시사 뉴스레터                                 | [한겨레][hweekly_publ]         | [🔗][hweekly_prvw]   |
+| [Issue Today][hankyung]    | 주 5회 | 이메일    | 오늘 벌어질 이슈의 핵심을                                    | [한국경제][hankyung_publ]      | [🔗][hankyung_prvw]  |
+| [H:730][h730]              | 주 5회 | 이메일    | 당일 아침 한겨레신문의 주요뉴스를                            | [한겨레][h730_publ]            | [🔗][h730_prvw]      |
 
 
 [newneek]: https://newneek.co/
@@ -259,6 +260,10 @@
 [h730]: https://page.stibee.com/subscriptions/70653
 [h730_publ]: http://m.hani.co.kr/
 [h730_prvw]: https://page.stibee.com/archives/70653
+
+[firenzedt]: https://page.stibee.com/subscriptions/93955
+[firenzedt_publ]: https://firenzedt.com/
+[firenzedt_prvw]: https://firenzedt.com/
 
 [hweekly]: https://page.stibee.com/subscriptions/98338
 [hweekly_publ]: http://m.hani.co.kr/
