@@ -61,6 +61,7 @@
 | :------------------------ | :----- | :-------- | :--------------------------------------------------------------- | :----------------------------- | :-------------------- |
 | [놀리팝레터][knowllipop]  | 주 1회 | 이메일    | 한 주간의 이슈와 IT기업의 핫한 소식                              | [놀리팝][knowllipop_publ]      | [🔗][knowllipop_prvw]  |
 | [미라클레터][miracle]     | 주 3회 | 이메일    | 글로벌 테크, 실리콘밸리 소식                                     | [매경미디어][miracle_publ]     | [🔗][miracle_prvw]     |
+| [뷰스레터][miilk]         | 주 3회 | 이메일    | 세상 변화의 중심 <br /> 실리콘밸리의 생생한 인사이트             | [더밀크][miilk_publ]           | [🔗][miilk_prvw]       |
 | [아웃스탠딩][outstanding] | 주 5회 | 이메일    | 어려운 IT이슈를 쉽고 재미있게                                    | [아웃스탠딩][outstanding_publ] | [🔗][outstanding_prvw] |
 | [얼리어답터][early]       | 주 3회 | 이메일    | 재미있는 세상 합리적으로 소비하기                                | [글림퍼][early_publ]           | [🔗][early_prvw]       |
 | [이바닥늬우스][ebadak]    | 비정기 | 홈페이지  | 찰지고 신나는 테크바닥 늬우스                                    | [이바닥늬우스][ebadak_publ]    | [🔗][ebadak_prvw]      |
@@ -80,6 +81,10 @@
 [byline]: https://byline.network/newsletter/
 [byline_publ]: https://byline.network/
 [byline_prvw]: https://us18.campaign-archive.com/home/?u=bedb3ad13e513e25afa719b73&id=81db217913
+
+[miilk]: https://docs.google.com/forms/d/e/1FAIpQLScOAY62JVZMdZ1GEEA6jbfqHKG8k3kiAtI4-brIBE-dBc1wiQ/viewform
+[miilk_publ]: https://themiilk.com/
+[miilk_prvw]: https://viewsletter.themiilk.com/
 
 [outstanding]: https://outstanding.us1.list-manage.com/subscribe?u=58649932600b1a93ad942d0a7&id=546a6b6aba
 [outstanding_publ]: https://outstanding.kr/info
