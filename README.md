@@ -69,6 +69,8 @@
 | [트렌트라이트][trendlite] | 주 1회 | 이메일    | 트렌트를 산뜻하게 즐기는 방법                                    | [기묘한][trendlite_publ]       | [🔗][trendlite_prvw]   |
 | [BylineNetwork][byline]   | 주 5회 | 이메일    | 전문기자들의 멀티채널네트워크                                    | [BylineNetwork][byline_publ]   | [🔗][byline_prvw]      |
 | [Tech42][tech42]          | 주 2회 | 이메일    | AI 기반 테크 저널리즘을 추구하는 <br /> 디지털 & 비즈니스 미디어 | [Tech42][tech42_publ]          |                       |
+| [techNeedle][needle]      | 비정기 | 이메일    | 글로벌 테크 소식을 <br /> 인사이트와 함께 전합니다               | [techNeedle][tech42_publ]      | [🔗][needle_prvw]      |
+
 
 [knowllipop]: https://page.stibee.com/subscriptions/95801
 [knowllipop_publ]: http://knowllipop.com/
@@ -101,6 +103,10 @@
 [trendlite]: https://page.stibee.com/subscriptions/41037
 [trendlite_publ]: https://brunch.co.kr/@trendlite
 [trendlite_prvw]: https://page.stibee.com/archives/41037
+
+[needle]: https://techneedle.com/
+[needle_publ]: https://techneedle.com/
+[needle_prvw]: https://techneedle.com/
 
 [tech42]: https://page.stibee.com/subscriptions/102868
 [tech42_publ]: http://www.tech42.co.kr/
