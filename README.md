@@ -423,6 +423,7 @@
 | [까탈로그][theedit]      | 주 1회 | 이메일    | 까탈스럽게 고른 취향 뉴스레터                                   | [디에디트][theedit_publ]       |                    |
 | [당근레터][nomwoosa]     | 격주   | 이메일    | 꼭 알아야 할 노동법                                             | [노무사][nomwoosa_publ]        | [🔗][nomwoosa_prvw] |
 | [당근메일][carrot]       | 주 1회 | 이메일    | 생산성에 대한 <br/> 생각과 근육을 튼튼하게                      | [당근메일][carrot_publ]        |                    |
+| [대학내일][univ]         | 격주   | 이메일    | 밀레니얼-Z세대에 <br /> 관심 있는 분들을 위한 뉴스레터          | [대학내일][univ_publ]          | [🔗][univ_prvw]     |
 | [두부레터][dubu]         | 주 1회 | 이메일    | 내집마련 부린이를 위한 내집레터                                 | [베리빈][dubu_publ]            | [🔗][dubu_prvw]     |
 | [미리밋터][mrmt]         | 주 1회 | 이메일    | 미리 만나는 뉴미디어 이야기                                     | [미리밋터][mrmt_publ]          | [🔗][mrmt_prvw]     |
 | [밑미레터][meetme]       | 주 1회 | 이메일    | '진짜 나'를 만나는 시간                                         | [(주)밑미][meetme_publ]        | [🔗][meetme_prvw]   |
@@ -457,6 +458,10 @@
 [carrot]: http://carrotmail.kr/
 [carrot_publ]: http://carrotmail.kr/?page_id=1649
 <!-- [carrot_prvw]: -->
+
+[univ]: https://page.stibee.com/subscriptions/28770
+[univ_publ]: https://corp.univ.me/Home
+[univ_prvw]: https://corp.univ.me/TrendLetter
 
 [dubu]: https://page.stibee.com/subscriptions/98179?groupIds=73628
 [dubu_publ]: https://brunch.co.kr/@ilbuntok#info
