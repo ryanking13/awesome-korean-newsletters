@@ -449,6 +449,7 @@
 | [Notion Wiki][notionw]   | 월 1회 | 이메일    | 노션 팁, 노하우, 템플릿                                         | [노션한국사용자모임][notionw_publ] | [🔗][notionw_prvw]  |
 | [Qletter][qletter]       | 주 2회 | 이메일    | 마케터를 위한 아이디어 한 조각                                  | [아이보스][qletter_publ]           | [🔗][qletter_prvw]  |
 | [SIDE][side]             | 주 1회 | 이메일    | 해보고 싶은 게 너무 많아서 <br /> 고민인 사람들을 위한 뉴스레터 | [SIDE][side_publ]                  | [🔗][side_prvw]     |
+| [SPREAD by B][spread]    | 주 1회 | 이메일    | 큐레이션한 브랜드 이야기를 전달                                 | [B][spread_publ]                   | [🔗][spread_publ]   |
 | [TMI.FM][tmi.fm]         | 주 2회 | 이메일    | 크리에이티브 오너쉽을 위한 <br /> 텍스트 라디오                 | [차우진][tmi.fm_publ]              | [🔗][tmi.fm_prvw]   |
 
 
@@ -567,6 +568,10 @@
 [seoul]: https://page.stibee.com/subscriptions/72985
 [seoul_publ]: https://www.seoulwriter.com/about
 [seoul_prvw]: https://page.stibee.com/archives/72985
+
+[spread]: https://magazine-b.co.kr/newsletter/
+[spread_publ]: https://magazine-b.co.kr/
+[spread_prvw]: https://www.instagram.com/spreadbyb/
 
 [tmi.fm]: https://maily.so/draft.briefing
 [tmi.fm_publ]: https://maily.so/draft.briefing
