@@ -136,6 +136,7 @@
 | [커피팟][coffeepot]           | 주 2회 | 이메일    | 쉽고 재밌는 해외 비즈 뉴스레터                         | [커피팟][coffeepot_publ]       | [🔗][coffeepot_prvw]   |
 | [티클레터][tickle]            | 주 1회 | 이메일    | 놓칠 수 있는 글로벌 기업 이슈                          | [티클][tickle_publ]            | [🔗][tickle_prvw]      |
 | [팩플레터][factpl]            | 주 3회 | 이메일    | 잘나가는 기업들이 궁금할 땐                            | [팩플][factpl_publ]            | [🔗][factpl_prvw]      |
+| [플래터][platter]             | 주 2회 | 이메일    | 꼭 알아야 할 플랫폼 인사이트                           | [platformworks][platter_publ]  | [🔗][platter_prvw]     |
 | [Startup Weekly][startup]     | 주 1회 | 이메일    | 스타트업 관련 소식과 정보를 한 눈에                    | [Glance][startup_publ]         | [🔗][startup_prvw]     |
 | [Two Cents][twocents]         | 격주   | 이메일    | 테크, 스타트업, VC 분야의 <br/> 흐름에 대하여          | [허진호][twocents_publ]        | [🔗][twocents_prvw]    |
 
@@ -198,6 +199,10 @@
 [factpl]: https://page.stibee.com/subscriptions/73985
 [factpl_publ]: https://factpl.kr/
 [factpl_prvw]: https://factpl.kr/news-letter
+
+[platter]: https://platformworks.co.kr/subscribe
+[platter_publ]: https://platformworks.co.kr/about
+[platter_prvw]: https://platformworks.co.kr/letter
 
 [raccoon]: https://pumpkin-raccoon.com/newsletter
 [raccoon_publ]: https://www.linkedin.com/in/jaeha-lee/
