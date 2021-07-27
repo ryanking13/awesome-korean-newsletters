@@ -137,6 +137,7 @@
 | [티클레터][tickle]            | 주 1회 | 이메일    | 놓칠 수 있는 글로벌 기업 이슈                          | [티클][tickle_publ]            | [🔗][tickle_prvw]      |
 | [팩플레터][factpl]            | 주 3회 | 이메일    | 잘나가는 기업들이 궁금할 땐                            | [팩플][factpl_publ]            | [🔗][factpl_prvw]      |
 | [플래터][platter]             | 주 2회 | 이메일    | 꼭 알아야 할 플랫폼 인사이트                           | [platformworks][platter_publ]  | [🔗][platter_prvw]     |
+| [BYTE][byte]                  | 주 5회 | 이메일    | 비즈니스 세상 5분 읽기                                 | [바이트][byte_publ]            | [🔗][byte_prvw]        |
 | [Startup Weekly][startup]     | 주 1회 | 이메일    | 스타트업 관련 소식과 정보를 한 눈에                    | [Glance][startup_publ]         | [🔗][startup_prvw]     |
 | [Two Cents][twocents]         | 격주   | 이메일    | 테크, 스타트업, VC 분야의 <br/> 흐름에 대하여          | [허진호][twocents_publ]        | [🔗][twocents_prvw]    |
 
@@ -211,6 +212,10 @@
 [nugget]: https://page.stibee.com/subscriptions/55973
 [nugget_publ]: https://uget.co.kr/
 [nugget_prvw]: https://uget.co.kr/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=6588661&t=board
+
+[byte]: http://mydailybyte.com/
+[byte_publ]: http://mydailybyte.com/
+[byte_prvw]: http://mydailybyte.com/
 
 [ants]: https://maily.so/antslab
 [ants_publ]: https://www.instagram.com/ants_lab/
