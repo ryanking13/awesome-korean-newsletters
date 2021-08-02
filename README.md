@@ -117,29 +117,30 @@
 
 ## 경제 / 투자
 
-| 제목                          | 주기   | 발간 형태 | 설명                                                   | 발간인                         | 미리보기              |
-| :---------------------------- | :----- | :-------- | :----------------------------------------------------- | :----------------------------- | :-------------------- |
-| [너겟레터][nugget]            | 주 2회 | 이메일    | 너도 GET 할 수 있는 경제 소식                          | [NUGGET][nugget_publ]          | [🔗][nugget_prvw]      |
-| [돈 밝히는 여자 cathy][cathy] | 주 1회 | 이메일    | 세상에서 가장 쉬운 돈으로 회사 읽기                    | [Cathy][cathy_publ]            | [🔗][cathy_prvw]       |
-| [돈키레터][donkey]            | 주 1회 | 이메일    | 돈 버는 열쇠를 알려주는 뉴스레터                       | [효라클][donkey_publ]          | [🔗][donkey_prvw]      |
-| [디스트리트][dstreet]         | 주 2회 | 이메일    | 매일경제와 함께하는 블록체인 미디어                    | [디스트리트][dstreet_publ]     | [🔗][dstreet_prvw]     |
-| [리멤버 나우][remember]       | 주 5회 | 홈페이지  | 그날의 경제 이슈를 설명해주는 레터                     | [리멤버][remember_publ]        | [🔗][remember_prvw]    |
-| [미래에셋 뉴스레터][mirae]    | 주 1회 | 이메일    | 펀드/투자 관련 정보                                    | [미래에셋][mirae_publ]         |                       |
-| [순살브리핑][soonsal]         | 주 5회 | 이메일    | 모건스탠리 홍콩 출신 2인의 <br/> 금융·경제 뉴스 살코기 | [순살][soonsal_publ]           | [🔗][soonsal_prvw]     |
-| [앤츠랩][ants]                | 주 3회 | 이메일    | 건강한 주식 맛집                                       | [앤츠랩][ants_publ]            | [🔗][ants_prvw]        |
-| [어피티][uppity]              | 주 5회 | 이메일    | 사회초년생을 위한 <br/> 첫 번째 경제미디어             | [포브미디어][uppity_publ]      | [🔗][uppity_prvw]      |
-| [위클리 호박너구리][raccoon]  | 주 1회 | 이메일    | 취준생, 직장인을 위한 <br /> 종합 경제 뉴스레터        | [이재하][raccoon_publ]         | [🔗][raccoon_prvw]     |
-| [이슈 한 캔][cider]           | 주 2회 | 이메일    | 매주 다양한 경제 콘텐츠를                              | [사이다경제][cider_publ]       | [🔗][cider_prvw]       |
-| [인사이저][incizor]           | 매일   | 이메일    | 전날의 시황을 한 눈에, <br/> AI기반 투자레터           | [인사이저][incizor_publ]       |                       |
-| [전종현의 HWBI][insight]      | 주 1회 | 이메일    | 매주 비즈니스 인사이트를 전달                          | [전종현][insight_publ]         | [🔗][insight_prvw]     |
-| [카드고릴라][cardgorilla]     | 주 1회 | 이메일    | 카드를 쓰는 이야기                                     | [카드고릴라][cardgorilla_publ] | [🔗][cardgorilla_prvw] |
-| [커피팟][coffeepot]           | 주 2회 | 이메일    | 쉽고 재밌는 해외 비즈 뉴스레터                         | [커피팟][coffeepot_publ]       | [🔗][coffeepot_prvw]   |
-| [티클레터][tickle]            | 주 1회 | 이메일    | 놓칠 수 있는 글로벌 기업 이슈                          | [티클][tickle_publ]            | [🔗][tickle_prvw]      |
-| [팩플레터][factpl]            | 주 3회 | 이메일    | 잘나가는 기업들이 궁금할 땐                            | [팩플][factpl_publ]            | [🔗][factpl_prvw]      |
-| [플래터][platter]             | 주 2회 | 이메일    | 꼭 알아야 할 플랫폼 인사이트                           | [platformworks][platter_publ]  | [🔗][platter_prvw]     |
-| [BYTE][byte]                  | 주 5회 | 이메일    | 비즈니스 세상 5분 읽기                                 | [바이트][byte_publ]            | [🔗][byte_prvw]        |
-| [Startup Weekly][startup]     | 주 1회 | 이메일    | 스타트업 관련 소식과 정보를 한 눈에                    | [Glance][startup_publ]         | [🔗][startup_prvw]     |
-| [Two Cents][twocents]         | 격주   | 이메일    | 테크, 스타트업, VC 분야의 <br/> 흐름에 대하여          | [허진호][twocents_publ]        | [🔗][twocents_prvw]    |
+| 제목                          | 주기   | 발간 형태 | 설명                                                          | 발간인                         | 미리보기              |
+| :---------------------------- | :----- | :-------- | :------------------------------------------------------------ | :----------------------------- | :-------------------- |
+| [너겟레터][nugget]            | 주 2회 | 이메일    | 너도 GET 할 수 있는 경제 소식                                 | [NUGGET][nugget_publ]          | [🔗][nugget_prvw]      |
+| [돈 밝히는 여자 cathy][cathy] | 주 1회 | 이메일    | 세상에서 가장 쉬운 돈으로 회사 읽기                           | [Cathy][cathy_publ]            | [🔗][cathy_prvw]       |
+| [돈키레터][donkey]            | 주 1회 | 이메일    | 돈 버는 열쇠를 알려주는 뉴스레터                              | [효라클][donkey_publ]          | [🔗][donkey_prvw]      |
+| [디스트리트][dstreet]         | 주 2회 | 이메일    | 매일경제와 함께하는 블록체인 미디어                           | [디스트리트][dstreet_publ]     | [🔗][dstreet_prvw]     |
+| [리멤버 나우][remember]       | 주 5회 | 홈페이지  | 그날의 경제 이슈를 설명해주는 레터                            | [리멤버][remember_publ]        | [🔗][remember_prvw]    |
+| [미래에셋 뉴스레터][mirae]    | 주 1회 | 이메일    | 펀드/투자 관련 정보                                           | [미래에셋][mirae_publ]         |                       |
+| [순살브리핑][soonsal]         | 주 5회 | 이메일    | 모건스탠리 홍콩 출신 2인의 <br/> 금융·경제 뉴스 살코기        | [순살][soonsal_publ]           | [🔗][soonsal_prvw]     |
+| [앤츠랩][ants]                | 주 3회 | 이메일    | 건강한 주식 맛집                                              | [앤츠랩][ants_publ]            | [🔗][ants_prvw]        |
+| [어피티][uppity]              | 주 5회 | 이메일    | 사회초년생을 위한 <br/> 첫 번째 경제미디어                    | [포브미디어][uppity_publ]      | [🔗][uppity_prvw]      |
+| [위클리 호박너구리][raccoon]  | 주 1회 | 이메일    | 취준생, 직장인을 위한 <br /> 종합 경제 뉴스레터               | [이재하][raccoon_publ]         | [🔗][raccoon_prvw]     |
+| [이슈 한 캔][cider]           | 주 2회 | 이메일    | 매주 다양한 경제 콘텐츠를                                     | [사이다경제][cider_publ]       | [🔗][cider_prvw]       |
+| [인사이저][incizor]           | 매일   | 이메일    | 전날의 시황을 한 눈에, <br/> AI기반 투자레터                  | [인사이저][incizor_publ]       |                       |
+| [전종현의 HWBI][insight]      | 주 1회 | 이메일    | 매주 비즈니스 인사이트를 전달                                 | [전종현][insight_publ]         | [🔗][insight_prvw]     |
+| [카드고릴라][cardgorilla]     | 주 1회 | 이메일    | 카드를 쓰는 이야기                                            | [카드고릴라][cardgorilla_publ] | [🔗][cardgorilla_prvw] |
+| [커피팟][coffeepot]           | 주 2회 | 이메일    | 쉽고 재밌는 해외 비즈 뉴스레터                                | [커피팟][coffeepot_publ]       | [🔗][coffeepot_prvw]   |
+| [코인데스크코리아][coindesk]  | 주 6회 | 이메일    | 급격하게 변하는 블록체인 산업과 <br /> 암호화폐 시장의 흐름을 | [코인데스크][coindesk_publ]    | [🔗][coindesk_prvw]    |
+| [티클레터][tickle]            | 주 1회 | 이메일    | 놓칠 수 있는 글로벌 기업 이슈                                 | [티클][tickle_publ]            | [🔗][tickle_prvw]      |
+| [팩플레터][factpl]            | 주 3회 | 이메일    | 잘나가는 기업들이 궁금할 땐                                   | [팩플][factpl_publ]            | [🔗][factpl_prvw]      |
+| [플래터][platter]             | 주 2회 | 이메일    | 꼭 알아야 할 플랫폼 인사이트                                  | [platformworks][platter_publ]  | [🔗][platter_prvw]     |
+| [BYTE][byte]                  | 주 5회 | 이메일    | 비즈니스 세상 5분 읽기                                        | [바이트][byte_publ]            | [🔗][byte_prvw]        |
+| [Startup Weekly][startup]     | 주 1회 | 이메일    | 스타트업 관련 소식과 정보를 한 눈에                           | [Glance][startup_publ]         | [🔗][startup_prvw]     |
+| [Two Cents][twocents]         | 격주   | 이메일    | 테크, 스타트업, VC 분야의 <br/> 흐름에 대하여                 | [허진호][twocents_publ]        | [🔗][twocents_prvw]    |
 
 [cathy]: https://maily.so/cathyxcash
 [cathy_publ]: https://nt.cathyxcash.com/About-Cathy-98cfb881f4ca4aa098039baf448b9314
@@ -192,6 +193,10 @@
 [dstreet]: https://page.stibee.com/subscriptions/30830
 [dstreet_publ]: https://dstreet.io/author/uthman/
 [dstreet_prvw]: https://page.stibee.com/archives/30830
+
+[coindesk]: https://page.stibee.com/subscriptions/88808?groupIds=65384
+[coindesk_publ]: https://www.coindeskkorea.com/
+[coindesk_prvw]: https://www.coindeskkorea.com/
 
 [tickle]: https://letter.tickleinvest.com/
 [tickle_publ]: https://tickleinvest.com/
