@@ -454,6 +454,7 @@
 | [어바웃우울][woowool]    | 주 1회 | 이메일    | 우울하고 무기력한 <br /> 익명의 우울이들을 위한 공간            | [어바웃우울][woowool_publ]         | [🔗][woowool_prvw]  |
 | [여름의 솜사탕][summer]  | 주 1회 | 이메일    | 취향 가득 담은 <br /> 생활밀착형 뉴스레터                       | [여름][summer_publ]                | [🔗][summer_prvw]   |
 | [앨리스모먼트][alice]    | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                         | [앨리스][alice_publ]               | [🔗][alice_prvw]    |
+| [오늘의 귀짤][cute]      | 주 1회 | 이메일    | 서로 갖고있는 귀여운 <br /> 사진과 이미지를 공유                | [귀짤단][cute_publ]                | [🔗][cute_prvw]     |
 | [오렌지레터][orange]     | 주 1회 | 이메일    | 소셜섹터 주요 행사와 이벤트, <br /> 펀딩, 채용, 모집, 공모사업  | [슬로워크][orange_publ]            | [🔗][orange_prvw]   |
 | [위클리어스][earth]      | 주 1회 | 이메일    | 한 눈에 보는 주간 환경 이슈                                     | [서울환경운동연합][earth_publ]     | [🔗][earth_prvw]    |
 | [주말랭이][weekend]      | 주 1회 | 이메일    | 이번 주말엔 뭐할랭~                                             | [주말랭이][weekend_publ]           | [🔗][weekend_prvw]  |
@@ -512,6 +513,10 @@
 [woowool]: https://page.stibee.com/subscriptions/97494
 [woowool_publ]: https://brunch.co.kr/@aboutwoowool
 [woowool_prvw]: https://page.stibee.com/archives/97494
+
+[cute]: https://page.stibee.com/subscriptions/78423
+[cute_publ]: https://www.notion.so/by-e30cb6e353e544a2a892e30057a2083e
+[cute_prvw]: https://www.notion.so/by-e30cb6e353e544a2a892e30057a2083e
 
 [orange]: https://slowalk.co.kr/orangeletter/
 [orange_publ]: https://slowalk.co.kr/
