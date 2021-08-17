@@ -451,6 +451,7 @@
 | [밑미레터][meetme]       | 주 1회 | 이메일    | '진짜 나'를 만나는 시간                                         | [(주)밑미][meetme_publ]            | [🔗][meetme_prvw]   |
 | [부딩][booding]          | 주 2회 | 이메일    | 부.알.못 밀레니얼을 위한 <br /> 부동산 뉴스레터                 | [부딩][booding_publ]               | [🔗][booding_prvw]  |
 | [베베레터][veve]         | 주 1회 | 이메일    | 최신 베지테리언 뉴스                                            | [베리베지][veve_publ]              | [🔗][veve_prvw]     |
+| [비마이펫][mypet]        | 주 2회 | 이메일    | 반려동물 지식정보 채널                                          | [비마이펫][mypet_publ]             | [🔗][mypet_prvw]    |
 | [서울라이터즈][seoul]    | 주 1회 | 이메일    | 트렌드, 테크, 크리에이티브, <br /> 아이디어 발상을 위한 모든 것 | [서울라이터][seoul_publ]           | [🔗][seoul_prvw]    |
 | [스여일삶][swik]         | 주 1회 | 이메일    | 스타트업 여성들의 일과 삶                                       | [스윅][swik]                       | [🔗][swik_prvw]     |
 | [스요레터][stibee]       | 주 1회 | 이메일    | 마케터와 크리에이터를 위한 <br/> 다양한 읽을거리                | [스티비][stibee_publ]              | [🔗][stibee_prvw]   |
@@ -508,6 +509,10 @@
 [veve]: https://page.stibee.com/subscriptions/58217
 [veve_publ]: https://www.instagram.com/veryvezy/
 [veve_prvw]: https://www.notion.so/6fc9c659969b466b95990668a8afaae7
+
+[mypet]: https://mypetlife.co.kr/subscribe/
+[mypet_publ]: https://mypetlife.co.kr/
+[mypet_prvw]: https://us17.campaign-archive.com/home/?u=b41507f1f17cbe76293cde76c&id=5dae4e2094
 
 [aha]: https://page.stibee.com/subscriptions/61765?groupIds=56635
 [aha_publ]: https://aha-contents.tistory.com/19
