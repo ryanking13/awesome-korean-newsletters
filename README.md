@@ -472,6 +472,7 @@
 | [BE.LETTER][bletter]     | 주 1회 | 이메일    | 스티비 팀이 소개하는 <br /> 새로운 뉴스레터                     | [스티비][bletter_publ]             | [🔗][bletter_prvw]  |
 | [J의 편지][jletter]      | 주 1회 | 이메일    | 취향 큐레이션 뉴스레터                                          | [김혜준][jletter_publ]             | [🔗][jletter_prvw]  |
 | [Notion Wiki][notionw]   | 월 1회 | 이메일    | 노션 팁, 노하우, 템플릿                                         | [노션한국사용자모임][notionw_publ] | [🔗][notionw_prvw]  |
+| [open.ads][open.ads]     | 주 1회 | 이메일    | 당신의 성장을 돕는 <br /> 마케팅 큐레이션 플랫폼                | [오픈애즈][open.ads_publ]          | [🔗][open.ads_prvw] |
 | [Qletter][qletter]       | 주 2회 | 이메일    | 마케터를 위한 아이디어 한 조각                                  | [아이보스][qletter_publ]           | [🔗][qletter_prvw]  |
 | [SIDE][side]             | 주 1회 | 이메일    | 해보고 싶은 게 너무 많아서 <br /> 고민인 사람들을 위한 뉴스레터 | [SIDE][side_publ]                  | [🔗][side_prvw]     |
 | [SPREAD by B][spread]    | 주 1회 | 이메일    | 큐레이션한 브랜드 이야기를 전달                                 | [B][spread_publ]                   | [🔗][spread_publ]   |
@@ -597,6 +598,10 @@
 [notionw]: https://www.sijin.me/wiki
 [notionw_publ]: https://www.facebook.com/groups/notion.so/
 [notionw_prvw]: https://www.sijin.me/wiki
+
+[open.ads]: https://page.stibee.com/subscriptions/51974
+[open.ads_publ]: http://www.openads.co.kr/home
+[open.ads_prvw]: https://page.stibee.com/archives/51974
 
 [qletter]: https://qletter.i-boss.co.kr/
 [qletter_publ]: https://www.i-boss.co.kr/
