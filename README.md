@@ -469,6 +469,7 @@
 | [앨리스모먼트][alice]    | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                         | [앨리스][alice_publ]               | [🔗][alice_prvw]    |
 | [오늘의 귀짤][cute]      | 주 1회 | 이메일    | 서로 갖고있는 귀여운 <br /> 사진과 이미지를 공유                | [귀짤단][cute_publ]                | [🔗][cute_prvw]     |
 | [오렌지레터][orange]     | 주 1회 | 이메일    | 소셜섹터 주요 행사와 이벤트, <br /> 펀딩, 채용, 모집, 공모사업  | [슬로워크][orange_publ]            | [🔗][orange_prvw]   |
+| [오픈서베이][survey]     | 격주   | 이메일    | 오픈서베이의 트렌드 <br /> 리포트를 보내드립니다                | [오픈서베이][survey_publ]          | [🔗][survey_prvw]   |
 | [위클리어스][earth]      | 주 1회 | 이메일    | 한 눈에 보는 주간 환경 이슈                                     | [서울환경운동연합][earth_publ]     | [🔗][earth_prvw]    |
 | [주말랭이][weekend]      | 주 1회 | 이메일    | 이번 주말엔 뭐할랭~                                             | [주말랭이][weekend_publ]           | [🔗][weekend_prvw]  |
 | [퍼블리][publy]          | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지                  | [퍼블리][publy_publ]               |                    |
@@ -543,6 +544,10 @@
 [orange]: https://slowalk.co.kr/orangeletter/
 [orange_publ]: https://slowalk.co.kr/
 [orange_prvw]: https://slowalk.co.kr/orangeletter/
+
+[survey]: https://contents.opensurvey.co.kr/newsletter_subscribe.html
+[survey_publ]: https://www.opensurvey.co.kr/
+[survey_prvw]: https://blog.opensurvey.co.kr/
 
 [side]: https://sideproject.co.kr/newsletter
 [side_publ]: https://sideproject.co.kr/
