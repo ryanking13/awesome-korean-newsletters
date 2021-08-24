@@ -243,6 +243,7 @@
 | [굿뉴스][goodnews]         | 비정기 | 이메일    | 우리들 곁까지 전달되지 못하는 <br /> 세상의 좋은 뉴스        | [굿뉴스][goodnews_publ]        | [🔗][goodnews_prvw]  |
 | [뉴닉][newneek]            | 주 3회 | 이메일    | 우리가 시간이 없지, <br /> 세상이 안 궁금하냐                | [뉴닉][newneek_publ]           | [🔗][newneek_prvw]   |
 | [뉴스페퍼민트][mint]       | 비정기 | 홈페이지  | 화제가 된 외신을 소개                                        | [뉴스페퍼민트][mint_publ]      | [🔗][mint_prvw]      |
+| [뉴웨이즈][newways]        | 주 1회 | 이메일    | 말 통하는 젊치인을 만나고 싶다면                             | [뉴웨이즈][newways_publ]       |                     |
 | [더슬랭][slang]            | 주 3회 | 이메일    | 당신의 삶에 관련된 <br /> 다양한 사건과 정보들을 만나보세요! | [더슬랭][slang_publ]           | [🔗][slang_prvw]     |
 | [델타 월딩][delta]         | 주 3회 | 이메일    | 외교안보 전문 뉴스레터                                       | [델타 월딩][delta_publ]        | [🔗][delta_prvw]     |
 | [똑똑][dokdok]             | 주 4회 | 이메일    | 똑똑한 당신을 위한 <br/> 지식 큐레이션!                      | [똑똑][dokdok_publ]            | [🔗][dokdok_prvw]    |
@@ -268,6 +269,10 @@
 [macom]: https://member.mk.co.kr/newsletter/info.php
 [macom_publ]: https://www.mk.co.kr/
 [macom_prvw]: https://member.mk.co.kr/newsletter/page/2021/0322/
+
+[newways]: https://newways.kr/main/
+[newways_publ]: https://newways.kr/about/
+<!-- [newways_prvw]: -->
 
 [slang]: https://theslang.co/
 [slang_publ]: https://theslang.co/29
