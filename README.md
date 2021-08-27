@@ -476,6 +476,7 @@
 | [어거스트][august]       | 주 1회 | 이메일    | 지금을 읽고 싶은 사람들의 <br/> 미디어 이야기                   | [어거스트][august_publ]            | [🔗][august_prvw]   |
 | [어바웃우울][woowool]    | 주 1회 | 이메일    | 우울하고 무기력한 <br /> 익명의 우울이들을 위한 공간            | [어바웃우울][woowool_publ]         | [🔗][woowool_prvw]  |
 | [여름의 솜사탕][summer]  | 주 1회 | 이메일    | 취향 가득 담은 <br /> 생활밀착형 뉴스레터                       | [여름][summer_publ]                | [🔗][summer_prvw]   |
+| [애피레터][animal]       | 주 1회 | 이메일    | 한겨레가 만드는 동물뉴스                                        | [애니멀피플][animal_publ]          | [🔗][animal_prvw]   |
 | [앨리스모먼트][alice]    | 주 1회 | 이메일    | 함께 보면 재미있는 이슈                                         | [앨리스][alice_publ]               | [🔗][alice_prvw]    |
 | [오늘의 귀짤][cute]      | 주 1회 | 이메일    | 서로 갖고있는 귀여운 <br /> 사진과 이미지를 공유                | [귀짤단][cute_publ]                | [🔗][cute_prvw]     |
 | [오렌지레터][orange]     | 주 1회 | 이메일    | 소셜섹터 주요 행사와 이벤트, <br /> 펀딩, 채용, 모집, 공모사업  | [슬로워크][orange_publ]            | [🔗][orange_prvw]   |
@@ -570,6 +571,10 @@
 [summer]: https://mailchi.mp/9e0e525bc03b/summercandy/#mail
 [summer_publ]: https://brunch.co.kr/@nerf-this
 [summer_prvw]: https://mailchi.mp/9e0e525bc03b/summercandy/#mail
+
+[animal]: https://page.stibee.com/subscriptions/126971
+[animal_publ]: https://www.hani.co.kr/arti/animalpeople/home01.html
+[animal_prvw]: https://page.stibee.com/archives/126971
 
 [alice]: https://alicemedia.co/1d9f3dfb28654fa8a6d670fdaa40566f
 [alice_publ]: https://www.instagram.com/alice_letter/
