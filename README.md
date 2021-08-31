@@ -495,6 +495,7 @@
 | [SIDE][side]             | 주 1회 | 이메일    | 해보고 싶은 게 너무 많아서 <br /> 고민인 사람들을 위한 뉴스레터 | [SIDE][side_publ]                   | [🔗][side_prvw]         |
 | [SPREAD by B][spread]    | 주 1회 | 이메일    | 큐레이션한 브랜드 이야기를 전달                                 | [B][spread_publ]                    | [🔗][spread_publ]       |
 | [TMI.FM][tmi.fm]         | 주 2회 | 이메일    | 크리에이티브 오너쉽을 위한 <br /> 텍스트 라디오                 | [차우진][tmi.fm_publ]               | [🔗][tmi.fm_prvw]       |
+| [weekly D][weeklyd]      | 주 1회 | 이메일    | 매주 읽어볼 만한 <br /> 디자인 관련 글을 모아서                 | [지현][weeklyd_publ]                | [🔗][weeklyd_prvw]      |
 
 
 [theedit]: http://the-edit.co.kr/newsletter
@@ -652,6 +653,10 @@
 [tmi.fm]: https://maily.so/draft.briefing
 [tmi.fm_publ]: https://maily.so/draft.briefing
 [tmi.fm_prvw]: https://maily.so/draft.briefing
+
+[weeklyd]: https://page.stibee.com/subscriptions/29178
+[weeklyd_publ]: https://medium.com/@jihyeonkwon
+[weeklyd_prvw]: https://page.stibee.com/archives/29178
 
 ## 발간 중지
 
