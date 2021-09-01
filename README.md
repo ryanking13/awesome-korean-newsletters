@@ -482,6 +482,7 @@
 | [오렌지레터][orange]     | 주 1회 | 이메일    | 소셜섹터 주요 행사와 이벤트, <br /> 펀딩, 채용, 모집, 공모사업  | [슬로워크][orange_publ]             | [🔗][orange_prvw]       |
 | [오픈서베이][survey]     | 격주   | 이메일    | 오픈서베이의 트렌드 <br /> 리포트를 보내드립니다                | [오픈서베이][survey_publ]           | [🔗][survey_prvw]       |
 | [위클리어스][earth]      | 주 1회 | 이메일    | 한 눈에 보는 주간 환경 이슈                                     | [서울환경운동연합][earth_publ]      | [🔗][earth_prvw]        |
+| [주간 쁘금][bgm]         | 주 1회 | 이메일    | 당신의 영상에 필요한 <br /> 저작권 FREE 음악                    | [셀바이뮤직][bgm_publ]              |                        |
 | [주말랭이][weekend]      | 주 1회 | 이메일    | 이번 주말엔 뭐할랭~                                             | [주말랭이][weekend_publ]            | [🔗][weekend_prvw]      |
 | [캐릿][careet]           | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치            | [대학내일][careet_publ]             | [🔗][careet_prvw]       |
 | [틈틈이][lostandfound]   | 주 1회 | 이메일    | 좋으니까 나누고 싶은 마음으로, <br /> 취향 나눔 뉴스레터        | [로스트앤파운드][lostandfound_publ] | [🔗][lostandfound_prvw] |
@@ -613,6 +614,10 @@
 [earth]: https://www.weeklyearth.com/
 [earth_publ]: http://ecoseoul.or.kr/
 [earth_prvw]: https://www.weeklyearth.com/view
+
+[bgm]: https://docs.google.com/forms/d/e/1FAIpQLScCaqeKyDRUyADrL5guSx_Ny0YPqCat2Y3NJRjDYN84Zek7ow/viewform 
+[bgm_publ]: https://www.sellbuymusic.com/
+<!-- [bgm_prvw]: -->
 
 [weekend]: https://page.stibee.com/subscriptions/78183
 [weekend_publ]: https://www.notion.so/2937e3e4f9884521a79198eac3cd07ef
