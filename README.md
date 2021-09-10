@@ -128,6 +128,7 @@
 | [돈 밝히는 여자 cathy][cathy] | 주 1회 | 이메일    | 세상에서 가장 쉬운 돈으로 회사 읽기                           | [Cathy][cathy_publ]             | [🔗][cathy_prvw]       |
 | [돈키레터][donkey]            | 주 1회 | 이메일    | 돈 버는 열쇠를 알려주는 뉴스레터                              | [효라클][donkey_publ]           | [🔗][donkey_prvw]      |
 | [디스트리트][dstreet]         | 주 2회 | 이메일    | 매일경제와 함께하는 블록체인 미디어                           | [디스트리트][dstreet_publ]      | [🔗][dstreet_prvw]     |
+| [디센터][decenter]            | 주 1회 | 이메일    | 탈중앙화 시대를 여는 뉴스허브                                 | [디센터][decenter_publ]         |                       |
 | [리멤버 나우][remember]       | 주 5회 | 홈페이지  | 그날의 경제 이슈를 설명해주는 레터                            | [리멤버][remember_publ]         | [🔗][remember_prvw]    |
 | [머니네버슬립][moneynever]    | 주 5회 | 이메일    | 미국주식에 대해 얼마나 잘 아시나요                            | [머니네버슬립][moneynever_publ] | [🔗][moneynever_prvw]  |
 | [미래에셋 뉴스레터][mirae]    | 주 1회 | 이메일    | 펀드/투자 관련 정보                                           | [미래에셋][mirae_publ]          |                       |
@@ -155,6 +156,10 @@
 [donkey]: http://donkeyletter.com/
 [donkey_publ]: https://m.blog.naver.com/PostList.nhn?blogId=hyoracle
 [donkey_prvw]: https://www.notion.so/DONKEY-LETTER-2aac05b885f34c4e9d31a37695476577
+
+[decenter]: https://docs.google.com/forms/d/e/1FAIpQLSeyuIRpTwvunCDKiNRugBLM9PztJ-AZmmJe1KJ_thrAe7emDw/viewform
+[decenter_publ]: https://www.decenter.kr/
+<!-- [decenter] -->
 
 [remember]: https://now.rememberapp.co.kr/
 [remember_publ]: https://dramancompany.com/
