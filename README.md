@@ -264,6 +264,7 @@
 | [업클][upcle]              | 주 5회 | 이메일    | 5분 만에 하루가 보입니다                                     | [(주)업클][upcle_publ]         | [🔗][upcle_prvw]     |
 | [피렌체의 식탁][firenzedt] | 주 1회 | 이메일    | 행정, 입법, 사법, 언론계의 <br /> 주요 인사                  | [메디치미디어][firenzedt_publ] | [🔗][firenzedt_prvw] |
 | [휘클리][hweekly]          | 주 1회 | 이메일    | 10분 뉴스편지, 시사 뉴스레터                                 | [한겨레][hweekly_publ]         | [🔗][hweekly_prvw]   |
+| [EFG][efg]                 | 주 1회 | 이메일    | 세상에 이런 문제도 있었어?                                   | [EFG][efg_publ]                | [🔗][efg_prvw]       |
 | [Issue Today][hankyung]    | 주 5회 | 이메일    | 오늘 벌어질 이슈의 핵심을                                    | [한국경제][hankyung_publ]      | [🔗][hankyung_prvw]  |
 | [H:730][h730]              | 주 5회 | 이메일    | 당일 아침 한겨레신문의 주요뉴스를                            | [한겨레][h730_publ]            | [🔗][h730_prvw]      |
 
@@ -315,6 +316,10 @@
 [hweekly]: https://page.stibee.com/subscriptions/98338
 [hweekly_publ]: http://m.hani.co.kr/
 [hweekly_prvw]: https://page.stibee.com/archives/98338
+
+[efg]: https://page.stibee.com/subscriptions/58675
+[efg_publ]: https://efgvillage.com/
+[efg_prvw]: https://page.stibee.com/archives/58675
 
 [hankyung]: https://page.stibee.com/subscriptions/93883
 [hankyung_publ]: https://www.hankyung.com/
