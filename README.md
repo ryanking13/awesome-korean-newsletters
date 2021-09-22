@@ -262,6 +262,7 @@
 | [뭐라노][kookje]           | 주 5회 | 이메일    | 짧고 굵게, 핵심만 정리 <br /> 뉴스 세줄 요약                 | [국제신문][kookje_publ]        | [🔗][kookje_prvw]    |
 | [미스터동][mrdong]         | 주 3회 | 이메일    | 어디 가서 아는 척, <br /> 할 수 있는 정보                    | [미스터동][mrdong_publ]        |                     |
 | [업클][upcle]              | 주 5회 | 이메일    | 5분 만에 하루가 보입니다                                     | [(주)업클][upcle_publ]         | [🔗][upcle_prvw]     |
+| [폴리티카][politika]       | 주 1회 | 이메일    | 제대로 된 정치 시사 가이드                                   | [뉴트미디어][politika_publ]    | [🔗][politika_prvw]  |
 | [피렌체의 식탁][firenzedt] | 주 1회 | 이메일    | 행정, 입법, 사법, 언론계의 <br /> 주요 인사                  | [메디치미디어][firenzedt_publ] | [🔗][firenzedt_prvw] |
 | [휘클리][hweekly]          | 주 1회 | 이메일    | 10분 뉴스편지, 시사 뉴스레터                                 | [한겨레][hweekly_publ]         | [🔗][hweekly_prvw]   |
 | [EFG][efg]                 | 주 1회 | 이메일    | 세상에 이런 문제도 있었어?                                   | [EFG][efg_publ]                | [🔗][efg_prvw]       |
@@ -308,6 +309,10 @@
 [h730]: https://page.stibee.com/subscriptions/70653
 [h730_publ]: http://m.hani.co.kr/
 [h730_prvw]: https://page.stibee.com/archives/70653
+
+[politika]: https://politika.newt.news/
+[politika_publ]: https://politika.newt.news/
+[politika_prvw]: https://politika.newt.news/
 
 [firenzedt]: https://page.stibee.com/subscriptions/93955
 [firenzedt_publ]: https://firenzedt.com/
