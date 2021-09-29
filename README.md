@@ -472,6 +472,7 @@
 | 제목                     | 주기   | 발간 형태 | 설명                                                            | 발간인                              | 미리보기               |
 | :----------------------- | :----- | :-------- | :-------------------------------------------------------------- | :---------------------------------- | :--------------------- |
 | [까탈로그][theedit]      | 주 1회 | 이메일    | 까탈스럽게 고른 취향 뉴스레터                                   | [디에디트][theedit_publ]            |                        |
+| [노티크][notique]        | 주 1회 | 이메일    | 나에게 묻는, 나를 위한 질문                                     | [Notique][notique_publ]             | [🔗][notique_prvw]      |
 | [당근레터][nomwoosa]     | 격주   | 이메일    | 꼭 알아야 할 노동법                                             | [노무사][nomwoosa_publ]             | [🔗][nomwoosa_prvw]     |
 | [당근메일][carrot]       | 주 1회 | 이메일    | 생산성에 대한 <br/> 생각과 근육을 튼튼하게                      | [당근메일][carrot_publ]             |                        |
 | [대학내일][univ]         | 격주   | 이메일    | 밀레니얼-Z세대에 <br /> 관심 있는 분들을 위한 뉴스레터          | [대학내일][univ_publ]               | [🔗][univ_prvw]         |
@@ -518,6 +519,10 @@
 [theedit]: http://the-edit.co.kr/newsletter
 [theedit_publ]: http://the-edit.co.kr/
 <!-- [theedit_prvw]: -->
+
+[notique]: https://mailchi.mp/notique/subscribe-brunch-shimdoobo
+[notique_publ]: https://notique.co/
+[notique_prvw]: https://notique.co/
 
 [carrot]: http://carrotmail.kr/
 [carrot_publ]: http://carrotmail.kr/?page_id=1649
