@@ -485,6 +485,7 @@
 | [베베레터][veve]         | 주 1회 | 이메일    | 최신 베지테리언 뉴스                                            | [베리베지][veve_publ]               | [🔗][veve_prvw]         |
 | [비마이펫][mypet]        | 주 2회 | 이메일    | 반려동물 지식정보 채널                                          | [비마이펫][mypet_publ]              | [🔗][mypet_prvw]        |
 | [서울라이터즈][seoul]    | 주 1회 | 이메일    | 트렌드, 테크, 크리에이티브, <br /> 아이디어 발상을 위한 모든 것 | [서울라이터][seoul_publ]            | [🔗][seoul_prvw]        |
+| [센드위치][sendy]        | 주 1회 | 이메일    | 가장 쉬운 물류이야기                                            | [센디][sendy_publ]                  | [🔗][sendy_prvw]        |
 | [스여일삶][swik]         | 주 1회 | 이메일    | 스타트업 여성들의 일과 삶                                       | [스윅][swik]                        | [🔗][swik_prvw]         |
 | [스요레터][stibee]       | 주 1회 | 이메일    | 마케터와 크리에이터를 위한 <br/> 다양한 읽을거리                | [스티비][stibee_publ]               | [🔗][stibee_prvw]       |
 | [쏠트-호][saltho]        | 주 1회 | 이메일    | 꼭 알아두면 좋은 트렌드 소식                                    | [Designpress][saltho_publ]          | [🔗][saltho_prvw]       |
@@ -563,6 +564,10 @@
 [aha]: https://page.stibee.com/subscriptions/61765?groupIds=56635
 [aha_publ]: https://aha-contents.tistory.com/19
 [aha_prvw]: https://aha-contents.tistory.com/category/%EC%95%84%ED%95%98%EB%A0%88%ED%84%B0%20%EC%A7%80%EB%82%9C%20%ED%98%B8%20%EB%B3%B4%EA%B8%B0
+
+[sendy]: https://page.stibee.com/subscriptions/73402
+[sendy_publ]: https://sendy.ai/
+[sendy_prvw]: https://page.stibee.com/archives/73402
 
 [sigol]: https://page.stibee.com/subscriptions/74395
 [sigol_publ]: https://www.instagram.com/hello.sigol/
