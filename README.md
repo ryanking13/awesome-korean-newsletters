@@ -134,6 +134,7 @@
 | [머니네버슬립][moneynever]    | 주 5회 | 이메일    | 미국주식에 대해 얼마나 잘 아시나요                                 | [머니네버슬립][moneynever_publ] | [🔗][moneynever_prvw]  |
 | [미래에셋 뉴스레터][mirae]    | 주 1회 | 이메일    | 펀드/투자 관련 정보                                                | [미래에셋][mirae_publ]          |                       |
 | [순살브리핑][soonsal]         | 주 5회 | 이메일    | 모건스탠리 홍콩 출신 2인의 <br/> 금융·경제 뉴스 살코기             | [순살][soonsal_publ]            | [🔗][soonsal_prvw]     |
+| [씨로켓][crocket]             | 비정기 | 이메일    | 콘텐츠와 플랫폼, 기술 변화 브리핑                                  | [씨로켓][crocket_publ]          | [🔗][crocket_prvw]     |
 | [앤츠랩][ants]                | 주 3회 | 이메일    | 건강한 주식 맛집                                                   | [앤츠랩][ants_publ]             | [🔗][ants_prvw]        |
 | [어피티][uppity]              | 주 5회 | 이메일    | 사회초년생을 위한 <br/> 첫 번째 경제미디어                         | [포브미디어][uppity_publ]       | [🔗][uppity_prvw]      |
 | [위클리 호박너구리][raccoon]  | 주 1회 | 이메일    | 취준생, 직장인을 위한 <br /> 종합 경제 뉴스레터                    | [이재하][raccoon_publ]          | [🔗][raccoon_prvw]     |
@@ -181,6 +182,10 @@
 [soonsal]: https://page.stibee.com/subscriptions/51845
 [soonsal_publ]: https://soonsal.com/about
 [soonsal_prvw]: https://soonsal.com/
+
+[crocket]: https://page.stibee.com/subscriptions/55500
+[crocket_publ]: https://c-rocket.net/about/
+[crocket_prvw]: https://page.stibee.com/archives/55500
 
 [uppity]: https://uppity.co.kr/
 [uppity_publ]: https://uppity.co.kr/
