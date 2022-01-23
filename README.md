@@ -522,6 +522,7 @@
 | [틈틈이][lostandfound]      | 주 1회 | 이메일    | 좋으니까 나누고 싶은 마음으로, <br /> 취향 나눔 뉴스레터        | [로스트앤파운드][lostandfound_publ] | [🔗][lostandfound_prvw] |
 | [퍼블리][publy]             | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지                  | [퍼블리][publy_publ]                |                        |
 | [프로젝트 썸원][someone]    | 주 2회 | 이메일    | 읽었던 콘텐츠 중 <br/> 괜찮은 것들을 골라                       | [윤성원][someone_publ]              | [🔗][someone_prvw]      |
+| [해피와 귀여움 공장][happy] | 주 1회 | 이메일    | 공간, 물건, 음식, 예술 등 <br/> 다양한 주제의 귀여움을          | [해피][happy_publ]                  | [🔗][happy_prvw]        |
 | [혼자놀기대백과사전][alone] | 주 1회 | 이메일    | 1인 가구를 위한 정보                                            | [김유리][alone_publ]                | [🔗][alone_prvw]        |
 | [BE.LETTER][bletter]        | 주 1회 | 이메일    | 스티비 팀이 소개하는 <br /> 새로운 뉴스레터                     | [스티비][bletter_publ]              | [🔗][bletter_prvw]      |
 | [J의 편지][jletter]         | 주 1회 | 이메일    | 취향 큐레이션 뉴스레터                                          | [김혜준][jletter_publ]              | [🔗][jletter_prvw]      |
@@ -638,6 +639,10 @@
 [someone]: https://page.stibee.com/subscriptions/50103
 [someone_publ]: https://www.facebook.com/somewon.yoon
 [someone_prvw]: https://stibee.com/api/v1.0/emails/share/q5iDdzgvubYzN2wD6uJpzlcTQF1jvw==
+
+[happy]: https://page.stibee.com/subscriptions/144920
+[happy_publ]: instagram.com/happy_and_the_cute_factory/
+[happy_prvw]: https://page.stibee.com/archives/144920
 
 [alone]: https://page.stibee.com/subscriptions/97673
 [alone_publ]: https://brunch.co.kr/@flicker
