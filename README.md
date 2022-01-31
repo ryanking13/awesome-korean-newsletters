@@ -525,6 +525,7 @@
 | [해피와 귀여움 공장][happy] | 주 1회 | 이메일    | 공간, 물건, 음식, 예술 등 <br/> 다양한 주제의 귀여움을          | [해피][happy_publ]                  | [🔗][happy_prvw]        |
 | [혼자놀기대백과사전][alone] | 주 1회 | 이메일    | 1인 가구를 위한 정보                                            | [김유리][alone_publ]                | [🔗][alone_prvw]        |
 | [BE.LETTER][bletter]        | 주 1회 | 이메일    | 스티비 팀이 소개하는 <br /> 새로운 뉴스레터                     | [스티비][bletter_publ]              | [🔗][bletter_prvw]      |
+| [Fig. 1][fig1]              | 격주   | 이메일    | 물건의 역사와 그 물건의 <br /> 영어 표현을                      | [Fig. 1][fig1_publ]                 | [🔗][fig1_prvw]         |
 | [J의 편지][jletter]         | 주 1회 | 이메일    | 취향 큐레이션 뉴스레터                                          | [김혜준][jletter_publ]              | [🔗][jletter_prvw]      |
 | [Notion Wiki][notionw]      | 월 1회 | 이메일    | 노션 팁, 노하우, 템플릿                                         | [노션한국사용자모임][notionw_publ]  | [🔗][notionw_prvw]      |
 | [open.ads][open.ads]        | 주 1회 | 이메일    | 당신의 성장을 돕는 <br /> 마케팅 큐레이션 플랫폼                | [오픈애즈][open.ads_publ]           | [🔗][open.ads_prvw]     |
@@ -707,6 +708,10 @@
 [bletter]: https://page.stibee.com/subscriptions/62723
 [bletter_publ]: https://stibee.com/
 [bletter_prvw]: https://beletter.email/BE-LETTER-bd348a9092044a1bbc95adfa25fccb55
+
+[fig1]: https://page.stibee.com/subscriptions/111868
+[fig1_publ]: https://www.youtube.com/channel/UCL6I7-H2694CN6z4HHBI5iA/videos
+[fig1_prvw]: https://page.stibee.com/archives/111868
 
 [seoul]: https://page.stibee.com/subscriptions/72985
 [seoul_publ]: https://www.seoulwriter.com/about
