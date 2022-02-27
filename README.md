@@ -518,6 +518,7 @@
 | [작심4일][4days]            | 주 1회 | 이메일    | 3일보다 딱 하루 더 해보고 <br /> 싶은 것에 집중하는 챌린지      | [사일이][4days_publ]                | [🔗][4days_prvw]        |
 | [주간 쁘금][bgm]            | 주 1회 | 이메일    | 당신의 영상에 필요한 <br /> 저작권 FREE 음악                    | [셀바이뮤직][bgm_publ]              |                        |
 | [주말랭이][weekend]         | 주 1회 | 이메일    | 이번 주말엔 뭐할랭~                                             | [주말랭이][weekend_publ]            | [🔗][weekend_prvw]      |
+| [지구용][use4us]            | 주 2회 | 이메일    | 지구가 걱정되지만 뭘 어떻게 <br /> 해야할지 막막한 당신을 위해  | [서울경제신문][use4us_publ]            | [🔗][use4us_prvw]      |
 | [캐릿][careet]              | 주 1회 | 이메일    | MZ 세대가 지금 가장 <br/>열광하고 있는 트렌드를 캐치            | [대학내일][careet_publ]             | [🔗][careet_prvw]       |
 | [틈틈이][lostandfound]      | 주 1회 | 이메일    | 좋으니까 나누고 싶은 마음으로, <br /> 취향 나눔 뉴스레터        | [로스트앤파운드][lostandfound_publ] | [🔗][lostandfound_prvw] |
 | [퍼블리][publy]             | 주 1회 | 이메일    | 생산성, 비즈니스에서부터 <br/> 영감과 자극까지                  | [퍼블리][publy_publ]                |                        |
@@ -684,6 +685,10 @@
 [weekend]: https://page.stibee.com/subscriptions/78183
 [weekend_publ]: https://www.notion.so/2937e3e4f9884521a79198eac3cd07ef
 [weekend_prvw]: https://page.stibee.com/archives/78183
+
+[use4us]: https://page.stibee.com/subscriptions/110917
+[use4us_publ]: https://www.instagram.com/jiguyong_official/
+[use4us_prvw]: https://page.stibee.com/archives/110917
 
 [nomwoosa]: https://docs.google.com/forms/d/1J-zpdimjf2cfO0PK6BM9JYd-8VprljCp3SAq05BzWzA/viewform?edit_requested=true
 [nomwoosa_publ]: https://www.instagram.com/nomwoosa/
