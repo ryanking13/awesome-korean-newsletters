@@ -498,6 +498,7 @@
 | [대학내일][univ]            | 격주   | 이메일    | 밀레니얼-Z세대에 <br /> 관심 있는 분들을 위한 뉴스레터          | [대학내일][univ_publ]               | [🔗][univ_prvw]         |
 | [두부레터][dubu]            | 주 1회 | 이메일    | 내집마련 부린이를 위한 내집레터                                 | [베리빈][dubu_publ]                 | [🔗][dubu_prvw]         |
 | [디독][dedoc]               | 주 1회 | 이메일    | 해외 디자인 아티클 번역 뉴스레터                                |                                     |                        |
+| [레터비][bomapp]            | 주 2회 | 이메일    | 보험 소식과 트렌드                                              | [보맵][bomapp_publ]                 | [🔗][bomapp_prvw]       |
 | [마티의 각주][mati]         | 격주   | 이메일    | 편집진이 띄우는 마티의 책 이야기                                | [도서출판 마티][mati_publ]          | [🔗][mati_prvw]         |
 | [미리밋터][mrmt]            | 주 1회 | 이메일    | 미리 만나는 뉴미디어 이야기                                     | [미리밋터][mrmt_publ]               | [🔗][mrmt_prvw]         |
 | [밑미레터][meetme]          | 주 1회 | 이메일    | '진짜 나'를 만나는 시간                                         | [(주)밑미][meetme_publ]             | [🔗][meetme_prvw]       |
@@ -566,6 +567,11 @@
 [dedoc]: https://page.stibee.com/subscriptions/31254
 <!-- [dedoc_publ]: -->
 <!-- [dedoc_prvw]: -->
+
+[bomapp]: https://page.stibee.com/subscriptions/145758
+[bomapp_publ]: https://www.bomapp.co.kr/
+[bomapp_prvw]: https://page.stibee.com/archives/145758
+
 
 [mati]: https://page.stibee.com/subscriptions/74783
 [mati_publ]: http://matibooks.com/
