@@ -13,18 +13,19 @@
 
 ## 개발
 
-| 제목                             | 주기   | 발간 형태 | 설명                                             | 발간인                            | 미리보기                |
-| :------------------------------- | :----- | :-------- | :----------------------------------------------- | :-------------------------------- | :---------------------- |
-| [개발자스럽다][gaerae]           | 월 1회 | 이메일    | 다양한 기술 정보를 찾아 <br /> 가치를 더해 공유  | [개래닷컴][gaerae_publ]           | [🔗][gaerae_prvw]        |
-| [요즘IT][wishket]                | 주 1회 | 이메일    | 매일 업데이트되는 <br /> 요즘 사람들의 IT 이야기 | [위시켓][wishket_publ]            | [🔗][wishket_prvw]       |
-| [해킹짹짹][hacking]              | 주 3회 | 이메일    | 해킹/보안 관련 재미있는 컨탠츠를                 | [군자동 보안연구소][hacking_publ] | [🔗][hacking_prvw]       |
-| [Daily DevBlog][devblog]         | 주 7회 | 이메일    | 개발관련 블로그를 수집하여 제공                  | [Kwon Tae Kwan][devblog_publ]     | [🔗][devblog_prvw]       |
-| [Dev Event][dev_event]           | 주 1회 | 이메일    | 개발자 컨퍼런스 및 해커톤 일정                   | [용감한 친구들][dev_event_publ]   | [🔗][dev_event_prvw]     |
-| [FE News][fenews]                | 월 1회 | 홈페이지  | FE 기술 소식 큐레이션 뉴스레터                   | [Naver FE][fenews_publ]           | [🔗][fenews_prvw]        |
-| [GeekNews][geek]                 | 비정기 | 홈페이지  | Geek 들을 위한 뉴스 서비스                       | [Team Hada][geek_publ]            | [🔗][geek_prvw]          |
-| [Outsider's 기술 뉴스][outsider] | 격주   | 홈페이지  | 웹 개발 및 다양한 업계의 소식                    | [Outsider][outsider_publ]         | [🔗][outsider_prvw]      |
-| [TechBlogPosts][techblogposts]   | 비정기 | 홈페이지  | 여러 IT 기술 블로그 포스트                       | [정태훈][techblogposts_publ]      | [🔗][techblogposts_prvw] |
-| [WeeklyArxivTalk][arxivtalk]     | 주 1회 | 홈페이지  | 한주간 새롭게 공개된 <br /> AI 연구 논문 공유    | [하정우][arxivtalk_publ]          | [🔗][arxivtalk_prvw]     |
+| 제목                             | 주기   | 발간 형태 | 설명                                                   | 발간인                              | 미리보기                |
+| :------------------------------- | :----- | :-------- | :----------------------------------------------------- | :---------------------------------- | :---------------------- |
+| [개발자스럽다][gaerae]           | 월 1회 | 이메일    | 다양한 기술 정보를 찾아 <br /> 가치를 더해 공유        | [개래닷컴][gaerae_publ]             | [🔗][gaerae_prvw]        |
+| [요즘IT][wishket]                | 주 1회 | 이메일    | 매일 업데이트되는 <br /> 요즘 사람들의 IT 이야기       | [위시켓][wishket_publ]              | [🔗][wishket_prvw]       |
+| [해킹짹짹][hacking]              | 주 3회 | 이메일    | 해킹/보안 관련 재미있는 컨탠츠를                       | [군자동 보안연구소][hacking_publ]   | [🔗][hacking_prvw]       |
+| [Daily DevBlog][devblog]         | 주 7회 | 이메일    | 개발관련 블로그를 수집하여 제공                        | [Kwon Tae Kwan][devblog_publ]       | [🔗][devblog_prvw]       |
+| [Dev Event][dev_event]           | 주 1회 | 이메일    | 개발자 컨퍼런스 및 해커톤 일정                         | [용감한 친구들][dev_event_publ]     | [🔗][dev_event_prvw]     |
+| [FE News][fenews]                | 월 1회 | 홈페이지  | FE 기술 소식 큐레이션 뉴스레터                         | [Naver FE][fenews_publ]             | [🔗][fenews_prvw]        |
+| [GeekNews][geek]                 | 비정기 | 홈페이지  | Geek 들을 위한 뉴스 서비스                             | [Team Hada][geek_publ]              | [🔗][geek_prvw]          |
+| [Korean FE Article][fearticle]   | 비정기 | 이메일    | 영어로 작성된 프론트엔드 <br /> 아티클을 번역하고 공유 | [Korean FE Article][fearticle_publ] | [🔗][fearticle_prvw]     |
+| [Outsider's 기술 뉴스][outsider] | 격주   | 홈페이지  | 웹 개발 및 다양한 업계의 소식                          | [Outsider][outsider_publ]           | [🔗][outsider_prvw]      |
+| [TechBlogPosts][techblogposts]   | 비정기 | 홈페이지  | 여러 IT 기술 블로그 포스트                             | [정태훈][techblogposts_publ]        | [🔗][techblogposts_prvw] |
+| [WeeklyArxivTalk][arxivtalk]     | 주 1회 | 홈페이지  | 한주간 새롭게 공개된 <br /> AI 연구 논문 공유          | [하정우][arxivtalk_publ]            | [🔗][arxivtalk_prvw]     |
 
 [devblog]: http://daily-devblog.com/
 [devblog_publ]: https://taetaetae.github.io/
@@ -45,6 +46,10 @@
 [geek]: https://news.hada.io/
 [geek_publ]: https://hada.io/team
 [geek_prvw]: https://news.hada.io/
+
+[fearticle]: https://kofearticle.substack.com/subscribe
+[fearticle_publ]: https://spicy-lace-142.notion.site/TEAM-205b50cfcf6147b489cad206aa951942
+[fearticle_prvw]: https://kofearticle.substack.com/
 
 [outsider]: https://blog.outsider.ne.kr/category/Newsletter
 [outsider_publ]: https://twitter.com/outsideris
@@ -135,7 +140,7 @@
 | [디스트리트][dstreet]         | 주 2회 | 이메일    | 매일경제와 함께하는 블록체인 미디어                                | [디스트리트][dstreet_publ]      | [🔗][dstreet_prvw]     |
 | [디센터][decenter]            | 주 1회 | 이메일    | 탈중앙화 시대를 여는 뉴스허브                                      | [디센터][decenter_publ]         |                       |
 | [리멤버 나우][remember]       | 주 5회 | 홈페이지  | 그날의 경제 이슈를 설명해주는 레터                                 | [리멤버][remember_publ]         | [🔗][remember_prvw]    |
-| [매부리레터][maeburi]         | 주 1회 | 이메일    | 매일경제 부동산부 기자들이 만드는 <br /> 매일 보면 부자되는 이야기 | [매일경제][maeburi_publ]        | [🔗][maeburiZ_prvw]    |
+| [매부리레터][maeburi]         | 주 1회 | 이메일    | 매일경제 부동산부 기자들이 만드는 <br /> 매일 보면 부자되는 이야기 | [매일경제][maeburi_publ]        | [🔗][maeburi_prvw]    |
 | [머니네버슬립][moneynever]    | 주 5회 | 이메일    | 미국주식에 대해 얼마나 잘 아시나요                                 | [머니네버슬립][moneynever_publ] | [🔗][moneynever_prvw]  |
 | [미래에셋 뉴스레터][mirae]    | 주 1회 | 이메일    | 펀드/투자 관련 정보                                                | [미래에셋][mirae_publ]          |                       |
 | [순살브리핑][soonsal]         | 주 5회 | 이메일    | 모건스탠리 홍콩 출신 2인의 <br/> 금융·경제 뉴스 살코기             | [순살][soonsal_publ]            | [🔗][soonsal_prvw]     |
