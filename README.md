@@ -140,7 +140,7 @@
 | [디스트리트][dstreet]         | 주 2회 | 이메일    | 매일경제와 함께하는 블록체인 미디어                                | [디스트리트][dstreet_publ]      | [🔗][dstreet_prvw]     |
 | [디센터][decenter]            | 주 1회 | 이메일    | 탈중앙화 시대를 여는 뉴스허브                                      | [디센터][decenter_publ]         |                       |
 | [리멤버 나우][remember]       | 주 5회 | 홈페이지  | 그날의 경제 이슈를 설명해주는 레터                                 | [리멤버][remember_publ]         | [🔗][remember_prvw]    |
-| [매부리레터][maeburi]         | 주 1회 | 이메일    | 매일경제 부동산부 기자들이 만드는 <br /> 매일 보면 부자되는 이야기 | [매일경제][maeburi_publ]        | [🔗][maeburi_prvw]    |
+| [매부리레터][maeburi]         | 주 1회 | 이메일    | 매일경제 부동산부 기자들이 만드는 <br /> 매일 보면 부자되는 이야기 | [매일경제][maeburi_publ]        | [🔗][maeburi_prvw]     |
 | [머니네버슬립][moneynever]    | 주 5회 | 이메일    | 미국주식에 대해 얼마나 잘 아시나요                                 | [머니네버슬립][moneynever_publ] | [🔗][moneynever_prvw]  |
 | [미래에셋 뉴스레터][mirae]    | 주 1회 | 이메일    | 펀드/투자 관련 정보                                                | [미래에셋][mirae_publ]          |                       |
 | [순살브리핑][soonsal]         | 주 5회 | 이메일    | 모건스탠리 홍콩 출신 2인의 <br/> 금융·경제 뉴스 살코기             | [순살][soonsal_publ]            | [🔗][soonsal_prvw]     |
@@ -385,6 +385,7 @@
 | [인디즈 큐][indiespace]      | 주 1회 | 이메일    | 관객기자단이 써내려간 <br /> 독립영화 소식            | [INDIESPACE][indiespace_publ]    | [🔗][indiespace_prvw] |
 | [찰리씨네 다이어리][charlie] | 주 1회 | 이메일    | 21세기 이전 영화를 소개                               | [찰리][charlie_publ]             | [🔗][charlie_prvw]    |
 | [책돌이편지][bookstone]      | 주 1회 | 이메일    | 북스톤과 비컷 출판사의 이야기                         | [북스톤][bookstone_publ]         | [🔗][bookstone_prvw]  |
+| [콘샐러드][cornsalad]        | 주 1회 | 이메일    | 금주의 OTT 시장 소식과 핫한 신작들                    | [콘샐러드][cornsalad_publ]       | [🔗][cornsalad_prvw]  |
 | [플롯레터][plot]             | 주 2회 | 이메일    | 예술은 원래 쉽다                                      | [플롯][plot_publ]                | [🔗][plot_prvw]       |
 | [한편의 편지][minumsa]       | 주 1회 | 이메일    | 책보다 짧고 논문보다 쉬운 <br /> 한편의 인문학        | [민음사][minumsa_publ]           | [🔗][minumsa_prvw]    |
 | [ANTIEGG][antiegg]           | 주 2회 | 이메일    | 문화예술 큐레이션 플랫폼                              | [ANTIEGG][antiegg_publ]          | [🔗][antiegg_prvw]    |
@@ -449,6 +450,10 @@
 [bookstone]: https://www.book-stone.co.kr/subscribe
 [bookstone_publ]: https://www.book-stone.co.kr/index
 [bookstone_prvw]: https://www.book-stone.co.kr/letter
+
+[cornsalad]: https://page.stibee.com/subscriptions/144429
+[cornsalad_publ]: https://shorthaired-falcon-a8b.notion.site/2f8e7dbce5e145309b6270f1c0065904
+[cornsalad_prvw]: https://page.stibee.com/archives/144429
 
 [plot]: https://page.stibee.com/subscriptions/64956
 [plot_publ]: https://playalot.imweb.me/
