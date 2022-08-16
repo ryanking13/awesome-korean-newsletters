@@ -85,6 +85,7 @@
 | [BylineNetwork][byline]   | 주 5회 | 이메일    | 전문기자들의 멀티채널네트워크                                    | [BylineNetwork][byline_publ]   | [🔗][byline_prvw]      |
 | [Tech42][tech42]          | 주 2회 | 이메일    | AI 기반 테크 저널리즘을 추구하는 <br /> 디지털 & 비즈니스 미디어 | [Tech42][tech42_publ]          |                       |
 | [techNeedle][needle]      | 비정기 | 이메일    | 글로벌 테크 소식을 <br /> 인사이트와 함께 전합니다               | [techNeedle][tech42_publ]      | [🔗][needle_prvw]      |
+| [Yumm-IT][yummit]         | 월 1회 | 이메일    | IT 업계 핵심 트렌드부터 <br /> 꼭 알아야 하는 필수 상식까지      | [삼성SDS][yummit_publ]         | [🔗][yummit_prvw]      |
 
 
 [knowllipop]: https://page.stibee.com/subscriptions/95801
@@ -129,6 +130,10 @@
 [ebadak]: https://ebadak.news/
 [ebadak_publ]: https://ebadak.news/about/
 [ebadak_prvw]: https://ebadak.news/2021/03/27/mistakes-and-memes/
+
+[yummit]: https://page.stibee.com/subscriptions/118923
+[yummit_publ]: https://www.instagram.com/samsung.sds/
+[yummit_prvw]: https://page.stibee.com/archives/118923
 
 ## 경제 / 투자
 
