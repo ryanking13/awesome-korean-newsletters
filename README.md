@@ -378,6 +378,7 @@
 | [고독단][godok]              | 주 1회 | 이메일    | 지금 당신의 인생에 도움이 되는 책                     | [창비][godok_publ]               | [🔗][godok_prvw]      |
 | [글로벌게임뉴스][game]       | 주 1회 | 이메일    | 1주일간의 글로벌 게임 뉴스                            | [UrsusVenatus][game_publ]        | [🔗][game_prvw]       |
 | [글릿][glit]                 | 주 1회 | 이메일    | 클래식 음악 큐레이팅 서비스                           | [글릿][glit_publ]                | [🔗][glit_prvw]       |
+| [금요알람][alarm]            | 주 2회 | 이메일    | 주말에 볼만한 영화 이야기와 짧은 에세이를             | [금요알람][alarm_publ]           | [🔗][alarm_prvw]      |
 | [무무스트][moomo]            | 주 1회 | 이메일    | 세상에 하나 뿐인 특별한 <br /> 음악을 당신의 이야기로 | [무궁무진][moomo_publ]           | [🔗][moomo_prvw]      |
 | [문장줍기][munjang]          | 주 1회 | 이메일    | 당신에게 보내는 반짝거리는 문장들                     | [소얀][munjang_publ]             | [🔗][munjang_prvw]    |
 | [반비 책타래][banbi]         | 격주   | 이메일    | 책과 책을 잇는 편지                                   | [반비][banbi_publ]               | [🔗][banbi_prvw]      |
@@ -407,6 +408,10 @@
 [glit]: https://page.stibee.com/subscriptions/71156
 [glit_publ]: https://www.glit.pw/aboutus
 [glit_prvw]: https://www.glit.pw/
+
+[alarm]: https://page.stibee.com/subscriptions/107946
+[alarm_publ]: https://fridayalarm.tistory.com/
+[alarm_prvw]: https://fridayalarm.tistory.com/
 
 [moomo]: https://page.stibee.com/subscriptions/89655
 [moomo_publ]: https://www.moomoost.com/
