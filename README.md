@@ -388,6 +388,7 @@
 | [수플레][playlist]           | 주 1회 | 단 하나의 음악을 담은 <br/> 수요일의 플레이리스트     | [수플레][playlist_publ]          | [🔗][playlist_prvw]   |
 | [에그브렉][eggbreak]         | 격주   | 요즘 나오는 책 궁금할 땐                              | [에그브렉][eggbreak_publ]        | [🔗][eggbreak_prvw]   |
 | [영화로운][movie_hk]         | 주 1회 | 영화 전문 기자가 전하는 <br/> 남다른 시네마 토크      | [한국일보][movie_hk_publ]        | [🔗][movie_hk_prvw]   |
+| [영화 그리고 암전][darkness] | 주 1회 | 풍부한 영화 소식을 꼭꼭 담아                          | [영그암][darkness_publ]          | [🔗][darkness_prvw]   |
 | [인디즈 큐][indiespace]      | 주 1회 | 관객기자단이 써내려간 <br /> 독립영화 소식            | [INDIESPACE][indiespace_publ]    | [🔗][indiespace_prvw] |
 | [찰리씨네 다이어리][charlie] | 주 1회 | 21세기 이전 영화를 소개                               | [찰리][charlie_publ]             | [🔗][charlie_prvw]    |
 | [책돌이편지][bookstone]      | 주 1회 | 북스톤과 비컷 출판사의 이야기                         | [북스톤][bookstone_publ]         | [🔗][bookstone_prvw]  |
@@ -448,6 +449,11 @@
 [movie_hk]: https://www.hankookilbo.com/NewsLetter/movie
 [movie_hk_publ]: https://www.hankookilbo.com/NewsLetter/movie
 [movie_hk_prvw]: https://www.hankookilbo.com/NewsLetter/movie
+
+[darkness]: https://page.stibee.com/subscriptions/84614
+[darkness_publ]: https://www.instagram.com/film_and_darkness/
+[darkness_prvw]: https://page.stibee.com/archives/84614
+
 
 [indiespace]: https://indiespace.kr/notice/4975?fbclid=IwAR1ylkQChxvyCTvbbiNS34SqHXCh5o01iIN8UHLokbQAKWLpdIVoNrEDx-o
 [indiespace_publ]: https://indiespace.kr/
