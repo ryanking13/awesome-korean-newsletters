@@ -398,6 +398,7 @@
 | [한편의 편지][minumsa]         | 주 1회 | 책보다 짧고 논문보다 쉬운 <br /> 한편의 인문학        | [민음사][minumsa_publ]           | [🔗][minumsa_prvw]       |
 | [ANTIEGG][antiegg]             | 주 2회 | 문화예술 큐레이션 플랫폼                              | [ANTIEGG][antiegg_publ]          | [🔗][antiegg_prvw]       |
 | [Acoustic Weekly][acoustic]    | 주 1회 | 한 곡의 음악과 이야기                                 | [Acoustic Weekly][acoustic_publ] | [🔗][acoustic_prvw]      |
+| [stew!][stew]                  | 월 3회 | 맛있는 케이팝 뉴스레터                                | [stew][stew_publ]                | [🔗][stew_prvw]          |
 
 [godok]: https://page.stibee.com/subscriptions/61705
 [godok_publ]: https://switch.changbi.com/
@@ -491,6 +492,10 @@
 [acoustic]: https://docs.google.com/forms/d/e/1FAIpQLSdiPBwYMmdA4YFRGeaYnesal09Lc37HSdA5GQ6-m2OA37ipQw/viewform
 [acoustic_publ]: https://www.instagram.com/acoustic.weekly/
 [acoustic_prvw]: https://drive.google.com/drive/folders/1F1xi9KGRiTwGiL8XSh_bWltki0CDjZIv
+
+[stew]: https://page.stibee.com/subscriptions/167678
+[stew_publ]: https://www.instagram.com/we.eat.stew/
+[stew_prvw]: https://page.stibee.com/archives/167678
 
 ## 푸드
 
