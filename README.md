@@ -387,6 +387,7 @@
 | [비디오쟈-키][jockey]          | 주 1회 | 매주 영화와 드라마를 추천해드려요                     | [비디오쟈키][jockey_publ]        | [🔗][jockey_prvw]        |
 | [사적인 영화관][history_movie] | 월 2회 | 영화 속 굼금했던 <br/> 역사적 지식들을 모아           | [챙구][history_movie_publ]       | [🔗][history_movie_prvw] |
 | [수플레][playlist]             | 주 1회 | 단 하나의 음악을 담은 <br/> 수요일의 플레이리스트     | [수플레][playlist_publ]          | [🔗][playlist_prvw]      |
+| [시소레터][seesaw]             | 주 1회 | '시'간과 장'소'에 맞는 콘텐츠를 소개                  | [][seesaw_publ]                  | [🔗][seesaw_prvw]        |
 | [에그브렉][eggbreak]           | 격주   | 요즘 나오는 책 궁금할 땐                              | [에그브렉][eggbreak_publ]        | [🔗][eggbreak_prvw]      |
 | [영화로운][movie_hk]           | 주 1회 | 영화 전문 기자가 전하는 <br/> 남다른 시네마 토크      | [한국일보][movie_hk_publ]        | [🔗][movie_hk_prvw]      |
 | [영화 그리고 암전][darkness]   | 주 1회 | 풍부한 영화 소식을 꼭꼭 담아                          | [영그암][darkness_publ]          | [🔗][darkness_prvw]      |
@@ -444,6 +445,10 @@
 [history_movie_publ]: https://m.blog.naver.com/auve4374/222795323749
 [history_movie_prvw]: https://page.stibee.com/archives/149027
 
+[seesaw]: https://page.stibee.com/subscriptions/134170
+[seesaw_publ]: https://sisoletter.notion.site/502a0f167a134b3182b3dcea6d45fb6e
+[seesaw_prvw]: https://page.stibee.com/archives/134170
+
 [playlist]: https://page.stibee.com/subscriptions/66675
 [playlist_publ]: https://www.instagram.com/wed_playlist/
 [playlist_prvw]: https://www.notion.so/ARCHIVE-eddd1868837544c7aa6bbdcbc02ae533
@@ -459,7 +464,6 @@
 [darkness]: https://page.stibee.com/subscriptions/84614
 [darkness_publ]: https://www.instagram.com/film_and_darkness/
 [darkness_prvw]: https://page.stibee.com/archives/84614
-
 
 [indiespace]: https://indiespace.kr/notice/4975?fbclid=IwAR1ylkQChxvyCTvbbiNS34SqHXCh5o01iIN8UHLokbQAKWLpdIVoNrEDx-o
 [indiespace_publ]: https://indiespace.kr/
