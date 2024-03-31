@@ -503,13 +503,14 @@
 
 ## 푸드
 
-| 제목                       | 주기   | 설명                                                     | 발간인                          | 미리보기          |
-| :------------------------- | :----- | :------------------------------------------------------- | :------------------------------ | :---------------- |
-| [냠냠편지][yamyam]         | 격주   | 3인 3색 음식편지                                         | [냠냠편지][yamyam_publ]         | [🔗][yamyam_prvw]  |
-| [뉴술레터][newsool]        | 주 1회 | 수요일의 술맛나는 뉴스레터                               | [뉴술레터][newsool_publ]        | [🔗][newsool_prvw] |
-| [미쉬울랭][mshl]           | 주 1회 | 밀키트계의 미슐랭 가이드가 될거야                        | [미쉬울랭][mshl_publ]           | [🔗][mshl_prvw]    |
-| [빵슐랭가이드][breadguide] | 주 1회 | '빵 덕후' 현직 기자가 쓰는 <br /> 빵집 큐레이팅 뉴스레터 | [빵슐랭가이드][breadguide_publ] |                   |
-| [WKD 와인레터][wicked]     | 주 1회 | 3분만에 와인전문가 되는 법                               | [위키드][wicked_publ]           | [🔗][wicked_prvw]  |
+| 제목                       | 주기   | 설명                                                     | 발간인                          | 미리보기            |
+| :------------------------- | :----- | :------------------------------------------------------- | :------------------------------ | :------------------ |
+| [냠냠편지][yamyam]         | 격주   | 3인 3색 음식편지                                         | [냠냠편지][yamyam_publ]         | [🔗][yamyam_prvw]    |
+| [뉴술레터][newsool]        | 주 1회 | 수요일의 술맛나는 뉴스레터                               | [뉴술레터][newsool_publ]        | [🔗][newsool_prvw]   |
+| [미쉬울랭][mshl]           | 주 1회 | 밀키트계의 미슐랭 가이드가 될거야                        | [미쉬울랭][mshl_publ]           | [🔗][mshl_prvw]      |
+| [빵슐랭가이드][breadguide] | 주 1회 | '빵 덕후' 현직 기자가 쓰는 <br /> 빵집 큐레이팅 뉴스레터 | [빵슐랭가이드][breadguide_publ] |                     |
+| [푸드슬로우][foodsloww]    | 격주   | 식품 MD 들과 쌓아가는 미식 빅데이터                      | [푸드슬로우][foodsloww_publ]    | [🔗][foodsloww_prvw] |
+| [WKD 와인레터][wicked]     | 주 1회 | 3분만에 와인전문가 되는 법                               | [위키드][wicked_publ]           | [🔗][wicked_prvw]    |
 
 [yamyam]: https://page.stibee.com/subscriptions/76791
 [yamyam_publ]: https://www.instagram.com/yamyamletter/
@@ -526,6 +527,10 @@
 [breadguide]: https://page.stibee.com/subscriptions/69711
 [breadguide_publ]: https://breadguide.co.kr/
 <!-- [breadguide_prvw]: -->
+
+[foodsloww]: https://foodsloww.stibee.com/subscribe
+[foodsloww_publ]: https://www.instagram.com/foodsloww_/
+[foodsloww_prvw]: https://foodsloww.stibee.com/
 
 [wicked]: https://page.stibee.com/subscriptions/80149
 [wicked_publ]: https://www.wkd-seoul.com/
