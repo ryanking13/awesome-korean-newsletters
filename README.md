@@ -373,33 +373,35 @@
 
 ## 문화 / 예술
 
-| 제목                           | 주기   | 설명                                                  | 발간인                           | 미리보기                |
-| :----------------------------- | :----- | :---------------------------------------------------- | :------------------------------- | :---------------------- |
-| [고독단][godok]                | 주 1회 | 지금 당신의 인생에 도움이 되는 책                     | [창비][godok_publ]               | [🔗][godok_prvw]         |
-| [글로벌게임뉴스][game]         | 주 1회 | 1주일간의 글로벌 게임 뉴스                            | [UrsusVenatus][game_publ]        | [🔗][game_prvw]          |
-| [글릿][glit]                   | 주 1회 | 클래식 음악 큐레이팅 서비스                           | [글릿][glit_publ]                | [🔗][glit_prvw]          |
-| [금요알람][alarm]              | 주 2회 | 주말에 볼만한 영화 이야기와 짧은 에세이를             | [금요알람][alarm_publ]           | [🔗][alarm_prvw]         |
-| [무무스트][moomo]              | 주 1회 | 세상에 하나 뿐인 특별한 <br /> 음악을 당신의 이야기로 | [무궁무진][moomo_publ]           | [🔗][moomo_prvw]         |
-| [문장줍기][munjang]            | 주 1회 | 당신에게 보내는 반짝거리는 문장들                     | [소얀][munjang_publ]             | [🔗][munjang_prvw]       |
-| [반비 책타래][banbi]           | 격주   | 책과 책을 잇는 편지                                   | [반비][banbi_publ]               | [🔗][banbi_prvw]         |
-| [본느샹스][bonne]              | 격주   | 좋은 책 추천받고 싶을 땐                              | [본느샹스][bonne_publ]           | [🔗][bonne_prvw]         |
-| [북저널리즘 톡스][book]        | 주 1회 | 혁신가의 관점과 통찰, <br/> 에디터의 감각을 담아      | [스리체어스][book_publ]          | [🔗][book_prvw]          |
-| [비디오쟈-키][jockey]          | 주 1회 | 매주 영화와 드라마를 추천해드려요                     | [비디오쟈키][jockey_publ]        | [🔗][jockey_prvw]        |
-| [사적인 영화관][history_movie] | 월 2회 | 영화 속 굼금했던 <br/> 역사적 지식들을 모아           | [챙구][history_movie_publ]       | [🔗][history_movie_prvw] |
-| [수플레][playlist]             | 주 1회 | 단 하나의 음악을 담은 <br/> 수요일의 플레이리스트     | [수플레][playlist_publ]          | [🔗][playlist_prvw]      |
-| [시소레터][seesaw]             | 주 1회 | '시'간과 장'소'에 맞는 콘텐츠를 소개                  | [][seesaw_publ]                  | [🔗][seesaw_prvw]        |
-| [에그브렉][eggbreak]           | 격주   | 요즘 나오는 책 궁금할 땐                              | [에그브렉][eggbreak_publ]        | [🔗][eggbreak_prvw]      |
-| [영화로운][movie_hk]           | 주 1회 | 영화 전문 기자가 전하는 <br/> 남다른 시네마 토크      | [한국일보][movie_hk_publ]        | [🔗][movie_hk_prvw]      |
-| [영화 그리고 암전][darkness]   | 주 1회 | 풍부한 영화 소식을 꼭꼭 담아                          | [영그암][darkness_publ]          | [🔗][darkness_prvw]      |
-| [인디즈 큐][indiespace]        | 주 1회 | 관객기자단이 써내려간 <br /> 독립영화 소식            | [INDIESPACE][indiespace_publ]    | [🔗][indiespace_prvw]    |
-| [찰리씨네 다이어리][charlie]   | 주 1회 | 21세기 이전 영화를 소개                               | [찰리][charlie_publ]             | [🔗][charlie_prvw]       |
-| [책돌이편지][bookstone]        | 주 1회 | 북스톤과 비컷 출판사의 이야기                         | [북스톤][bookstone_publ]         | [🔗][bookstone_prvw]     |
-| [콘샐러드][cornsalad]          | 주 1회 | 금주의 OTT 시장 소식과 핫한 신작들                    | [콘샐러드][cornsalad_publ]       | [🔗][cornsalad_prvw]     |
-| [플롯레터][plot]               | 주 2회 | 예술은 원래 쉽다                                      | [플롯][plot_publ]                | [🔗][plot_prvw]          |
-| [한편의 편지][minumsa]         | 주 1회 | 책보다 짧고 논문보다 쉬운 <br /> 한편의 인문학        | [민음사][minumsa_publ]           | [🔗][minumsa_prvw]       |
-| [ANTIEGG][antiegg]             | 주 2회 | 문화예술 큐레이션 플랫폼                              | [ANTIEGG][antiegg_publ]          | [🔗][antiegg_prvw]       |
-| [Acoustic Weekly][acoustic]    | 주 1회 | 한 곡의 음악과 이야기                                 | [Acoustic Weekly][acoustic_publ] | [🔗][acoustic_prvw]      |
-| [stew!][stew]                  | 월 3회 | 맛있는 케이팝 뉴스레터                                | [stew][stew_publ]                | [🔗][stew_prvw]          |
+| 제목                               | 주기   | 설명                                                  | 발간인                                  | 미리보기                |
+| :--------------------------------- | :----- | :---------------------------------------------------- | :-------------------------------------- | :---------------------- |
+| [고독단][godok]                    | 주 1회 | 지금 당신의 인생에 도움이 되는 책                     | [창비][godok_publ]                      | [🔗][godok_prvw]         |
+| [글로벌게임뉴스][game]             | 주 1회 | 1주일간의 글로벌 게임 뉴스                            | [UrsusVenatus][game_publ]               | [🔗][game_prvw]          |
+| [글릿][glit]                       | 주 1회 | 클래식 음악 큐레이팅 서비스                           | [글릿][glit_publ]                       | [🔗][glit_prvw]          |
+| [금요알람][alarm]                  | 주 2회 | 주말에 볼만한 영화 이야기와 짧은 에세이를             | [금요알람][alarm_publ]                  | [🔗][alarm_prvw]         |
+| [무무스트][moomo]                  | 주 1회 | 세상에 하나 뿐인 특별한 <br /> 음악을 당신의 이야기로 | [무궁무진][moomo_publ]                  | [🔗][moomo_prvw]         |
+| [문장줍기][munjang]                | 주 1회 | 당신에게 보내는 반짝거리는 문장들                     | [소얀][munjang_publ]                    | [🔗][munjang_prvw]       |
+| [반비 책타래][banbi]               | 격주   | 책과 책을 잇는 편지                                   | [반비][banbi_publ]                      | [🔗][banbi_prvw]         |
+| [본느샹스][bonne]                  | 격주   | 좋은 책 추천받고 싶을 땐                              | [본느샹스][bonne_publ]                  | [🔗][bonne_prvw]         |
+| [북저널리즘 톡스][book]            | 주 1회 | 혁신가의 관점과 통찰, <br/> 에디터의 감각을 담아      | [스리체어스][book_publ]                 | [🔗][book_prvw]          |
+| [비디오쟈-키][jockey]              | 주 1회 | 매주 영화와 드라마를 추천해드려요                     | [비디오쟈키][jockey_publ]               | [🔗][jockey_prvw]        |
+| [사적인 영화관][history_movie]     | 월 2회 | 영화 속 굼금했던 <br/> 역사적 지식들을 모아           | [챙구][history_movie_publ]              | [🔗][history_movie_prvw] |
+| [수플레][playlist]                 | 주 1회 | 단 하나의 음악을 담은 <br/> 수요일의 플레이리스트     | [수플레][playlist_publ]                 | [🔗][playlist_prvw]      |
+| [시소레터][seesaw]                 | 주 1회 | '시'간과 장'소'에 맞는 콘텐츠를 소개                  | [][seesaw_publ]                         | [🔗][seesaw_prvw]        |
+| [에그브렉][eggbreak]               | 격주   | 요즘 나오는 책 궁금할 땐                              | [에그브렉][eggbreak_publ]               | [🔗][eggbreak_prvw]      |
+| [영화로운][movie_hk]               | 주 1회 | 영화 전문 기자가 전하는 <br/> 남다른 시네마 토크      | [한국일보][movie_hk_publ]               | [🔗][movie_hk_prvw]      |
+| [영화한잔][acupofmovie]            | 주 1회 | 한 잔에 가득 담은 영화 소식                           | [영화한잔][acupofmovie_publ]            | [🔗][acupofmovie_prvw]   |
+| [영화 그리고 암전][darkness]       | 주 1회 | 풍부한 영화 소식을 꼭꼭 담아                          | [영그암][darkness_publ]                 | [🔗][darkness_prvw]      |
+| [인디즈 큐][indiespace]            | 주 1회 | 관객기자단이 써내려간 <br /> 독립영화 소식            | [INDIESPACE][indiespace_publ]           | [🔗][indiespace_prvw]    |
+| [주말구조영화위원회][weekendmovie] | 주 1회 | 나른한 주말을 영화덕후 에디터들이 구조해드립니다.     | [주말구조영화위원회][weekendmovie_publ] | [🔗][weekendmovie_prvw]  |
+| [찰리씨네 다이어리][charlie]       | 주 1회 | 21세기 이전 영화를 소개                               | [찰리][charlie_publ]                    | [🔗][charlie_prvw]       |
+| [책돌이편지][bookstone]            | 주 1회 | 북스톤과 비컷 출판사의 이야기                         | [북스톤][bookstone_publ]                | [🔗][bookstone_prvw]     |
+| [콘샐러드][cornsalad]              | 주 1회 | 금주의 OTT 시장 소식과 핫한 신작들                    | [콘샐러드][cornsalad_publ]              | [🔗][cornsalad_prvw]     |
+| [플롯레터][plot]                   | 주 2회 | 예술은 원래 쉽다                                      | [플롯][plot_publ]                       | [🔗][plot_prvw]          |
+| [한편의 편지][minumsa]             | 주 1회 | 책보다 짧고 논문보다 쉬운 <br /> 한편의 인문학        | [민음사][minumsa_publ]                  | [🔗][minumsa_prvw]       |
+| [ANTIEGG][antiegg]                 | 주 2회 | 문화예술 큐레이션 플랫폼                              | [ANTIEGG][antiegg_publ]                 | [🔗][antiegg_prvw]       |
+| [Acoustic Weekly][acoustic]        | 주 1회 | 한 곡의 음악과 이야기                                 | [Acoustic Weekly][acoustic_publ]        | [🔗][acoustic_prvw]      |
+| [stew!][stew]                      | 월 3회 | 맛있는 케이팝 뉴스레터                                | [stew][stew_publ]                       | [🔗][stew_prvw]          |
 
 [godok]: https://page.stibee.com/subscriptions/61705
 [godok_publ]: https://switch.changbi.com/
@@ -461,6 +463,10 @@
 [movie_hk_publ]: https://www.hankookilbo.com/NewsLetter/movie
 [movie_hk_prvw]: https://www.hankookilbo.com/NewsLetter/movie
 
+[acupofmovie]: https://acupofmovie.stibee.com/subscribe/
+[acupofmovie_publ]: https://www.instagram.com/acupof_movie/
+[acupofmovie_prvw]: https://acupofmovie.stibee.com/
+
 [darkness]: https://page.stibee.com/subscriptions/84614
 [darkness_publ]: https://www.instagram.com/film_and_darkness/
 [darkness_prvw]: https://page.stibee.com/archives/84614
@@ -468,6 +474,10 @@
 [indiespace]: https://indiespace.kr/notice/4975?fbclid=IwAR1ylkQChxvyCTvbbiNS34SqHXCh5o01iIN8UHLokbQAKWLpdIVoNrEDx-o
 [indiespace_publ]: https://indiespace.kr/
 [indiespace_prvw]: https://indiespace.tistory.com/4769
+
+[weekendmovie]: https://maily.so/weekendmovie
+[weekendmovie_publ]: https://www.instagram.com/wknd_movie/
+[weekendmovie_prvw]: https://maily.so/weekendmovie
 
 [charlie]: https://page.stibee.com/subscriptions/100765
 [charlie_publ]: https://www.notion.so/0f4469805d2344129b6de4a1a1b8ac99
@@ -535,6 +545,23 @@
 [wicked]: https://page.stibee.com/subscriptions/80149
 [wicked_publ]: https://www.wkd-seoul.com/
 [wicked_prvw]: https://www.wkd-seoul.com/letter
+
+## 여행
+
+
+| 제목                               | 주기   | 설명                                        | 발간인                                 | 미리보기                |
+| :--------------------------------- | :----- | :------------------------------------------ | :------------------------------------- | :---------------------- |
+| [여행 어디로 갈까?][wheretotravel] | 주 1회 | 국내외 다양한 여행지를 소개                 | [여행 어디로 갈까][wheretotravel_publ] | [🔗][wheretotravel_prvw] |
+| [탐방레터][tambang]                | 주 1회 | 로컬 탐색 미디어 '탐방'이 발행하는 뉴스레터 | [탐방][tambang_publ]                   | [🔗][tambang_prvw]       |
+
+[wheretotravel]: https://page.stibee.com/subscriptions/240040
+[wheretotravel_publ]: https://www.instagram.com/wheretotravel_official/
+[wheretotravel_prvw]: https://page.stibee.com/archives/240040
+
+[tambang]: https://tambangletter.stibee.com/subscribe/
+[tambang_publ]: https://www.instagram.com/tambang.kr/
+[tambang_prvw]: https://tambangletter.stibee.com/
+
 
 
 ## 기타
