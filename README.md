@@ -70,6 +70,8 @@
 [dev_event]: https://github.com/brave-people/Dev-Event
 [dev_event_publ]: https://github.com/brave-people
 [dev_event_prvw]: https://github.com/brave-people/Dev-Event-Subscribe/issues
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
+
 ## 테크 / IT
 
 | 제목                      | 주기   | 설명                                                             | 발간인                         | 미리보기              |
