@@ -17,6 +17,7 @@
 | :------------------------------- | :----- | :----------------------------------------------------- | :---------------------------------- | :---------------------- |
 | [개발자스럽다][gaerae]           | 월 1회 | 다양한 기술 정보를 찾아 <br /> 가치를 더해 공유        | [개래닷컴][gaerae_publ]             | [🔗][gaerae_prvw]        |
 | [요즘IT][wishket]                | 주 1회 | 매일 업데이트되는 <br /> 요즘 사람들의 IT 이야기       | [위시켓][wishket_publ]              | [🔗][wishket_prvw]       |
+| [해커블][hackable]               | 주 1회 | 해커톤·AI공모전·창업지원사업 마감 소식                 | [해커블][hackable_publ]             | [🔗][hackable_prvw]      |
 | [해킹짹짹][hacking]              | 주 3회 | 해킹/보안 관련 재미있는 컨탠츠를                       | [군자동 보안연구소][hacking_publ]   | [🔗][hacking_prvw]       |
 | [Daily DevBlog][devblog]         | 주 7회 | 개발관련 블로그를 수집하여 제공                        | [Kwon Tae Kwan][devblog_publ]       | [🔗][devblog_prvw]       |
 | [Dev Event][dev_event]           | 주 1회 | 개발자 컨퍼런스 및 해커톤 일정                         | [용감한 친구들][dev_event_publ]     | [🔗][dev_event_prvw]     |
@@ -38,6 +39,10 @@
 [hacking]: https://page.stibee.com/subscriptions/130678/
 [hacking_publ]: https://hackyboiz.github.io/about/
 [hacking_prvw]: https://page.stibee.com/archives/130678
+
+[hackable]: https://hackable.co.kr/newsletter/subscribe
+[hackable_publ]: https://hackable.co.kr
+[hackable_prvw]: https://hackable.co.kr
 
 [fenews]: https://github.com/naver/fe-news
 [fenews_publ]: https://github.com/naver/fe-news/tree/fe-org
